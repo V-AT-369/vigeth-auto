@@ -1,8 +1,10 @@
 [build]
-builder = "dockerfile"
+builder = "RAILPACK"
 
 [deploy]
+startCommand = "python -u fetch_tenders.py"
 numReplicas = 1
 sleepApplication = false
-restartPolicyType = "on_failure"
-restartPolicyMaxRetries = 5
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 2
+cronSchedule = "30 0 * * *"
