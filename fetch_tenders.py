@@ -61,10 +61,17 @@ def fetch_uk_find_a_tender(days_back=14, limit=100):
         for r in releases:
             tender = r.get("tender", {}) or {}
             items = tender.get("items", []) or []
-            is_it = any(
-                (it.get("classification", {}) or {}).get("id", "").startswith(IT_CPV_PREFIX)
-                for it in items
-            )
+            def item_is_it(it):
+                classifications = []
+                main_class = it.get("classification")
+                if main_class:
+                    classifications.append(main_class)
+                classifications.extend(it.get("additionalClassifications", []) or [])
+                return any(
+                    (c or {}).get("id", "").startswith(IT_CPV_PREFIX)
+                    for c in classifications
+                )
+            is_it = any(item_is_it(it) for it in items)
             if not is_it:
                 continue
             buyer_name = (r.get("buyer", {}) or {}).get("name", "Unknown buyer")
@@ -127,6 +134,10 @@ def main():
             f.write("\n")
 
     print(f"Wrote {len(all_results)} results to tenders_digest.md and tenders_raw.json", flush=True)
+    print("---DIGEST START---", flush=True)
+    for r in all_results:
+        print(f"* {r['title']} | {r['buyer']} | deadline: {r.get('deadline', 'n/a')} | {r.get('value_amount', '')} {r.get('value_currency', '')} | {r.get('url', '')}", flush=True)
+    print("---DIGEST END---", flush=True)
     sys.stdout.flush()
     time.sleep(3)  # give the log collector time to ship output before the container exits
 
