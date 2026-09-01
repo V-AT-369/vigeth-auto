@@ -48,13 +48,12 @@ def fetch_uk_find_a_tender(days_back=14, limit=100):
         "limit": limit,
     }
     results = []
-    cursor = None
+    next_url = base
+    next_params = params
     page = 0
     while True:
-        if cursor:
-            params["cursor"] = cursor
         print(f"  UK: requesting page {page}...", flush=True)
-        resp = requests.get(base, params=params, timeout=30)
+        resp = requests.get(next_url, params=next_params, timeout=30)
         resp.raise_for_status()
         data = resp.json()
         releases = data.get("releases", [])
@@ -79,10 +78,12 @@ def fetch_uk_find_a_tender(days_back=14, limit=100):
                 "value_currency": value.get("currency"),
                 "url": r.get("uri") or "",
             })
-        cursor = data.get("links", {}).get("next")
+        next_link = data.get("links", {}).get("next")
         page += 1
-        if not cursor or not releases or page > 20:
+        if not next_link or not releases or page > 20:
             break
+        next_url = next_link  # OCDS "next" link is already a full URL
+        next_params = None
     return results
 
 
