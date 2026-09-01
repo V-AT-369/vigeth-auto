@@ -1,0 +1,4 @@
+tenders_raw.json
+tenders_digest.md
+__pycache__/
+*.pyc
