@@ -1,17 +1,11 @@
 #!/usr/bin/env python3
 """
-Vigeth Tenders — IT/software services tender fetcher (v1)
+Vigeth Tenders — IT/software services tender fetcher (v1.1)
 
 What this does:
   Pulls recent tender notices from official, free, open government procurement
   APIs and filters them down to IT/software services (CPV division 72), then
   writes a plain digest file you can turn into content.
-
-Why it's not running inside the Claude session:
-  Neither Claude's cloud workspace nor the sandboxed shell on this computer has
-  outbound internet access to these government domains (blocked by network
-  policy). Your own machine, running this script directly in a normal terminal
-  (not through the Claude sandbox), has full internet access — so run it here.
 
 Status of each source in this version:
   - UK Find a Tender Service: fully implemented (official OCDS API, no key needed).
@@ -22,19 +16,20 @@ Status of each source in this version:
 
 Usage:
   pip install requests
-  python fetch_tenders.py
+  python -u fetch_tenders.py
   (writes tenders_digest.md and tenders_raw.json next to this script)
-
-To automate daily: Windows Task Scheduler -> run this command once a day.
 """
 import json
 import sys
+import time
 from datetime import datetime, timedelta, timezone
+
+print("Vigeth tender fetcher starting...", flush=True)
 
 try:
     import requests
 except ImportError:
-    print("Missing dependency. Run: pip install requests")
+    print("Missing dependency. Run: pip install requests", flush=True)
     sys.exit(1)
 
 IT_CPV_PREFIX = "72"  # CPV division 72 = IT services: consulting, software dev, internet, support
@@ -54,13 +49,16 @@ def fetch_uk_find_a_tender(days_back=14, limit=100):
     }
     results = []
     cursor = None
+    page = 0
     while True:
         if cursor:
             params["cursor"] = cursor
+        print(f"  UK: requesting page {page}...", flush=True)
         resp = requests.get(base, params=params, timeout=30)
         resp.raise_for_status()
         data = resp.json()
         releases = data.get("releases", [])
+        print(f"  UK: page {page} returned {len(releases)} releases", flush=True)
         for r in releases:
             tender = r.get("tender", {}) or {}
             items = tender.get("items", []) or []
@@ -82,7 +80,8 @@ def fetch_uk_find_a_tender(days_back=14, limit=100):
                 "url": r.get("uri") or "",
             })
         cursor = data.get("links", {}).get("next")
-        if not cursor or not releases:
+        page += 1
+        if not cursor or not releases or page > 20:
             break
     return results
 
@@ -90,7 +89,6 @@ def fetch_uk_find_a_tender(days_back=14, limit=100):
 def fetch_austender_stub():
     """Placeholder — confirm the live API base URL and auth requirements against
     https://github.com/austender/austender-ocds-api before implementing.
-    Returns an empty list so the script still runs end-to-end without it.
     """
     return []
 
@@ -100,9 +98,9 @@ def main():
     try:
         uk_results = fetch_uk_find_a_tender()
         all_results.extend(uk_results)
-        print(f"UK Find a Tender: {len(uk_results)} IT/software matches")
+        print(f"UK Find a Tender: {len(uk_results)} IT/software matches", flush=True)
     except Exception as e:
-        print(f"UK Find a Tender fetch failed: {e}")
+        print(f"UK Find a Tender fetch failed: {type(e).__name__}: {e}", flush=True)
 
     au_results = fetch_austender_stub()
     all_results.extend(au_results)
@@ -127,7 +125,9 @@ def main():
                 f.write(f"- Link: {r['url']}\n")
             f.write("\n")
 
-    print(f"Wrote {len(all_results)} results to tenders_digest.md and tenders_raw.json")
+    print(f"Wrote {len(all_results)} results to tenders_digest.md and tenders_raw.json", flush=True)
+    sys.stdout.flush()
+    time.sleep(3)  # give the log collector time to ship output before the container exits
 
 
 if __name__ == "__main__":

@@ -1,1 +1,1 @@
-web: python fetch_tenders.py
+web: python -u fetch_tenders.py
