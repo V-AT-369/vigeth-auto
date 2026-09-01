@@ -1,0 +1,41 @@
+name: Vigeth Tender Fetcher
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tender fetcher
+        run: python -u fetch_tenders.py
+
+      - name: Publish digest to job summary
+        if: always()
+        run: |
+          if [ -f tenders_digest.md ]; then
+            cat tenders_digest.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "No digest file produced." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload digest as downloadable artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tenders-digest-${{ github.run_id }}
+          path: |
+            tenders_digest.md
+            tenders_raw.json
+          retention-days: 30
