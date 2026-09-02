@@ -1,5 +1,17 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-01T17:27:21.416065+00:00
+Generated: 2026-09-02T04:56:41.547735+00:00
+
+## Finance & Procurement Replacement Programme
+- Source: UK Find a Tender
+- Buyer: Oxford Health NHS Foundation Trust
+- Deadline: None
+- Estimated value: 1500000.0 GBP
+
+## Finance & Procurement Replacement Programme
+- Source: UK Find a Tender
+- Buyer: Oxford Health NHS Foundation Trust
+- Deadline: None
+- Estimated value: 1000000.0 GBP
 
 ## Prisoners Building Homes - Professional, Technical and Programme Delivery Support Services
 - Source: UK Find a Tender
