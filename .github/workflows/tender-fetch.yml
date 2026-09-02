@@ -56,3 +56,20 @@ jobs:
           git add latest-digest.md
           git commit -m "Update latest digest [skip ci]" || echo "No changes to commit"
           git push
+
+      - name: Build deduped HTML email body
+        if: always()
+        run: python3 build_email.py
+
+      - name: Email the digest
+        if: always()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.GMAIL_USER }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "Vigeth Tenders Daily Digest - ${{ env.TENDER_COUNT }} opportunities"
+          html_body: file://email_body.html
+          to: vijis4@gmail.com
+          from: Vigeth Tenders Bot
