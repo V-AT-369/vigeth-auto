@@ -1,5 +1,113 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-03T04:54:48.781933+00:00
+Generated: 2026-09-04T04:57:49.771154+00:00
+
+## ServiceNow Development & Managed Services Delivery Partner
+- Source: UK Find a Tender
+- Buyer: Government Property Agency
+- Deadline: None
+- Estimated value: 2500000 GBP
+
+## ServiceNow Development & Managed Services Delivery Partner
+- Source: UK Find a Tender
+- Buyer: Government Property Agency
+- Deadline: None
+- Estimated value: 2500000 GBP
+
+## DSA - Phase II Website Design & Implementation
+- Source: UK Find a Tender
+- Buyer: City of Doncaster Council
+- Deadline: 2026-10-05T15:00:00+00:00
+- Estimated value: 100000 GBP
+
+## NW2964 - Microsoft 365, AI and Intelligent Automation Partner Framework Agreement
+- Source: UK Find a Tender
+- Buyer: NORTHUMBRIAN WATER LIMITED
+- Deadline: 2026-10-05T12:00:00+01:00
+- Estimated value: 7200000 GBP
+
+## Level 4 Escalation Support
+- Source: UK Find a Tender
+- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
+- Deadline: None
+
+## Mobile Data Terminal Software
+- Source: UK Find a Tender
+- Buyer: Mid and West Wales Fire and Rescue Authority
+- Deadline: 2026-09-11T12:00:00+01:00
+- Estimated value: 3000000.0 GBP
+
+## Outsourced ICT Infrastructure Management and associated Services
+- Source: UK Find a Tender
+- Buyer: Worcestershire Acute Hospitals NHS Trust
+- Deadline: 2026-09-25T16:00:00+01:00
+- Estimated value: 49999999.0 GBP
+
+## ID755 - KIM Strategy - Off-the-Shelf Housing Management Solution
+- Source: UK Find a Tender
+- Buyer: CORNERSTONE HOUSING LIMITED
+- Deadline: None
+
+## Housing and Asset Management System (HAMS)
+- Source: UK Find a Tender
+- Buyer: Oxford City Council
+- Deadline: 2026-10-08T14:00:00+01:00
+
+## 003918 - Contract for AI Enabled Reaction Software to support the effective delivery of Subject Access Requests (SARs)
+- Source: UK Find a Tender
+- Buyer: Durham County Council
+- Deadline: None
+- Estimated value: 100000 GBP
+
+## ICT Managed & Professional Services
+- Source: UK Find a Tender
+- Buyer: Kent County Council trading as Procurement Services
+- Deadline: None
+- Estimated value: 500000000.0 GBP
+
+## King's Trust DBS and Vetting Services
+- Source: UK Find a Tender
+- Buyer: The King's Trust
+- Deadline: 2026-09-29T12:00:00+01:00
+- Estimated value: 65000.0 GBP
+
+## Remote ID Service Provider
+- Source: UK Find a Tender
+- Buyer: Civil Aviation Authority
+- Deadline: None
+
+## Hosting Capability Supplier Pre-Market Engagement
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 183000000 GBP
+
+## OPAS-G2 Occupational Health Software Solution
+- Source: UK Find a Tender
+- Buyer: Sussex Community NHS Foundation Trust
+- Deadline: None
+
+## Production of guidance on producing an effective council data strategy
+- Source: UK Find a Tender
+- Buyer: Improvement and Development Agency for Local Government (IDeA)
+- Deadline: 2026-09-23T22:59:59Z
+
+## Royal Navy Museums Broadband Services
+- Source: UK Find a Tender
+- Buyer: Royal Navy Museums
+- Deadline: 2026-10-05T17:00:00+01:00
+- Estimated value: 250000 GBP
+
+## UK4 Notice - DDAITF/008 Computer Vision Capability - Model Arena Comp
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 2500000 GBP
+
+## Royal Navy Museums Broadband Services
+- Source: UK Find a Tender
+- Buyer: Royal Navy Museums
+- Deadline: 2026-10-05T17:00:00+01:00
+- Estimated value: 250000 GBP
 
 ## Data Management Solution for Train Service Specification Data
 - Source: UK Find a Tender
@@ -397,113 +505,4 @@ Generated: 2026-09-03T04:54:48.781933+00:00
 - Buyer: HM Revenue & Customs
 - Deadline: 2026-11-30T23:59:59Z
 - Estimated value: 5500000 GBP
-
-## CCHA - 0322 Electronic Tendering and Contract Management System
-- Source: UK Find a Tender
-- Buyer: Castles and Coasts
-- Deadline: None
-- Estimated value: 80000 GBP
-
-## DLSITT1105 - New Diamond Website
-- Source: UK Find a Tender
-- Buyer: DIAMOND LIGHT SOURCE LIMITED
-- Deadline: 2026-09-28T12:00:00+01:00
-- Estimated value: 90000.0 GBP
-
-## Preliminary Market Engagement: Prescription Processing and Validation Solution
-- Source: UK Find a Tender
-- Buyer: Business Services Organisation Procurement and Logistics Service
-- Deadline: None
-- Estimated value: 1 GBP
-
-## Operations and Engineering Services Framework
-- Source: UK Find a Tender
-- Buyer: Caledonian Sleeper Limited
-- Deadline: 2026-10-05T16:00:00+01:00
-- Estimated value: 800000 GBP
-
-## TEN-2627-047 (PA2023) – Asset Allocation System
-- Source: UK Find a Tender
-- Buyer: National Employment Savings Trust (NEST) Corporation
-- Deadline: 2026-10-07T17:00:00+01:00
-- Estimated value: 7300000 GBP
-
-## Backup and Recovery Software
-- Source: UK Find a Tender
-- Buyer: London Borough of Redbridge
-- Deadline: None
-
-## Care Planning, Rostering and Payroll Solution
-- Source: UK Find a Tender
-- Buyer: Cheshire West and Chester Council
-- Deadline: None
-
-## Port of Dover - OPTICS Software
-- Source: UK Find a Tender
-- Buyer: Dover Harbour Board
-- Deadline: None
-- Estimated value: 1500000 GBP
-
-## Service Integration and Management  System (SIAM)
-- Source: UK Find a Tender
-- Buyer: The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)
-- Deadline: 2026-09-25T17:00:00+01:00
-- Estimated value: 180000000 GBP
-
-## Network for Neighbourhoods
-- Source: UK Find a Tender
-- Buyer: Ministry of Housing, Communities and Local Government (MCHLG)
-- Deadline: 2026-10-06T17:00:00+01:00
-- Estimated value: 18030000.0 GBP
-
-## Record Information Management - Y27003
-- Source: UK Find a Tender
-- Buyer: Kent County Council trading as Procurement Services
-- Deadline: None
-- Estimated value: 50000000.0 GBP
-
-## Provision of Wi-Fi Services on Trains
-- Source: UK Find a Tender
-- Buyer: WM TRAINS LIMITED
-- Deadline: None
-- Estimated value: 3797135 GBP
-
-## ***PRE-MARKET ENGAGEMENT EXERCISE***FOR TENDER Bid Writing Framework REF 2627 TNDR CP 002 PME
-- Source: UK Find a Tender
-- Buyer: Fermanagh and Omagh District Council
-- Deadline: None
-- Estimated value: 120000 GBP
-
-## Ticket Gate Maintenance
-- Source: UK Find a Tender
-- Buyer: WM TRAINS LIMITED
-- Deadline: None
-- Estimated value: 4986877 GBP
-
-## SOFTWARE CHANNEL PARTNER CONTRACT
-- Source: UK Find a Tender
-- Buyer: The Secretary of State for the Home Department
-- Deadline: None
-
-## Provision of IT Goods & Software Licenses for WM Trains Ltd
-- Source: UK Find a Tender
-- Buyer: WM TRAINS LIMITED
-- Deadline: None
-- Estimated value: 4196813 GBP
-
-## Aviation Data
-- Source: UK Find a Tender
-- Buyer: VisitScotland
-- Deadline: None
-
-## Central User Centred Design
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-
-## Creative DNA Twende Soko 2.0
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-09-11T22:00:00Z
-- Estimated value: 80000.0 GBP
 
