@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-06T04:58:21.880942+00:00
+Generated: 2026-09-07T05:05:46.602672+00:00
 
 ## Mobile and Station Ticketing & Revenue Protection and Support
 - Source: UK Find a Tender
