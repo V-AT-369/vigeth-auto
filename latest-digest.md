@@ -1,5 +1,114 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-07T05:05:46.602672+00:00
+Generated: 2026-09-08T05:02:46.731307+00:00
+
+## 715910477 - NCGI Caching Capability Support
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 190000 GBP
+
+## PCI QSA pro 2026
+- Source: UK Find a Tender
+- Buyer: Glasgow City Council
+- Deadline: None
+
+## Consultancy Framework
+- Source: UK Find a Tender
+- Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
+- Deadline: None
+
+## Consultancy Framework
+- Source: UK Find a Tender
+- Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
+- Deadline: None
+
+## Nicotine Replacement Therapy - Devices, Consumables & Associated Digital Services
+- Source: UK Find a Tender
+- Buyer: Leeds and York Partnership NHS Foundation Trust, trading as North of England NHS Commercial Procurement Collaborative ("NOE CPC")
+- Deadline: None
+- Estimated value: 40000000.0 GBP
+
+## Vmware ELA Subscription and Support
+- Source: UK Find a Tender
+- Buyer: STUDENT LOANS COMPANY
+- Deadline: None
+- Estimated value: 2700000 GBP
+
+## Countryside Land Management and Estate Maintenance Framework
+- Source: UK Find a Tender
+- Buyer: Lake District National Park Authority
+- Deadline: 2026-09-30T23:59:00+01:00
+- Estimated value: 4000000 GBP
+
+## NHS Regional & Local Insight
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+
+## Internet Services Provider for computer Labs in Riyadh
+- Source: UK Find a Tender
+- Buyer: British Council
+- Deadline: 2026-09-14T14:00:00Z
+
+## Finance Management System
+- Source: UK Find a Tender
+- Buyer: Great Places Housing Group
+- Deadline: 2026-09-21T12:00:00+01:00
+- Estimated value: 3580000.0 GBP
+
+## RFI - Data Centre Transformation & Rationalisation Programme
+- Source: UK Find a Tender
+- Buyer: Southern Water Services Limited
+- Deadline: None
+
+## Social Media Monitoring Solution Agreement
+- Source: UK Find a Tender
+- Buyer: Financial Conduct Authority
+- Deadline: None
+- Estimated value: 1250000.0 GBP
+
+## NHS Regional & Local Insight
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+
+## ANDBC Preliminary Market Engagement Exercise - Appointment of an Operating Partner for a Creative Innovation Hub in Holywood, Co.Down
+- Source: UK Find a Tender
+- Buyer: Ards and North Down Borough Council
+- Deadline: None
+
+## Provision of an Affordability Calculator and Budgeting Tool
+- Source: UK Find a Tender
+- Buyer: Hull City Council
+- Deadline: None
+
+## Provision of an E Bulk Solution for the Administration of Disclosure and Barring Service (DBS)
+- Source: UK Find a Tender
+- Buyer: Caerphilly County Borough Council
+- Deadline: 2026-10-05T12:00:00+01:00
+- Estimated value: 100000.0 GBP
+
+## PRO005128-Goods-Framework-Water Saving Devices
+- Source: UK Find a Tender
+- Buyer: United Utilities Water Limited
+- Deadline: 2026-11-20T15:00:00+00:00
+- Estimated value: 15000000 GBP
+
+## CivTech 11.1 - How can technology help us to manage the impact of Marine Pen Fish Farms more sustainably?
+- Source: UK Find a Tender
+- Buyer: Scottish Environment Protection Agency
+- Deadline: None
+
+## 260158 Contract for the Provision of a Research Intelligence Tool
+- Source: UK Find a Tender
+- Buyer: Queen's University Belfast
+- Deadline: 2026-09-15T16:00:00+01:00
+- Estimated value: 900000 GBP
+
+## Headless Content Management System (CMS) and Digital Experience Platform (DXP) Market Engagement
+- Source: UK Find a Tender
+- Buyer: NHS 24
+- Deadline: None
 
 ## Mobile and Station Ticketing & Revenue Protection and Support
 - Source: UK Find a Tender
@@ -408,127 +517,4 @@ Generated: 2026-09-07T05:05:46.602672+00:00
 - Source: UK Find a Tender
 - Buyer: Metropolitan Police Service
 - Deadline: None
-
-## 260158 Contract for the Provision of a Research Intelligence Tool
-- Source: UK Find a Tender
-- Buyer: Queen's University Belfast
-- Deadline: 2026-09-15T16:00:00+01:00
-- Estimated value: 900000 GBP
-
-## ICT Managed Services and Consultancy Support
-- Source: UK Find a Tender
-- Buyer: Stowmarket Town Council
-- Deadline: 2026-10-06T23:59:00+01:00
-- Estimated value: 27500 GBP
-
-## Strategaeth Economaidd Sir y Fflint / Flintshire Economic Strategy
-- Source: UK Find a Tender
-- Buyer: Flintshire County Council
-- Deadline: 2026-09-24T12:00:00+01:00
-- Estimated value: 80000.0 GBP
-
-## Greater Manchester Drugs Early Warning System (DEWS)
-- Source: UK Find a Tender
-- Buyer: Greater Manchester Combined Authority
-- Deadline: 2026-09-24T12:00:00+01:00
-- Estimated value: 111204 GBP
-
-## DHSC: GPH: Mothers Living with HIV Formula Milk Funding Scheme 2027
-- Source: UK Find a Tender
-- Buyer: Department of Health & Social Care
-- Deadline: None
-- Estimated value: 875000.0 GBP
-
-## SBSA CS  Integrated Transport Digital Twin bid  Preliminary Market Engagement (SBSA001 2026006)
-- Source: UK Find a Tender
-- Buyer: Sussex and Brighton Strategic Authority
-- Deadline: None
-
-## LEG T212 Quarry Hill UPS Replacement
-- Source: UK Find a Tender
-- Buyer: Luminate Education Group
-- Deadline: 2026-09-25T12:00:00+01:00
-- Estimated value: 36500 GBP
-
-## Future Cash Systems - Cash Processing & CViT Transport (Track & Trace)
-- Source: UK Find a Tender
-- Buyer: Post Office Limited
-- Deadline: None
-
-## Future Cash Systems - Cash Processing & CViT Transport (Track & Trace)
-- Source: UK Find a Tender
-- Buyer: Post Office Limited
-- Deadline: None
-
-## The Fosterline Service
-- Source: UK Find a Tender
-- Buyer: Department for Education
-- Deadline: None
-
-## Outsourced ICT Infrastructure Management and associated Services
-- Source: UK Find a Tender
-- Buyer: Worcestershire Acute Hospitals NHS Trust
-- Deadline: 2026-09-25T16:00:00+01:00
-- Estimated value: 49999999.0 GBP
-
-## Greater Manchester Drugs Early Warning System (DEWS)
-- Source: UK Find a Tender
-- Buyer: Greater Manchester Combined Authority
-- Deadline: 2026-09-24T12:00:00+01:00
-- Estimated value: 111204 GBP
-
-## Customer Engagement Platform (CEP) Framework
-- Source: UK Find a Tender
-- Buyer: Scottish Enterprise
-- Deadline: 2026-10-08T11:00:00+01:00
-- Estimated value: 29167000 GBP
-
-## Provision of a Digital Delivery Partner for Development of an Integrated Digital Platform
-- Source: UK Find a Tender
-- Buyer: Scottish Environment Protection Agency
-- Deadline: None
-
-## ID 6543869 - Managing Agent for InterTradeIreland Innovation Boost Programme (Phase VII)
-- Source: UK Find a Tender
-- Buyer: InterTradeIreland
-- Deadline: 2026-09-29T15:00:00+01:00
-- Estimated value: 2841000 GBP
-
-## Below 2 Bar Risk Model
-- Source: UK Find a Tender
-- Buyer: CADENT GAS LIMITED
-- Deadline: None
-
-## Update of South East Soil Moisture model
-- Source: UK Find a Tender
-- Buyer: Environment Agency
-- Deadline: 2026-09-17T13:00:00+01:00
-- Estimated value: 50000 GBP
-
-## Data Centre Network Refresh
-- Source: UK Find a Tender
-- Buyer: York and North Yorkshire Combined Authority
-- Deadline: 2026-10-12T15:00:00+01:00
-
-## Below 2 Bar Risk Model
-- Source: UK Find a Tender
-- Buyer: CADENT GAS LIMITED
-- Deadline: None
-
-## Provision and Implementation of an Integrated Business Solution 
-- Source: UK Find a Tender
-- Buyer: Tai Tarian Ltd
-- Deadline: 2026-10-13T12:00:00+01:00
-- Estimated value: 7000000.0 GBP
-
-## Below 2 Bar Risk Model
-- Source: UK Find a Tender
-- Buyer: CADENT GAS LIMITED
-- Deadline: None
-
-## 003043 - Contract for the Supply, Installation, Maintenance and Repair of Door Entry Systems
-- Source: UK Find a Tender
-- Buyer: Durham County Council
-- Deadline: 2026-09-25T10:00:00+01:00
-- Estimated value: 150000 GBP
 
