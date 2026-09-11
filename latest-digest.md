@@ -1,5 +1,90 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-10T05:04:59.070699+00:00
+Generated: 2026-09-11T05:01:57.815318+00:00
+
+## Home Office Subject Access Request Unit (SARU) Redesign Project: End-to-End Information Rights Case Management Platform and Managed Service
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 4388800 GBP
+
+## DDAITF/013 Planning Data, Knowledge and Analytical Orchestration Services & COA Testing, Evaluation and Adaptation Services for Operational Planning
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+
+## LEG T206 Barracuda MSP Service
+- Source: UK Find a Tender
+- Buyer: Luminate Education Group
+- Deadline: 2026-10-01T12:00:00+01:00
+- Estimated value: 140000 GBP
+
+## UHB Workforce Management Systems
+- Source: UK Find a Tender
+- Buyer: University Hospitals Birmingham NHS Foundation Trust
+- Deadline: 2026-10-08T12:00:00+01:00
+
+## PSBA – CLOUD CONNECT
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale University Health Board
+- Deadline: None
+
+## Babies, Children and Young People Modern Service Framework
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+
+## Legal Case Management System (CMS)
+- Source: UK Find a Tender
+- Buyer: British Business Bank Plc
+- Deadline: None
+
+## Ayrshire Meet the Buyer 2026
+- Source: UK Find a Tender
+- Buyer: North Ayrshire Council
+- Deadline: None
+- Estimated value: 1 GBP
+
+## Pre-Market Engagement Questionnaire: Microsoft Enterprise Licensing, CSP Services and Expertise
+- Source: UK Find a Tender
+- Buyer: Mid Ulster District Council
+- Deadline: None
+- Estimated value: 600000.0 GBP
+
+## Hybrid Datacentre Managed Service
+- Source: UK Find a Tender
+- Buyer: Greater Manchester Combined Authority
+- Deadline: None
+
+## Cashless Catering and School Meal Ordering System
+- Source: UK Find a Tender
+- Buyer: THE TED WRAGG MULTI ACADEMY TRUST
+- Deadline: None
+
+## Curriculum Management & Timetabling Software Solutions & Associated Services
+- Source: UK Find a Tender
+- Buyer: SOUTHERN UNIVERSITIES MANAGEMENT SERVICES
+- Deadline: None
+
+## North Northamptonshire Council - Housing Management System
+- Source: UK Find a Tender
+- Buyer: North Northamptonshire Council
+- Deadline: None
+
+## Building compliance solution
+- Source: UK Find a Tender
+- Buyer: London Borough of Camden
+- Deadline: None
+
+## Next Generation on Train Wifi (Members of RM6370)
+- Source: UK Find a Tender
+- Buyer: LONDON NORTH EASTERN RAILWAY LIMITED
+- Deadline: 2026-10-16T12:00:00+01:00
+- Estimated value: 34600000 GBP
+
+## Philippine e-Invoicing Middleware Solution for BIR Integration and EIS Compliance
+- Source: UK Find a Tender
+- Buyer: British Council
+- Deadline: 2026-09-15T09:00:00Z
 
 ## Maritime Domain Analysis and Reporting
 - Source: UK Find a Tender
@@ -398,157 +483,4 @@ Generated: 2026-09-10T05:04:59.070699+00:00
 - Buyer: UKROEd
 - Deadline: None
 - Estimated value: 30000000 GBP
-
-## CivTech 11.1 - How can technology help us to manage the impact of Marine Pen Fish Farms more sustainably?
-- Source: UK Find a Tender
-- Buyer: Scottish Environment Protection Agency
-- Deadline: None
-
-## BLC-0348 Out of Court Resolution (OOCR)
-- Source: UK Find a Tender
-- Buyer: BlueLight Commercial Limited
-- Deadline: None
-- Estimated value: 16666.67 GBP
-
-## CivTech 11.1 - How can technology help us to manage the impact of Marine Pen Fish Farms more sustainably?
-- Source: UK Find a Tender
-- Buyer: Scottish Environment Protection Agency
-- Deadline: None
-
-## NHM150 Western Galleries - AV Hardware Integrator
-- Source: UK Find a Tender
-- Buyer: Natural History Museum
-- Deadline: None
-- Estimated value: 290000.0 GBP
-
-## Google Products & Services Reseller Framework Agreement
-- Source: UK Find a Tender
-- Buyer: Digital Health & Care Wales
-- Deadline: 2026-09-29T12:00:00+01:00
-- Estimated value: 15000000.0 GBP
-
-## PACS Solution for New CT Post-Mortem Service
-- Source: UK Find a Tender
-- Buyer: West Northamptonshire Council
-- Deadline: 2026-09-11T12:00:00+01:00
-- Estimated value: 85000 GBP
-
-## Request for Information: Cyber Accelerator Programme - Design Partnerships
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology
-- Deadline: None
-- Estimated value: 1200000 GBP
-
-## Provision of Housing Market Sales & Rental Data
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: 2026-09-29T23:59:00+01:00
-- Estimated value: 540000 GBP
-
-## ESG Data
-- Source: UK Find a Tender
-- Buyer: LGPS CENTRAL LIMITED
-- Deadline: 2026-10-06T12:00:00+01:00
-
-## UREGNI - Customer Care Register Project Manager
-- Source: UK Find a Tender
-- Buyer: Utility Regulator
-- Deadline: 2026-10-05T15:00:00+01:00
-- Estimated value: 185000.0 GBP
-
-## HR and Payroll
-- Source: UK Find a Tender
-- Buyer: Oxford City Council
-- Deadline: 2026-09-22T14:00:00+01:00
-- Estimated value: 1833333 GBP
-
-## Public Sector Broadband Aggregation (PSBA) 3
-- Source: UK Find a Tender
-- Buyer: Llywodraeth Cymru / Welsh Government
-- Deadline: None
-- Estimated value: 700000000 GBP
-
-## Pre-Market Engagement - The Provision of Managed Service, Infrastructure and Hardware Refresh
-- Source: UK Find a Tender
-- Buyer: Chorley Council
-- Deadline: None
-
-## HR and Payroll
-- Source: UK Find a Tender
-- Buyer: Oxford City Council
-- Deadline: 2026-09-22T14:00:00+01:00
-- Estimated value: 1833333 GBP
-
-## Furze Down School - Managed IT Services Provision
-- Source: UK Find a Tender
-- Buyer: Furze Down School
-- Deadline: 2026-09-29T12:00:00+01:00
-- Estimated value: 400000.0 GBP
-
-## Provision of KentChoices website management and services
-- Source: UK Find a Tender
-- Buyer: Edseco Limited trading as The Education People
-- Deadline: None
-
-## Financial Crime Transaction Monitoring Systems Market Engagement Request for Information (CD2430)
-- Source: UK Find a Tender
-- Buyer: BANK OF ENGLAND
-- Deadline: None
-- Estimated value: 5000000 GBP
-
-## NHS Regional & Local Insight
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-
-## ServiceNow Development & Managed Services Delivery Partner
-- Source: UK Find a Tender
-- Buyer: Government Property Agency
-- Deadline: None
-- Estimated value: 2500000 GBP
-
-## ServiceNow Development & Managed Services Delivery Partner
-- Source: UK Find a Tender
-- Buyer: Government Property Agency
-- Deadline: None
-- Estimated value: 2500000 GBP
-
-## DSA - Phase II Website Design & Implementation
-- Source: UK Find a Tender
-- Buyer: City of Doncaster Council
-- Deadline: 2026-10-05T15:00:00+00:00
-- Estimated value: 100000 GBP
-
-## NW2964 - Microsoft 365, AI and Intelligent Automation Partner Framework Agreement
-- Source: UK Find a Tender
-- Buyer: NORTHUMBRIAN WATER LIMITED
-- Deadline: 2026-10-05T12:00:00+01:00
-- Estimated value: 7200000 GBP
-
-## Level 4 Escalation Support
-- Source: UK Find a Tender
-- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
-- Deadline: None
-
-## Mobile Data Terminal Software
-- Source: UK Find a Tender
-- Buyer: Mid and West Wales Fire and Rescue Authority
-- Deadline: 2026-09-11T12:00:00+01:00
-- Estimated value: 3000000.0 GBP
-
-## Outsourced ICT Infrastructure Management and associated Services
-- Source: UK Find a Tender
-- Buyer: Worcestershire Acute Hospitals NHS Trust
-- Deadline: 2026-09-25T16:00:00+01:00
-- Estimated value: 49999999.0 GBP
-
-## ID755 - KIM Strategy - Off-the-Shelf Housing Management Solution
-- Source: UK Find a Tender
-- Buyer: CORNERSTONE HOUSING LIMITED
-- Deadline: None
-
-## Housing and Asset Management System (HAMS)
-- Source: UK Find a Tender
-- Buyer: Oxford City Council
-- Deadline: 2026-10-08T14:00:00+01:00
 
