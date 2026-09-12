@@ -1,5 +1,77 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-11T05:01:57.815318+00:00
+Generated: 2026-09-12T04:53:29.292348+00:00
+
+## Cloud Services Provider
+- Source: UK Find a Tender
+- Buyer: Skills Development Scotland Ltd
+- Deadline: None
+
+## Corporate IT Support Service to NHS Gloucestershire Integrated Care Board and Bristol, North Somerset and South Gloucestershire Integrated Care Board
+- Source: UK Find a Tender
+- Buyer: NHS GLOUCESTERSHIRE INTEGRATED CARE BOARD
+- Deadline: 2026-10-12T12:00:00+01:00
+- Estimated value: 2250000 GBP
+
+## Technical Implementation Partner & Business Change Partner (DASP)
+- Source: UK Find a Tender
+- Buyer: NHS Blood and Transplant
+- Deadline: 2026-10-06T12:00:00+01:00
+- Estimated value: 9166666.0 GBP
+
+## Cisco Enterprise Agreement (EA) 2026
+- Source: UK Find a Tender
+- Buyer: London Borough of Camden
+- Deadline: None
+
+## Preliminary Market Engagement Round 3 for the Life in the UK (LITUK) Secure Digital Test and Digital Online Learning Materials Service
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 90871000 GBP
+
+## BCU-FTS-63584 YGC CHILLIER REPLACEMENT
+- Source: UK Find a Tender
+- Buyer: North Wales Shared services Partnership
+- Deadline: 2026-10-07T00:00:00+01:00
+- Estimated value: 250000.0 GBP
+
+## Home Office Subject Access Request Unit (SARU) Redesign Project: End-to-End Information Rights Case Management Platform and Managed Service
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 4388800 GBP
+
+## Supply & Maintenance for Laboratory Information Management System
+- Source: UK Find a Tender
+- Buyer: Scottish Government
+- Deadline: None
+
+## Control Software
+- Source: UK Find a Tender
+- Buyer: UK Atomic Energy Authority
+- Deadline: None
+- Estimated value: 20000 GBP
+
+## AI-Enabled Product and Assessment Development Solution
+- Source: UK Find a Tender
+- Buyer: Construction Industry Training Board
+- Deadline: None
+
+## Server Infrastructure Upgrade & Maintenance
+- Source: UK Find a Tender
+- Buyer: Lancaster and Morecambe College
+- Deadline: 2026-10-06T12:00:00+01:00
+
+## Pan-Defra Research and Development Evidence Portal
+- Source: UK Find a Tender
+- Buyer: DEPARTMENT FOR ENVIRONMENT, FOOD AND RURAL AFFAIRS
+- Deadline: None
+- Estimated value: 500000.0 GBP
+
+## Internet Services Provider for computer Labs in Riyadh
+- Source: UK Find a Tender
+- Buyer: British Council
+- Deadline: 2026-09-16T14:00:00Z
 
 ## Home Office Subject Access Request Unit (SARU) Redesign Project: End-to-End Information Rights Case Management Platform and Managed Service
 - Source: UK Find a Tender
@@ -362,125 +434,4 @@ Generated: 2026-09-11T05:01:57.815318+00:00
 - Source: UK Find a Tender
 - Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
 - Deadline: None
-
-## Consultancy Framework
-- Source: UK Find a Tender
-- Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
-- Deadline: None
-
-## Nicotine Replacement Therapy - Devices, Consumables & Associated Digital Services
-- Source: UK Find a Tender
-- Buyer: Leeds and York Partnership NHS Foundation Trust, trading as North of England NHS Commercial Procurement Collaborative ("NOE CPC")
-- Deadline: None
-- Estimated value: 40000000.0 GBP
-
-## Vmware ELA Subscription and Support
-- Source: UK Find a Tender
-- Buyer: STUDENT LOANS COMPANY
-- Deadline: None
-- Estimated value: 2700000 GBP
-
-## Countryside Land Management and Estate Maintenance Framework
-- Source: UK Find a Tender
-- Buyer: Lake District National Park Authority
-- Deadline: 2026-09-30T23:59:00+01:00
-- Estimated value: 4000000 GBP
-
-## NHS Regional & Local Insight
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-
-## Internet Services Provider for computer Labs in Riyadh
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-09-14T14:00:00Z
-
-## Finance Management System
-- Source: UK Find a Tender
-- Buyer: Great Places Housing Group
-- Deadline: 2026-09-21T12:00:00+01:00
-- Estimated value: 3580000.0 GBP
-
-## RFI - Data Centre Transformation & Rationalisation Programme
-- Source: UK Find a Tender
-- Buyer: Southern Water Services Limited
-- Deadline: None
-
-## Social Media Monitoring Solution Agreement
-- Source: UK Find a Tender
-- Buyer: Financial Conduct Authority
-- Deadline: None
-- Estimated value: 1250000.0 GBP
-
-## NHS Regional & Local Insight
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-
-## ANDBC Preliminary Market Engagement Exercise - Appointment of an Operating Partner for a Creative Innovation Hub in Holywood, Co.Down
-- Source: UK Find a Tender
-- Buyer: Ards and North Down Borough Council
-- Deadline: None
-
-## Provision of an Affordability Calculator and Budgeting Tool
-- Source: UK Find a Tender
-- Buyer: Hull City Council
-- Deadline: None
-
-## Provision of an E Bulk Solution for the Administration of Disclosure and Barring Service (DBS)
-- Source: UK Find a Tender
-- Buyer: Caerphilly County Borough Council
-- Deadline: 2026-10-05T12:00:00+01:00
-- Estimated value: 100000.0 GBP
-
-## PRO005128-Goods-Framework-Water Saving Devices
-- Source: UK Find a Tender
-- Buyer: United Utilities Water Limited
-- Deadline: 2026-11-20T15:00:00+00:00
-- Estimated value: 15000000 GBP
-
-## CivTech 11.1 - How can technology help us to manage the impact of Marine Pen Fish Farms more sustainably?
-- Source: UK Find a Tender
-- Buyer: Scottish Environment Protection Agency
-- Deadline: None
-
-## 260158 Contract for the Provision of a Research Intelligence Tool
-- Source: UK Find a Tender
-- Buyer: Queen's University Belfast
-- Deadline: 2026-09-15T16:00:00+01:00
-- Estimated value: 900000 GBP
-
-## Headless Content Management System (CMS) and Digital Experience Platform (DXP) Market Engagement
-- Source: UK Find a Tender
-- Buyer: NHS 24
-- Deadline: None
-
-## Mobile and Station Ticketing & Revenue Protection and Support
-- Source: UK Find a Tender
-- Buyer: LONDON NORTH EASTERN RAILWAY LIMITED
-- Deadline: None
-
-## National Insurance & PAYE Service Support and Change
-- Source: UK Find a Tender
-- Buyer: HM Revenue & Customs
-- Deadline: None
-- Estimated value: 470100000 GBP
-
-## P12819 - National School of Government and Public Services
-- Source: UK Find a Tender
-- Buyer: Cabinet Office
-- Deadline: None
-
-## CSSD Track and Trace system
-- Source: UK Find a Tender
-- Buyer: Guy's and St Thomas' NHS Foundation Trust
-- Deadline: 2026-10-05T12:00:00+01:00
-- Estimated value: 250000.0 GBP
-
-## DORS+ Managed Services and Hosting Procurement
-- Source: UK Find a Tender
-- Buyer: UKROEd
-- Deadline: None
-- Estimated value: 30000000 GBP
 
