@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-13T05:14:19.161933+00:00
+Generated: 2026-09-14T05:19:49.336007+00:00
 
 ## Cloud Services Provider
 - Source: UK Find a Tender
@@ -428,10 +428,5 @@ Generated: 2026-09-13T05:14:19.161933+00:00
 ## PCI QSA pro 2026
 - Source: UK Find a Tender
 - Buyer: Glasgow City Council
-- Deadline: None
-
-## Consultancy Framework
-- Source: UK Find a Tender
-- Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
 - Deadline: None
 
