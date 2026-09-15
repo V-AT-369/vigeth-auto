@@ -1,5 +1,67 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-14T05:19:49.336007+00:00
+Generated: 2026-09-15T05:10:54.549031+00:00
+
+## Concession Contract for Publishing, Selling and Marketing of the British Pharmacopoeia
+- Source: UK Find a Tender
+- Buyer: MHRA
+- Deadline: 2027-01-29T12:00:00Z
+- Estimated value: 39810000.0 GBP
+
+## Concession Contract for Publishing, Selling and Marketing of the British Pharmacopoeia
+- Source: UK Find a Tender
+- Buyer: MHRA
+- Deadline: None
+- Estimated value: 39810000.0 GBP
+
+## NEPRO Four
+- Source: UK Find a Tender
+- Buyer: The Association of North East Councils Limited
+- Deadline: None
+- Estimated value: 6000000000 GBP
+
+## C1308 Financial Markets, ESG and Energy Transition Data
+- Source: UK Find a Tender
+- Buyer: NATIONAL WEALTH FUND LIMITED
+- Deadline: None
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
+
+## Online Digital Catalogue and Archive Management Solutions (ERO Online Digital Catalogue)
+- Source: UK Find a Tender
+- Buyer: Essex County Council
+- Deadline: None
+
+## Digital Analytics Services
+- Source: UK Find a Tender
+- Buyer: British Film Institute
+- Deadline: 2026-10-08T12:00:00+01:00
+- Estimated value: 70000 GBP
+
+## The Provision of Access to Media Monitoring Services
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: 2026-09-29T12:00:00+01:00
+- Estimated value: 40000 GBP
+
+## IoT Devices for Insight into Environmental Conditions Within Freebridge Homes
+- Source: UK Find a Tender
+- Buyer: Freebridge Community Housing Limited
+- Deadline: 2026-10-05T12:00:00+01:00
+
+## Exacom, Building Safety Levy and Public Facing Modules
+- Source: UK Find a Tender
+- Buyer: Northumberland County Council
+- Deadline: None
+
+## Pioneer Educational Trust - ICT Managed Service
+- Source: UK Find a Tender
+- Buyer: PIONEER EDUCATIONAL TRUST
+- Deadline: None
+- Estimated value: 6000000 GBP
 
 ## Cloud Services Provider
 - Source: UK Find a Tender
@@ -317,116 +379,4 @@ Generated: 2026-09-14T05:19:49.336007+00:00
 - Buyer: City of Doncaster Council
 - Deadline: 2026-10-05T15:00:00+00:00
 - Estimated value: 100000 GBP
-
-## How can technology enable fast-growing digital public service providers to dynamically scale their service management capabilities as demand, complexity and customer expectations increase?
-- Source: UK Find a Tender
-- Buyer: Scottish Government
-- Deadline: None
-
-## CivTech 12.6 - How can technology improve living conditions and quality of life for social housing residents in Scotland?
-- Source: UK Find a Tender
-- Buyer: Cloch Housing Association Ltd
-- Deadline: 2026-10-20T12:00:00+01:00
-- Estimated value: 650000 GBP
-
-## CivTech 12 - Challenge 12.3 - How can we use technology to demonstrate the commercial value of circular economy business practices?
-- Source: UK Find a Tender
-- Buyer: Zero Waste Scotland Ltd
-- Deadline: 2026-10-20T12:00:00+01:00
-- Estimated value: 650000 GBP
-
-## CivTech 12.5 - How can technology support multi agency processes for the protection of children in Scotland?
-- Source: UK Find a Tender
-- Buyer: Scottish Government
-- Deadline: 2026-10-20T12:00:00+01:00
-- Estimated value: 650000 GBP
-
-## How can technology enable fast-growing digital public service providers to dynamically scale their service management capabilities as demand, complexity and customer expectations increase?
-- Source: UK Find a Tender
-- Buyer: Scottish Government
-- Deadline: 2026-10-20T12:00:00+01:00
-- Estimated value: 650000 GBP
-
-## Marketing & Communications - Dynamic Market Intention
-- Source: UK Find a Tender
-- Buyer: Southern Water Services Limited
-- Deadline: None
-
-## CivTech 12.1 - How can digital technologies assist people living with substance use issues (and their families/friends) to easily connect with trusted help and substance use support when services are unavailable?
-- Source: UK Find a Tender
-- Buyer: University of Strathclyde
-- Deadline: 2026-10-20T12:00:00+01:00
-- Estimated value: 650000 GBP
-
-## Consultancy Framework
-- Source: UK Find a Tender
-- Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
-- Deadline: None
-
-## Provision of Corporate and Professional Services to Big Life Schools Multi Academy Trust
-- Source: UK Find a Tender
-- Buyer: Big Life Schools
-- Deadline: 2026-10-07T12:00:00+01:00
-- Estimated value: 450000.0 GBP
-
-## Land Observations Networks Modems and Sims - Re-tender
-- Source: UK Find a Tender
-- Buyer: Met Office
-- Deadline: 2026-10-05T12:00:00+01:00
-- Estimated value: 208333.33 GBP
-
-## Land Observations Networks Modems and Sims - Re-tender
-- Source: UK Find a Tender
-- Buyer: Met Office
-- Deadline: 2026-10-05T12:00:00+01:00
-- Estimated value: 208333.33 GBP
-
-## Framework Agreement for Connectivity Services for Educational Establishments
-- Source: UK Find a Tender
-- Buyer: Norfolk County Council
-- Deadline: 2026-10-09T11:00:00+01:00
-- Estimated value: 1500000 GBP
-
-## Full Business Case Consultancy Services
-- Source: UK Find a Tender
-- Buyer: Barnsley Metropolitan Borough Council
-- Deadline: 2026-10-09T11:00:00+00:00
-- Estimated value: 40000 GBP
-
-## Countryside Land Management and Estate Maintenance Framework
-- Source: UK Find a Tender
-- Buyer: Lake District National Park Authority
-- Deadline: 2026-10-02T17:00:00+01:00
-- Estimated value: 4000000 GBP
-
-## Data of Last Resort Data Collection
-- Source: UK Find a Tender
-- Buyer: THAMES WATER UTILITIES LIMITED
-- Deadline: None
-
-## P12819 - National School of Government and Public Services
-- Source: UK Find a Tender
-- Buyer: Cabinet Office
-- Deadline: None
-
-## client management Database to assist in managing the financials of appointeeships and Deputyships
-- Source: UK Find a Tender
-- Buyer: West Northamptonshire Council
-- Deadline: None
-
-## Philippine e-Invoicing Middleware Solution for BIR Integration and EIS Compliance
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-09-15T09:00:00Z
-
-## 715910477 - NCGI Caching Capability Support
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-- Estimated value: 190000 GBP
-
-## PCI QSA pro 2026
-- Source: UK Find a Tender
-- Buyer: Glasgow City Council
-- Deadline: None
 
