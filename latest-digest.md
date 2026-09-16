@@ -1,5 +1,125 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-15T05:10:54.549031+00:00
+Generated: 2026-09-16T05:06:28.973315+00:00
+
+## PDSE Patient Record Management Solution
+- Source: UK Find a Tender
+- Buyer: University of Plymouth
+- Deadline: 2026-10-20T16:00:00+00:00
+- Estimated value: 890000.0 GBP
+
+## Request for Information: Cyber Accelerator Programme - Design Partnerships
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: None
+- Estimated value: 1200000 GBP
+
+## Request for Information: Cyber Accelerator Programme - Design Partnerships
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: None
+- Estimated value: 1200000 GBP
+
+## Command and Control Programme (C2P)
+- Source: UK Find a Tender
+- Buyer: Maritime and Coastguard Agency
+- Deadline: None
+- Estimated value: 70000000 GBP
+
+## Highways Asset Management System
+- Source: UK Find a Tender
+- Buyer: Shropshire Council
+- Deadline: None
+
+## 715886482 Land Training Assurance Capability (LTAC)
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 6848333.33 GBP
+
+## Property Asset Management Solution
+- Source: UK Find a Tender
+- Buyer: Shropshire Council
+- Deadline: None
+
+## GRC Tool (Governance, Risk & Compliance)
+- Source: UK Find a Tender
+- Buyer: Clarion Housing Group
+- Deadline: None
+
+## Babies, Children and Young People Modern Service Framework
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+
+## Media Monitoring Software
+- Source: UK Find a Tender
+- Buyer: Senedd Cymru / Welsh Parliament
+- Deadline: 2026-10-12T10:00:00+01:00
+- Estimated value: 93333.34 GBP
+
+## Wastewater Testing
+- Source: UK Find a Tender
+- Buyer: Ministry of Justice
+- Deadline: None
+- Estimated value: 4850000 GBP
+
+## Contract for the supply of a Housing Revenue Account Business 30-Year Planning Solution
+- Source: UK Find a Tender
+- Buyer: London Borough of Waltham Forest
+- Deadline: 2026-09-25T23:59:00+01:00
+- Estimated value: 10.0 GBP
+
+## DN Colleges Group - ITT for the Provision of Website Development Services
+- Source: UK Find a Tender
+- Buyer: DN Colleges Group
+- Deadline: 2026-09-29T12:00:00+01:00
+- Estimated value: 25000.0 GBP
+
+## P12819 - National School of Government and Public Services
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: None
+
+## Consultancy and Professional Services
+- Source: UK Find a Tender
+- Buyer: Government Commercial Agency
+- Deadline: 2026-11-09T15:00:00+00:00
+- Estimated value: 5000000000 GBP
+
+## Condition Monitoring
+- Source: UK Find a Tender
+- Buyer: Sellafield Limited
+- Deadline: None
+
+## Update of South East Soil Moisture model
+- Source: UK Find a Tender
+- Buyer: Environment Agency
+- Deadline: 2026-09-17T13:00:00+01:00
+- Estimated value: 50000 GBP
+
+## TEN-2627-047 (PA2023) – Asset Allocation System
+- Source: UK Find a Tender
+- Buyer: National Employment Savings Trust (NEST) Corporation
+- Deadline: 2026-10-14T17:00:00+01:00
+- Estimated value: 7300000 GBP
+
+## EV Infrastructure Back Office
+- Source: UK Find a Tender
+- Buyer: Stirling Council
+- Deadline: 2026-10-15T12:00:00+01:00
+- Estimated value: 315000 GBP
+
+## 715886482 Land Training Assurance Capability (LTAC) UK1
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 6848333.33 GBP
+
+## Corporate IT Support Service to NHS Gloucestershire Integrated Care Board and Bristol, North Somerset and South Gloucestershire Integrated Care Board
+- Source: UK Find a Tender
+- Buyer: NHS GLOUCESTERSHIRE INTEGRATED CARE BOARD
+- Deadline: 2026-10-12T12:00:00+01:00
+- Estimated value: 2250000 GBP
 
 ## Concession Contract for Publishing, Selling and Marketing of the British Pharmacopoeia
 - Source: UK Find a Tender
@@ -264,119 +384,4 @@ Generated: 2026-09-15T05:10:54.549031+00:00
 - Source: UK Find a Tender
 - Buyer: Crown Estate Scotland
 - Deadline: None
-
-## Full Business Case Consultancy Services
-- Source: UK Find a Tender
-- Buyer: Barnsley Metropolitan Borough Council
-- Deadline: 2026-10-09T11:00:00+00:00
-- Estimated value: 40000 GBP
-
-## DDaT26451 - THE PROVISION OF PATENT REGISTER
-- Source: UK Find a Tender
-- Buyer: UK Research and Innovation
-- Deadline: None
-
-## Earth Observation: Data Products and Services for the UK Public Sector 'Public Sector EO'
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology / DCMS
-- Deadline: None
-- Estimated value: 54030000 GBP
-
-## Design Consultancy Framework
-- Source: UK Find a Tender
-- Buyer: Oxford Health NHS Foundation Trust
-- Deadline: None
-- Estimated value: 4500000.0 GBP
-
-## SIC and SOC Coding of the Graduate Outcomes survey
-- Source: UK Find a Tender
-- Buyer: JISC
-- Deadline: 2026-10-09T12:00:00+01:00
-- Estimated value: 1250000 GBP
-
-## Wastewater Testing
-- Source: UK Find a Tender
-- Buyer: Ministry of Justice
-- Deadline: None
-- Estimated value: 4850000 GBP
-
-## CivTech 11 - Challenge 11.6 - How can technology reduce teacher workload?
-- Source: UK Find a Tender
-- Buyer: Scottish Government
-- Deadline: None
-
-## CivTech 11 - Challenge 11.3 - How can technology reduce the environmental and social impact of litter at Arrochar?
-- Source: UK Find a Tender
-- Buyer: The GRAB Trust (Group for Recycling in Argyll and Bute Trust Limited)
-- Deadline: None
-
-## Website Service and Maintenance
-- Source: UK Find a Tender
-- Buyer: Scottish Natural Heritage
-- Deadline: None
-
-## 390_27 Document Management Solutions
-- Source: UK Find a Tender
-- Buyer: Leicestershire County Council, trading as ESPO
-- Deadline: 2026-10-12T12:00:00+01:00
-- Estimated value: 83333333.0 GBP
-
-## Enhanced Security Operations Managed Service
-- Source: UK Find a Tender
-- Buyer: STUDENT LOANS COMPANY
-- Deadline: None
-
-## CE ICB - WorkWell Initiative Service
-- Source: UK Find a Tender
-- Buyer: NHS Central East Integrated Care Board
-- Deadline: None
-- Estimated value: 2743184.0 GBP
-
-## On Vehicle Digital Technology (AVL, CCTV, APC, TLP, Comms, On Bus Destination, AVA, Bridge Strike Systems & Vehicle Compute Capability) Franchising and Wider Transport Ticketing & Payment Consultancy Services
-- Source: UK Find a Tender
-- Buyer: SOUTH WEST SMART APPLICATIONS LIMITED
-- Deadline: 2026-10-19T12:00:00+01:00
-- Estimated value: 100000000 GBP
-
-## Agenda for Change Job Evaluation Digital System
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: 2026-10-05T12:00:00+01:00
-- Estimated value: 2600000.0 GBP
-
-## Highways and Infrastructure Professional Services Contract
-- Source: UK Find a Tender
-- Buyer: Norfolk County Council
-- Deadline: None
-- Estimated value: 84000000 GBP
-
-## Coding NDNS Consumption data into EFSA’s food classification+description -FoodEx
-- Source: UK Find a Tender
-- Buyer: Food Standards Agency
-- Deadline: 2026-09-25T12:00:00+01:00
-- Estimated value: 65000.0 GBP
-
-## CivTech 12 - Challenge 12.4 - How can technology improve both the efficiency and the patient experience in NHS transport, starting with renal services?​
-- Source: UK Find a Tender
-- Buyer: NHS Greater Glasgow and Clyde
-- Deadline: 2026-10-20T12:00:00+01:00
-- Estimated value: 650000 GBP
-
-## Civtech 12 - Challenge 12.2 - How can technology enable fast-growing digital public service providers to dynamically scale their service management capabilities as demand, complexity and customer expectations increase?
-- Source: UK Find a Tender
-- Buyer: Scottish Government
-- Deadline: 2026-10-20T12:00:00+01:00
-- Estimated value: 650000 GBP
-
-## Provision of a new college website
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale College
-- Deadline: None
-- Estimated value: 220000.0 GBP
-
-## DSA - Phase II Website Design & Implementation
-- Source: UK Find a Tender
-- Buyer: City of Doncaster Council
-- Deadline: 2026-10-05T15:00:00+00:00
-- Estimated value: 100000 GBP
 
