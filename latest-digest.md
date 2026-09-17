@@ -1,5 +1,109 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-16T05:06:28.973315+00:00
+Generated: 2026-09-17T05:09:04.060046+00:00
+
+## SONI089 – Software Licensing & Buying Services
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: None
+- Estimated value: 68557055.08 GBP
+
+## Further Premarket Engagement excerise
+- Source: UK Find a Tender
+- Buyer: London Borough of Hammersmith and Fuham
+- Deadline: None
+- Estimated value: 60000000 GBP
+
+## Webinar Invitation: Cyber Accelerator Programme - Design Partnerships
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: None
+- Estimated value: 1200000 GBP
+
+## NHS CIOS and NHS Devon - WorkWell Central Hub - Market Engagement
+- Source: UK Find a Tender
+- Buyer: NHS CORNWALL AND ISLES OF SCILLY INTEGRATED CARE BOARD
+- Deadline: None
+- Estimated value: 1500000 GBP
+
+## Dedicated Housing Tenant Website
+- Source: UK Find a Tender
+- Buyer: Cardiff Council
+- Deadline: 2026-10-16T12:00:00+01:00
+- Estimated value: 75500.0 GBP
+
+## Ex-NBC Agresso decommissioning
+- Source: UK Find a Tender
+- Buyer: West Northamptonshire Council
+- Deadline: None
+
+## Land Observations Networks Modems and Sims - Re-tender
+- Source: UK Find a Tender
+- Buyer: Met Office
+- Deadline: 2026-10-05T12:00:00+01:00
+- Estimated value: 208333.33 GBP
+
+## School Attendance, collection data
+- Source: UK Find a Tender
+- Buyer: East Riding of Yorkshire Council
+- Deadline: 2026-09-30T11:00:00+00:00
+- Estimated value: 190000 GBP
+
+## Oracle Server Support and Maintenance
+- Source: UK Find a Tender
+- Buyer: Newcastle City Council
+- Deadline: 2026-10-07T12:00:00+01:00
+- Estimated value: 40500 GBP
+
+## BU452026- Architectural Modelling and Immersive Digital Visualisation												
+- Source: UK Find a Tender
+- Buyer: Prifysgol Bangor / Bangor University
+- Deadline: None
+- Estimated value: 304750.0 GBP
+
+## UKRI-6251 Cyber Security – Managed Service and Detection Response & Security Operations Centre service
+- Source: UK Find a Tender
+- Buyer: UK Research & Innovation (UKRI)
+- Deadline: None
+- Estimated value: 1250000.0 GBP
+
+## Gcloud 13 Iplato Platform
+- Source: UK Find a Tender
+- Buyer: NHS KENT AND MEDWAY INTEGRATED CARE BOARD
+- Deadline: None
+
+## 715886482 Land Training Assurance Capability (LTAC)
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 6848333.33 GBP
+
+## P12819 - National School of Government and Public Services
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: None
+
+## 715886482 Land Training Assurance Capability (LTAC)
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 6848333.33 GBP
+
+## CWC26038 - Corporate Internet
+- Source: UK Find a Tender
+- Buyer: Wolverhampton City Council
+- Deadline: None
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
+
+## DDaT26423 - Infrastructure and Network Monitoring Solution 
+- Source: UK Find a Tender
+- Buyer: UK Shared Business Services Ltd
+- Deadline: None
+- Estimated value: 80000 GBP
 
 ## PDSE Patient Record Management Solution
 - Source: UK Find a Tender
@@ -290,98 +394,5 @@ Generated: 2026-09-16T05:06:28.973315+00:00
 ## Legal Case Management System (CMS)
 - Source: UK Find a Tender
 - Buyer: British Business Bank Plc
-- Deadline: None
-
-## Ayrshire Meet the Buyer 2026
-- Source: UK Find a Tender
-- Buyer: North Ayrshire Council
-- Deadline: None
-- Estimated value: 1 GBP
-
-## Pre-Market Engagement Questionnaire: Microsoft Enterprise Licensing, CSP Services and Expertise
-- Source: UK Find a Tender
-- Buyer: Mid Ulster District Council
-- Deadline: None
-- Estimated value: 600000.0 GBP
-
-## Hybrid Datacentre Managed Service
-- Source: UK Find a Tender
-- Buyer: Greater Manchester Combined Authority
-- Deadline: None
-
-## Cashless Catering and School Meal Ordering System
-- Source: UK Find a Tender
-- Buyer: THE TED WRAGG MULTI ACADEMY TRUST
-- Deadline: None
-
-## Curriculum Management & Timetabling Software Solutions & Associated Services
-- Source: UK Find a Tender
-- Buyer: SOUTHERN UNIVERSITIES MANAGEMENT SERVICES
-- Deadline: None
-
-## North Northamptonshire Council - Housing Management System
-- Source: UK Find a Tender
-- Buyer: North Northamptonshire Council
-- Deadline: None
-
-## Building compliance solution
-- Source: UK Find a Tender
-- Buyer: London Borough of Camden
-- Deadline: None
-
-## Next Generation on Train Wifi (Members of RM6370)
-- Source: UK Find a Tender
-- Buyer: LONDON NORTH EASTERN RAILWAY LIMITED
-- Deadline: 2026-10-16T12:00:00+01:00
-- Estimated value: 34600000 GBP
-
-## Philippine e-Invoicing Middleware Solution for BIR Integration and EIS Compliance
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-09-15T09:00:00Z
-
-## Maritime Domain Analysis and Reporting
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: 2026-09-22T12:00:00+01:00
-- Estimated value: 100000 GBP
-
-## Market Engagement Notice for the Provision of FMS Managed Services
-- Source: UK Find a Tender
-- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
-- Deadline: None
-- Estimated value: 8000000.0 GBP
-
-## Replacement Contract Management, Billing and Invoicing System
-- Source: UK Find a Tender
-- Buyer: Kent County Council trading as Procurement Services
-- Deadline: 2026-10-06T17:00:00+01:00
-
-## Victim & Citizen Engagement Technology Solution
-- Source: UK Find a Tender
-- Buyer: BlueLight Commercial Limited
-- Deadline: None
-- Estimated value: 80000000.0 GBP
-
-## Virtual Accessibility Tours PME
-- Source: UK Find a Tender
-- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
-- Deadline: None
-
-## Population Health Management (SBS10511)
-- Source: UK Find a Tender
-- Buyer: NHS Shared Business Services Limited
-- Deadline: None
-- Estimated value: 100000000 GBP
-
-## Victim & Citizen Engagement Technology Solution
-- Source: UK Find a Tender
-- Buyer: BlueLight Commercial Limited
-- Deadline: None
-- Estimated value: 80000000.0 GBP
-
-## Montrose ZeroFour Remediation Client Side Team
-- Source: UK Find a Tender
-- Buyer: Crown Estate Scotland
 - Deadline: None
 
