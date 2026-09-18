@@ -1,5 +1,90 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-17T05:09:04.060046+00:00
+Generated: 2026-09-18T05:02:18.395683+00:00
+
+## Security Operation Centre
+- Source: UK Find a Tender
+- Buyer: Bournemouth University
+- Deadline: None
+
+## Request for Information for Provision of  Global Air Passenger Data
+- Source: UK Find a Tender
+- Buyer: Secretary of State for Health and Social Care acting as part of the Crown through UK Health Security Agency
+- Deadline: None
+- Estimated value: 600000.0 GBP
+
+## P12819 - National School of Government and Public Services
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: None
+
+## Network Services Contract
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+- Estimated value: 350000000 GBP
+
+## Request for Information for Provision of  Global Air Passenger Data
+- Source: UK Find a Tender
+- Buyer: Secretary of State for Health and Social Care acting as part of the Crown through UK Health Security Agency
+- Deadline: None
+- Estimated value: 600000.0 GBP
+
+## UK Space Agency - Operational Support to the International Charter: Space and Major Disasters
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: 2026-11-11T23:59:00+00:00
+- Estimated value: 546693 GBP
+
+## P74 - Office WiFi
+- Source: UK Find a Tender
+- Buyer: Salix Finance Ltd
+- Deadline: None
+
+## Electronic Patient Record System - Cloud Support and Maintenance
+- Source: UK Find a Tender
+- Buyer: Digital Health & Care Wales
+- Deadline: None
+- Estimated value: 1.0 GBP
+
+## London Borough of Newham - Future Housing Repairs, Compliance, Building Safety and Capital Investment Programme | Strategic Market Engagement
+- Source: UK Find a Tender
+- Buyer: London Borough of Newham
+- Deadline: None
+- Estimated value: 416000000.0 GBP
+
+## Provision of ScanStation
+- Source: UK Find a Tender
+- Buyer: Hull City Council
+- Deadline: None
+
+## Source to Contract Solution
+- Source: UK Find a Tender
+- Buyer: London Borough of Haringey
+- Deadline: None
+- Estimated value: 460000 GBP
+
+## Workforce Solution 2
+- Source: UK Find a Tender
+- Buyer: Government Commercial Agency
+- Deadline: None
+- Estimated value: 20000000000 GBP
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
+
+## Provision of Visitor Counting Solution
+- Source: UK Find a Tender
+- Buyer: National Galleries of Scotland
+- Deadline: None
+
+## NWL APG Ambient Voice Technology
+- Source: UK Find a Tender
+- Buyer: Imperial College Healthcare NHS Trust
+- Deadline: None
+- Estimated value: 100000.0 GBP
 
 ## SONI089 – Software Licensing & Buying Services
 - Source: UK Find a Tender
@@ -347,52 +432,4 @@ Generated: 2026-09-17T05:09:04.060046+00:00
 - Source: UK Find a Tender
 - Buyer: Lancaster and Morecambe College
 - Deadline: 2026-10-06T12:00:00+01:00
-
-## Pan-Defra Research and Development Evidence Portal
-- Source: UK Find a Tender
-- Buyer: DEPARTMENT FOR ENVIRONMENT, FOOD AND RURAL AFFAIRS
-- Deadline: None
-- Estimated value: 500000.0 GBP
-
-## Internet Services Provider for computer Labs in Riyadh
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-09-16T14:00:00Z
-
-## Home Office Subject Access Request Unit (SARU) Redesign Project: End-to-End Information Rights Case Management Platform and Managed Service
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 4388800 GBP
-
-## DDAITF/013 Planning Data, Knowledge and Analytical Orchestration Services & COA Testing, Evaluation and Adaptation Services for Operational Planning
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-
-## LEG T206 Barracuda MSP Service
-- Source: UK Find a Tender
-- Buyer: Luminate Education Group
-- Deadline: 2026-10-01T12:00:00+01:00
-- Estimated value: 140000 GBP
-
-## UHB Workforce Management Systems
-- Source: UK Find a Tender
-- Buyer: University Hospitals Birmingham NHS Foundation Trust
-- Deadline: 2026-10-08T12:00:00+01:00
-
-## PSBA – CLOUD CONNECT
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale University Health Board
-- Deadline: None
-
-## Babies, Children and Young People Modern Service Framework
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-
-## Legal Case Management System (CMS)
-- Source: UK Find a Tender
-- Buyer: British Business Bank Plc
-- Deadline: None
 
