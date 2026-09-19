@@ -1,5 +1,102 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-18T05:02:18.395683+00:00
+Generated: 2026-09-19T04:54:12.096312+00:00
+
+## CE ICB - CHC Digital Case and Financial Management System
+- Source: UK Find a Tender
+- Buyer: NHS Central East Integrated Care Board
+- Deadline: None
+- Estimated value: 850000.0 GBP
+
+## HS2 Partnering Programme
+- Source: UK Find a Tender
+- Buyer: High Speed Two (HS2) Limited
+- Deadline: None
+
+## Preliminary Market Engagement Round 3 for the Life in the UK (LITUK) Secure Digital Test and Digital Online Learning Materials Service
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 90871000 GBP
+
+## Train Planning Systems Replacement RFI2
+- Source: UK Find a Tender
+- Buyer: SOUTH WESTERN RAILWAY LIMITED
+- Deadline: None
+
+## Chiltern Rail - Train Planning & Rostering System Replacement
+- Source: UK Find a Tender
+- Buyer: CHILTERN RAIL LIMITED
+- Deadline: None
+- Estimated value: 6500000 GBP
+
+## Provision of Corporate and Professional Services to Big Life Schools Multi Academy Trust
+- Source: UK Find a Tender
+- Buyer: Big Life Schools
+- Deadline: 2026-10-07T12:00:00+01:00
+- Estimated value: 545000.0 GBP
+
+## NHM150 Western Galleries - AV Hardware Integrator
+- Source: UK Find a Tender
+- Buyer: Natural History Museum
+- Deadline: 2026-10-23T12:00:00+01:00
+- Estimated value: 300000.0 GBP
+
+## CSP26751 - Delegates for International Energy Agency Technology Collaboration Programme
+- Source: UK Find a Tender
+- Buyer: Department for Energy Security & Net Zero
+- Deadline: 2026-10-13T17:00:00+01:00
+- Estimated value: 147934 GBP
+
+## Provision and Implementation of an Integrated Business Solution 
+- Source: UK Find a Tender
+- Buyer: Tai Tarian Ltd
+- Deadline: 2026-10-13T12:00:00+01:00
+- Estimated value: 7000000.0 GBP
+
+## Community Information System Renewal (WCCIS Replacement)
+- Source: UK Find a Tender
+- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
+- Deadline: 2026-10-16T12:00:00+01:00
+- Estimated value: 10560000.0 GBP
+
+## RFI: Digital Technologies for Contact Tracing, Infection Surveillance & Response
+- Source: UK Find a Tender
+- Buyer: Secretary of State for Health and Social Care acting as part of the Crown through UK Health Security Agency
+- Deadline: None
+- Estimated value: 1.0 GBP
+
+## Avaya Aura Contact Centre System Replacement
+- Source: UK Find a Tender
+- Buyer: Greater Manchester Combined Authority
+- Deadline: None
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
+
+## Defence Talent - Pipeline Notice
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+
+## Defence Talent - Pipeline Notice
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+
+## ITT - Taxation and reuse - UID 350
+- Source: UK Find a Tender
+- Buyer: Historic England
+- Deadline: 2026-10-15T09:30:00+01:00
+- Estimated value: 29166.67 GBP
+
+## White Horse Reservoir (WHR) Independent Technical Advisor (ITA)
+- Source: UK Find a Tender
+- Buyer: THAMES WATER UTILITIES LIMITED
+- Deadline: None
+- Estimated value: 40000000 GBP
 
 ## Security Operation Centre
 - Source: UK Find a Tender
@@ -365,71 +462,4 @@ Generated: 2026-09-18T05:02:18.395683+00:00
 - Source: UK Find a Tender
 - Buyer: Northumberland County Council
 - Deadline: None
-
-## Pioneer Educational Trust - ICT Managed Service
-- Source: UK Find a Tender
-- Buyer: PIONEER EDUCATIONAL TRUST
-- Deadline: None
-- Estimated value: 6000000 GBP
-
-## Cloud Services Provider
-- Source: UK Find a Tender
-- Buyer: Skills Development Scotland Ltd
-- Deadline: None
-
-## Corporate IT Support Service to NHS Gloucestershire Integrated Care Board and Bristol, North Somerset and South Gloucestershire Integrated Care Board
-- Source: UK Find a Tender
-- Buyer: NHS GLOUCESTERSHIRE INTEGRATED CARE BOARD
-- Deadline: 2026-10-12T12:00:00+01:00
-- Estimated value: 2250000 GBP
-
-## Technical Implementation Partner & Business Change Partner (DASP)
-- Source: UK Find a Tender
-- Buyer: NHS Blood and Transplant
-- Deadline: 2026-10-06T12:00:00+01:00
-- Estimated value: 9166666.0 GBP
-
-## Cisco Enterprise Agreement (EA) 2026
-- Source: UK Find a Tender
-- Buyer: London Borough of Camden
-- Deadline: None
-
-## Preliminary Market Engagement Round 3 for the Life in the UK (LITUK) Secure Digital Test and Digital Online Learning Materials Service
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 90871000 GBP
-
-## BCU-FTS-63584 YGC CHILLIER REPLACEMENT
-- Source: UK Find a Tender
-- Buyer: North Wales Shared services Partnership
-- Deadline: 2026-10-07T00:00:00+01:00
-- Estimated value: 250000.0 GBP
-
-## Home Office Subject Access Request Unit (SARU) Redesign Project: End-to-End Information Rights Case Management Platform and Managed Service
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 4388800 GBP
-
-## Supply & Maintenance for Laboratory Information Management System
-- Source: UK Find a Tender
-- Buyer: Scottish Government
-- Deadline: None
-
-## Control Software
-- Source: UK Find a Tender
-- Buyer: UK Atomic Energy Authority
-- Deadline: None
-- Estimated value: 20000 GBP
-
-## AI-Enabled Product and Assessment Development Solution
-- Source: UK Find a Tender
-- Buyer: Construction Industry Training Board
-- Deadline: None
-
-## Server Infrastructure Upgrade & Maintenance
-- Source: UK Find a Tender
-- Buyer: Lancaster and Morecambe College
-- Deadline: 2026-10-06T12:00:00+01:00
 
