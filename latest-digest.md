@@ -1,5 +1,11 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-19T04:54:12.096312+00:00
+Generated: 2026-09-20T05:15:06.146764+00:00
+
+## Customer Due Diligence (CDD) Platform
+- Source: UK Find a Tender
+- Buyer: Notting Hill Genesis (NHG).
+- Deadline: 2026-10-19T12:00:00+01:00
+- Estimated value: 550000.0 GBP
 
 ## CE ICB - CHC Digital Case and Financial Management System
 - Source: UK Find a Tender
