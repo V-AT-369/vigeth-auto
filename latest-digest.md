@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-20T05:15:06.146764+00:00
+Generated: 2026-09-21T05:18:33.729817+00:00
 
 ## Customer Due Diligence (CDD) Platform
 - Source: UK Find a Tender
