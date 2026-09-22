@@ -1,5 +1,60 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-21T05:18:33.729817+00:00
+Generated: 2026-09-22T05:16:34.686089+00:00
+
+## Sustainability and Climate Data Services
+- Source: UK Find a Tender
+- Buyer: BORDER TO COAST PENSIONS PARTNERSHIP LIMITED
+- Deadline: 2026-10-01T16:00:00+01:00
+
+## Legal Case Management System
+- Source: UK Find a Tender
+- Buyer: Education Authority
+- Deadline: None
+- Estimated value: 125000.0 GBP
+
+## SPS-02319 Prisoner Records 2 (PR2) – Technical Change
+- Source: UK Find a Tender
+- Buyer: Scottish Prison Service
+- Deadline: 2026-11-02T12:00:00Z
+
+## The Provision of Secure Payment Kiosks
+- Source: UK Find a Tender
+- Buyer: Denbighshire County Council
+- Deadline: None
+- Estimated value: 1.0 GBP
+
+## Premarket Engagement - PfH Professional Services and Recruitment Framework
+- Source: UK Find a Tender
+- Buyer: Procurement for Housing
+- Deadline: None
+- Estimated value: 60000000.0 GBP
+
+## Technology Services
+- Source: UK Find a Tender
+- Buyer: SANCTUARY HOUSING ASSOCIATION
+- Deadline: None
+
+## International HGV sales data
+- Source: UK Find a Tender
+- Buyer: Department for Transport
+- Deadline: 2026-10-05T12:00:00+01:00
+- Estimated value: 20000 GBP
+
+## Chiltern Rail - Train Planning & Rostering System Replacement
+- Source: UK Find a Tender
+- Buyer: CHILTERN RAIL LIMITED
+- Deadline: None
+- Estimated value: 6500000 GBP
+
+## CPT_26_25 Market Data Software Subscription
+- Source: UK Find a Tender
+- Buyer: National Audit Office
+- Deadline: None
+
+## Synthetic Data Capability
+- Source: UK Find a Tender
+- Buyer: Financial Conduct Authority
+- Deadline: None
 
 ## Customer Due Diligence (CDD) Platform
 - Source: UK Find a Tender
@@ -366,106 +421,4 @@ Generated: 2026-09-21T05:18:33.729817+00:00
 - Buyer: DN Colleges Group
 - Deadline: 2026-09-29T12:00:00+01:00
 - Estimated value: 25000.0 GBP
-
-## P12819 - National School of Government and Public Services
-- Source: UK Find a Tender
-- Buyer: Cabinet Office
-- Deadline: None
-
-## Consultancy and Professional Services
-- Source: UK Find a Tender
-- Buyer: Government Commercial Agency
-- Deadline: 2026-11-09T15:00:00+00:00
-- Estimated value: 5000000000 GBP
-
-## Condition Monitoring
-- Source: UK Find a Tender
-- Buyer: Sellafield Limited
-- Deadline: None
-
-## Update of South East Soil Moisture model
-- Source: UK Find a Tender
-- Buyer: Environment Agency
-- Deadline: 2026-09-17T13:00:00+01:00
-- Estimated value: 50000 GBP
-
-## TEN-2627-047 (PA2023) – Asset Allocation System
-- Source: UK Find a Tender
-- Buyer: National Employment Savings Trust (NEST) Corporation
-- Deadline: 2026-10-14T17:00:00+01:00
-- Estimated value: 7300000 GBP
-
-## EV Infrastructure Back Office
-- Source: UK Find a Tender
-- Buyer: Stirling Council
-- Deadline: 2026-10-15T12:00:00+01:00
-- Estimated value: 315000 GBP
-
-## 715886482 Land Training Assurance Capability (LTAC) UK1
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-- Estimated value: 6848333.33 GBP
-
-## Corporate IT Support Service to NHS Gloucestershire Integrated Care Board and Bristol, North Somerset and South Gloucestershire Integrated Care Board
-- Source: UK Find a Tender
-- Buyer: NHS GLOUCESTERSHIRE INTEGRATED CARE BOARD
-- Deadline: 2026-10-12T12:00:00+01:00
-- Estimated value: 2250000 GBP
-
-## Concession Contract for Publishing, Selling and Marketing of the British Pharmacopoeia
-- Source: UK Find a Tender
-- Buyer: MHRA
-- Deadline: 2027-01-29T12:00:00Z
-- Estimated value: 39810000.0 GBP
-
-## Concession Contract for Publishing, Selling and Marketing of the British Pharmacopoeia
-- Source: UK Find a Tender
-- Buyer: MHRA
-- Deadline: None
-- Estimated value: 39810000.0 GBP
-
-## NEPRO Four
-- Source: UK Find a Tender
-- Buyer: The Association of North East Councils Limited
-- Deadline: None
-- Estimated value: 6000000000 GBP
-
-## C1308 Financial Markets, ESG and Energy Transition Data
-- Source: UK Find a Tender
-- Buyer: NATIONAL WEALTH FUND LIMITED
-- Deadline: None
-
-## Provision of a new college website
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale College
-- Deadline: None
-- Estimated value: 220000.0 GBP
-
-## Online Digital Catalogue and Archive Management Solutions (ERO Online Digital Catalogue)
-- Source: UK Find a Tender
-- Buyer: Essex County Council
-- Deadline: None
-
-## Digital Analytics Services
-- Source: UK Find a Tender
-- Buyer: British Film Institute
-- Deadline: 2026-10-08T12:00:00+01:00
-- Estimated value: 70000 GBP
-
-## The Provision of Access to Media Monitoring Services
-- Source: UK Find a Tender
-- Buyer: Cabinet Office
-- Deadline: 2026-09-29T12:00:00+01:00
-- Estimated value: 40000 GBP
-
-## IoT Devices for Insight into Environmental Conditions Within Freebridge Homes
-- Source: UK Find a Tender
-- Buyer: Freebridge Community Housing Limited
-- Deadline: 2026-10-05T12:00:00+01:00
-
-## Exacom, Building Safety Levy and Public Facing Modules
-- Source: UK Find a Tender
-- Buyer: Northumberland County Council
-- Deadline: None
 
