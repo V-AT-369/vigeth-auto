@@ -1,5 +1,92 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-23T05:01:42.145324+00:00
+Generated: 2026-09-24T05:12:44.894734+00:00
+
+## All-Age Carers Service
+- Source: UK Find a Tender
+- Buyer: Liverpool City Council
+- Deadline: 2026-10-28T12:00:00Z
+- Estimated value: 5355785.0 GBP
+
+## Workflow Management System
+- Source: UK Find a Tender
+- Buyer: WM5G LIMITED
+- Deadline: 2026-10-21T12:00:00+01:00
+- Estimated value: 450000 GBP
+
+## Provision of a White Label Jobs Board Solution for WMjobs.co.uk (W198)
+- Source: UK Find a Tender
+- Buyer: West Midlands Employers
+- Deadline: None
+
+## National Insurance & PAYE Service Support and Change
+- Source: UK Find a Tender
+- Buyer: HM Revenue & Customs
+- Deadline: 2026-10-19T23:59:59+01:00
+- Estimated value: 470100000 GBP
+
+## CA18/5956 Construction, Environmental & Technical Professional Services Framework (CETPS)
+- Source: UK Find a Tender
+- Buyer: Mining Remediation Authority
+- Deadline: 2026-11-06T16:00:00Z
+- Estimated value: 9400000 GBP
+
+## Chiltern Rail - Train Planning & Rostering System Replacement
+- Source: UK Find a Tender
+- Buyer: CHILTERN RAIL LIMITED
+- Deadline: None
+- Estimated value: 6500000 GBP
+
+## Technology Products and Associated Services 3
+- Source: UK Find a Tender
+- Buyer: Government Commercial Agency
+- Deadline: None
+- Estimated value: 20000000000 GBP
+
+## LEG T205 IT Security Operations Centre (SOC) and IT Managed Security Services Provider (MSSP)
+- Source: UK Find a Tender
+- Buyer: Luminate Education Group
+- Deadline: 2026-10-20T12:00:00+01:00
+- Estimated value: 640000 GBP
+
+## Next Generation Technology Reseller Arrangements
+- Source: UK Find a Tender
+- Buyer: BANK OF ENGLAND
+- Deadline: None
+- Estimated value: 90000000 GBP
+
+## ICT Managed Service Partner
+- Source: UK Find a Tender
+- Buyer: LINCOLN ANGLICAN ACADEMY TRUST
+- Deadline: None
+- Estimated value: 2500000 GBP
+
+## ICT Managed Service Partner
+- Source: UK Find a Tender
+- Buyer: MOSAIC SCHOOLS LEARNING TRUST
+- Deadline: None
+- Estimated value: 3000000 GBP
+
+## Website redesign and redevelopment
+- Source: UK Find a Tender
+- Buyer: Capital City College
+- Deadline: 2026-10-27T12:00:00+00:00
+
+## Provision of Managed Security Operations Centre (SOC)
+- Source: UK Find a Tender
+- Buyer: EAST WEST RAILWAY COMPANY LIMITED
+- Deadline: None
+
+## Framework Agreement for AI Enabled Transcription Tools
+- Source: UK Find a Tender
+- Buyer: Caerphilly County Borough Council
+- Deadline: 2026-10-23T12:00:00+01:00
+- Estimated value: 8000000.0 GBP
+
+## 390_27 Document Management Solutions
+- Source: UK Find a Tender
+- Buyer: Leicestershire County Council, trading as ESPO
+- Deadline: 2026-10-14T12:00:00+01:00
+- Estimated value: 83333333.0 GBP
 
 ## PRO005158-Services-Contract-System Integrator : Billing and CRM
 - Source: UK Find a Tender
@@ -342,97 +429,4 @@ Generated: 2026-09-23T05:01:42.145324+00:00
 - Buyer: London Borough of Newham
 - Deadline: None
 - Estimated value: 416000000.0 GBP
-
-## Provision of ScanStation
-- Source: UK Find a Tender
-- Buyer: Hull City Council
-- Deadline: None
-
-## Source to Contract Solution
-- Source: UK Find a Tender
-- Buyer: London Borough of Haringey
-- Deadline: None
-- Estimated value: 460000 GBP
-
-## Workforce Solution 2
-- Source: UK Find a Tender
-- Buyer: Government Commercial Agency
-- Deadline: None
-- Estimated value: 20000000000 GBP
-
-## Provision of a new college website
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale College
-- Deadline: None
-- Estimated value: 220000.0 GBP
-
-## Provision of Visitor Counting Solution
-- Source: UK Find a Tender
-- Buyer: National Galleries of Scotland
-- Deadline: None
-
-## NWL APG Ambient Voice Technology
-- Source: UK Find a Tender
-- Buyer: Imperial College Healthcare NHS Trust
-- Deadline: None
-- Estimated value: 100000.0 GBP
-
-## SONI089 – Software Licensing & Buying Services
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: None
-- Estimated value: 68557055.08 GBP
-
-## Further Premarket Engagement excerise
-- Source: UK Find a Tender
-- Buyer: London Borough of Hammersmith and Fuham
-- Deadline: None
-- Estimated value: 60000000 GBP
-
-## Webinar Invitation: Cyber Accelerator Programme - Design Partnerships
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology
-- Deadline: None
-- Estimated value: 1200000 GBP
-
-## NHS CIOS and NHS Devon - WorkWell Central Hub - Market Engagement
-- Source: UK Find a Tender
-- Buyer: NHS CORNWALL AND ISLES OF SCILLY INTEGRATED CARE BOARD
-- Deadline: None
-- Estimated value: 1500000 GBP
-
-## Dedicated Housing Tenant Website
-- Source: UK Find a Tender
-- Buyer: Cardiff Council
-- Deadline: 2026-10-16T12:00:00+01:00
-- Estimated value: 75500.0 GBP
-
-## Ex-NBC Agresso decommissioning
-- Source: UK Find a Tender
-- Buyer: West Northamptonshire Council
-- Deadline: None
-
-## Land Observations Networks Modems and Sims - Re-tender
-- Source: UK Find a Tender
-- Buyer: Met Office
-- Deadline: 2026-10-05T12:00:00+01:00
-- Estimated value: 208333.33 GBP
-
-## School Attendance, collection data
-- Source: UK Find a Tender
-- Buyer: East Riding of Yorkshire Council
-- Deadline: 2026-09-30T11:00:00+00:00
-- Estimated value: 190000 GBP
-
-## Oracle Server Support and Maintenance
-- Source: UK Find a Tender
-- Buyer: Newcastle City Council
-- Deadline: 2026-10-07T12:00:00+01:00
-- Estimated value: 40500 GBP
-
-## BU452026- Architectural Modelling and Immersive Digital Visualisation												
-- Source: UK Find a Tender
-- Buyer: Prifysgol Bangor / Bangor University
-- Deadline: None
-- Estimated value: 304750.0 GBP
 
