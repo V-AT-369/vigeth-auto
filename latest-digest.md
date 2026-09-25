@@ -1,5 +1,72 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-24T05:12:44.894734+00:00
+Generated: 2026-09-25T05:14:53.451439+00:00
+
+## Pipelines - Support and Development
+- Source: UK Find a Tender
+- Buyer: UK Hydrographic Office
+- Deadline: None
+- Estimated value: 5500000.0 GBP
+
+## Distance Learning Integrated Marketing and Enrolment Solution
+- Source: UK Find a Tender
+- Buyer: University of Huddersfield
+- Deadline: 2026-10-08T12:00:00+01:00
+
+## The provision of Cloudflare Enterprise Services
+- Source: UK Find a Tender
+- Buyer: London Borough of Camden
+- Deadline: None
+
+## Office365 LS 2026
+- Source: UK Find a Tender
+- Buyer: London Stadium 185
+- Deadline: 2026-10-11T23:59:00+01:00
+- Estimated value: 150000.0 GBP
+
+## FDIR Document Checker
+- Source: UK Find a Tender
+- Buyer: HM Revenue & Customs
+- Deadline: None
+
+## Preliminary Market Engagement: Electronic Archiving and Retrieval Solution for WHSCT
+- Source: UK Find a Tender
+- Buyer: Procurement and Logistics Service (PaLS)
+- Deadline: None
+- Estimated value: 1 GBP
+
+## Artificial Intelligence Innovation
+- Source: UK Find a Tender
+- Buyer: Office of Rail and Road
+- Deadline: 2026-10-15T12:00:00+01:00
+- Estimated value: 100000 GBP
+
+## Security Operation Centre
+- Source: UK Find a Tender
+- Buyer: Bournemouth University
+- Deadline: None
+
+## Learning Management System and Associated Services
+- Source: UK Find a Tender
+- Buyer: FAIRHIVE HOMES LIMITED
+- Deadline: 2026-10-15T12:00:00+01:00
+- Estimated value: 125000 GBP
+
+## Risk Management Tool
+- Source: UK Find a Tender
+- Buyer: UK Shared Business Services Ltd
+- Deadline: None
+
+## UK Space Agency - Operational Support to the International Charter: Space and Major Disasters
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: 2026-11-11T15:00:00+00:00
+- Estimated value: 546693 GBP
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
 
 ## All-Age Carers Service
 - Source: UK Find a Tender
@@ -372,61 +439,4 @@ Generated: 2026-09-24T05:12:44.894734+00:00
 - Buyer: Historic England
 - Deadline: 2026-10-15T09:30:00+01:00
 - Estimated value: 29166.67 GBP
-
-## White Horse Reservoir (WHR) Independent Technical Advisor (ITA)
-- Source: UK Find a Tender
-- Buyer: THAMES WATER UTILITIES LIMITED
-- Deadline: None
-- Estimated value: 40000000 GBP
-
-## Security Operation Centre
-- Source: UK Find a Tender
-- Buyer: Bournemouth University
-- Deadline: None
-
-## Request for Information for Provision of  Global Air Passenger Data
-- Source: UK Find a Tender
-- Buyer: Secretary of State for Health and Social Care acting as part of the Crown through UK Health Security Agency
-- Deadline: None
-- Estimated value: 600000.0 GBP
-
-## P12819 - National School of Government and Public Services
-- Source: UK Find a Tender
-- Buyer: Cabinet Office
-- Deadline: None
-
-## Network Services Contract
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-- Estimated value: 350000000 GBP
-
-## Request for Information for Provision of  Global Air Passenger Data
-- Source: UK Find a Tender
-- Buyer: Secretary of State for Health and Social Care acting as part of the Crown through UK Health Security Agency
-- Deadline: None
-- Estimated value: 600000.0 GBP
-
-## UK Space Agency - Operational Support to the International Charter: Space and Major Disasters
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology
-- Deadline: 2026-11-11T23:59:00+00:00
-- Estimated value: 546693 GBP
-
-## P74 - Office WiFi
-- Source: UK Find a Tender
-- Buyer: Salix Finance Ltd
-- Deadline: None
-
-## Electronic Patient Record System - Cloud Support and Maintenance
-- Source: UK Find a Tender
-- Buyer: Digital Health & Care Wales
-- Deadline: None
-- Estimated value: 1.0 GBP
-
-## London Borough of Newham - Future Housing Repairs, Compliance, Building Safety and Capital Investment Programme | Strategic Market Engagement
-- Source: UK Find a Tender
-- Buyer: London Borough of Newham
-- Deadline: None
-- Estimated value: 416000000.0 GBP
 
