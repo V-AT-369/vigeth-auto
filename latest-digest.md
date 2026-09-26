@@ -1,5 +1,101 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-25T05:14:53.451439+00:00
+Generated: 2026-09-26T05:19:27.087149+00:00
+
+## Supply of Networking Hardware and Software
+- Source: UK Find a Tender
+- Buyer: South Wales Fire and Rescue Service
+- Deadline: 2026-10-26T12:00:00+00:00
+- Estimated value: 583000.0 GBP
+
+## Growth Hub Website
+- Source: UK Find a Tender
+- Buyer: York and North Yorkshire Combined Authority
+- Deadline: 2026-10-16T12:00:00+01:00
+
+## Supply of Networking Hardware and Software
+- Source: UK Find a Tender
+- Buyer: South Wales Fire and Rescue Service
+- Deadline: 2026-10-26T12:00:00+00:00
+- Estimated value: 583000.0 GBP
+
+## Tranman Contract
+- Source: UK Find a Tender
+- Buyer: Leeds City Council
+- Deadline: None
+
+## Business Support North East Framework
+- Source: UK Find a Tender
+- Buyer: North East Combined Authority
+- Deadline: None
+
+## NHSR_485 NHS Resolution Pega Cloud Support, Maintenance and Development Services
+- Source: UK Find a Tender
+- Buyer: NHS Litigation Authority
+- Deadline: None
+
+## Source to Contract Solution
+- Source: UK Find a Tender
+- Buyer: London Borough of Haringey
+- Deadline: None
+- Estimated value: 460000 GBP
+
+## Dover Town Centre Regeneration Programme - Lead Consultant Team
+- Source: UK Find a Tender
+- Buyer: Dover District Council
+- Deadline: 2026-11-06T12:00:00+00:00
+- Estimated value: 500000.0 GBP
+
+## CareCubed - National Care Costing Tool
+- Source: UK Find a Tender
+- Buyer: Stockton on Tees Borough Council
+- Deadline: None
+
+## MRI Housing Allocations Solution Software
+- Source: UK Find a Tender
+- Buyer: Stockton on Tees Borough Council
+- Deadline: None
+
+## IoT Devices for Insight into Freebridge Homes
+- Source: UK Find a Tender
+- Buyer: Freebridge Community Housing Limited
+- Deadline: 2026-10-16T12:00:00+01:00
+
+## Consultancy and training AI offer
+- Source: UK Find a Tender
+- Buyer: JISC
+- Deadline: None
+
+## Financial Planning Solution
+- Source: UK Find a Tender
+- Buyer: CADENT GAS LIMITED
+- Deadline: None
+
+## HS2 Partnering Programme
+- Source: UK Find a Tender
+- Buyer: High Speed Two (HS2) Limited
+- Deadline: None
+
+## Catering Technologies and Services
+- Source: UK Find a Tender
+- Buyer: THE UNIVERSITY CATERERS ORGANISATION LIMITED
+- Deadline: None
+- Estimated value: 9600000 GBP
+
+## HMCTS Legacy Archive Recovery and Digitisation
+- Source: UK Find a Tender
+- Buyer: Ministry of Justice
+- Deadline: None
+
+## ICT Managed Service Partner
+- Source: UK Find a Tender
+- Buyer: MOSAIC SCHOOLS LEARNING TRUST
+- Deadline: None
+- Estimated value: 3000000 GBP
+
+## Contract Award for the Procurement of Beyond Trust Software Services
+- Source: UK Find a Tender
+- Buyer: Dundee City Council
+- Deadline: None
 
 ## Pipelines - Support and Development
 - Source: UK Find a Tender
@@ -309,134 +405,4 @@ Generated: 2026-09-25T05:14:53.451439+00:00
 - Buyer: Denbighshire County Council
 - Deadline: None
 - Estimated value: 1.0 GBP
-
-## Premarket Engagement - PfH Professional Services and Recruitment Framework
-- Source: UK Find a Tender
-- Buyer: Procurement for Housing
-- Deadline: None
-- Estimated value: 60000000.0 GBP
-
-## Technology Services
-- Source: UK Find a Tender
-- Buyer: SANCTUARY HOUSING ASSOCIATION
-- Deadline: None
-
-## International HGV sales data
-- Source: UK Find a Tender
-- Buyer: Department for Transport
-- Deadline: 2026-10-05T12:00:00+01:00
-- Estimated value: 20000 GBP
-
-## Chiltern Rail - Train Planning & Rostering System Replacement
-- Source: UK Find a Tender
-- Buyer: CHILTERN RAIL LIMITED
-- Deadline: None
-- Estimated value: 6500000 GBP
-
-## CPT_26_25 Market Data Software Subscription
-- Source: UK Find a Tender
-- Buyer: National Audit Office
-- Deadline: None
-
-## Synthetic Data Capability
-- Source: UK Find a Tender
-- Buyer: Financial Conduct Authority
-- Deadline: None
-
-## Customer Due Diligence (CDD) Platform
-- Source: UK Find a Tender
-- Buyer: Notting Hill Genesis (NHG).
-- Deadline: 2026-10-19T12:00:00+01:00
-- Estimated value: 550000.0 GBP
-
-## CE ICB - CHC Digital Case and Financial Management System
-- Source: UK Find a Tender
-- Buyer: NHS Central East Integrated Care Board
-- Deadline: None
-- Estimated value: 850000.0 GBP
-
-## HS2 Partnering Programme
-- Source: UK Find a Tender
-- Buyer: High Speed Two (HS2) Limited
-- Deadline: None
-
-## Preliminary Market Engagement Round 3 for the Life in the UK (LITUK) Secure Digital Test and Digital Online Learning Materials Service
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 90871000 GBP
-
-## Train Planning Systems Replacement RFI2
-- Source: UK Find a Tender
-- Buyer: SOUTH WESTERN RAILWAY LIMITED
-- Deadline: None
-
-## Chiltern Rail - Train Planning & Rostering System Replacement
-- Source: UK Find a Tender
-- Buyer: CHILTERN RAIL LIMITED
-- Deadline: None
-- Estimated value: 6500000 GBP
-
-## Provision of Corporate and Professional Services to Big Life Schools Multi Academy Trust
-- Source: UK Find a Tender
-- Buyer: Big Life Schools
-- Deadline: 2026-10-07T12:00:00+01:00
-- Estimated value: 545000.0 GBP
-
-## NHM150 Western Galleries - AV Hardware Integrator
-- Source: UK Find a Tender
-- Buyer: Natural History Museum
-- Deadline: 2026-10-23T12:00:00+01:00
-- Estimated value: 300000.0 GBP
-
-## CSP26751 - Delegates for International Energy Agency Technology Collaboration Programme
-- Source: UK Find a Tender
-- Buyer: Department for Energy Security & Net Zero
-- Deadline: 2026-10-13T17:00:00+01:00
-- Estimated value: 147934 GBP
-
-## Provision and Implementation of an Integrated Business Solution 
-- Source: UK Find a Tender
-- Buyer: Tai Tarian Ltd
-- Deadline: 2026-10-13T12:00:00+01:00
-- Estimated value: 7000000.0 GBP
-
-## Community Information System Renewal (WCCIS Replacement)
-- Source: UK Find a Tender
-- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
-- Deadline: 2026-10-16T12:00:00+01:00
-- Estimated value: 10560000.0 GBP
-
-## RFI: Digital Technologies for Contact Tracing, Infection Surveillance & Response
-- Source: UK Find a Tender
-- Buyer: Secretary of State for Health and Social Care acting as part of the Crown through UK Health Security Agency
-- Deadline: None
-- Estimated value: 1.0 GBP
-
-## Avaya Aura Contact Centre System Replacement
-- Source: UK Find a Tender
-- Buyer: Greater Manchester Combined Authority
-- Deadline: None
-
-## Provision of a new college website
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale College
-- Deadline: None
-- Estimated value: 220000.0 GBP
-
-## Defence Talent - Pipeline Notice
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-
-## Defence Talent - Pipeline Notice
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-
-## ITT - Taxation and reuse - UID 350
-- Source: UK Find a Tender
-- Buyer: Historic England
-- Deadline: 2026-10-15T09:30:00+01:00
-- Estimated value: 29166.67 GBP
 
