@@ -1,5 +1,11 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-27T05:36:50.047884+00:00
+Generated: 2026-09-28T05:44:26.159336+00:00
+
+## Social Media Listening & Management Tool
+- Source: UK Find a Tender
+- Buyer: Heritage Fund
+- Deadline: 2026-10-16T12:00:00+01:00
+- Estimated value: 80000.0 GBP
 
 ## Supply of Networking Hardware and Software
 - Source: UK Find a Tender
