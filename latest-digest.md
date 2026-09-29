@@ -1,5 +1,74 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-09-28T05:44:26.159336+00:00
+Generated: 2026-09-29T06:01:32.292563+00:00
+
+## UK2 - Deployable Maritime Secure Analysis Capability – Preliminary Market Engagement
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 1 GBP
+
+## UK2 - Deployable Maritime Secure Analysis Capability – Preliminary Market Engagement
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 1 GBP
+
+## Local Democracy Reporting Platform Service
+- Source: UK Find a Tender
+- Buyer: BBC (British Broadcasting Corporation)
+- Deadline: 2026-10-26T14:00:00Z
+- Estimated value: 1300000 GBP
+
+## Income Tax Self-Assessment Ecosystem Data and Integration - Innovation-Led Proof of Concept
+- Source: UK Find a Tender
+- Buyer: HM Revenue & Customs
+- Deadline: 2026-10-12T14:00:00+01:00
+- Estimated value: 291666.67 GBP
+
+## Scottish Electronic Tax System (SETS)
+- Source: UK Find a Tender
+- Buyer: Revenue Scotland
+- Deadline: None
+
+## Income Tax Self-Assessment Ecosystem Data and Integration - Innovation-Led Proof of Concept
+- Source: UK Find a Tender
+- Buyer: HM Revenue & Customs
+- Deadline: 2026-10-12T14:00:00+01:00
+- Estimated value: 291666.67 GBP
+
+## PRO005084-Services-Framework-DNM Linear Monitor Installs
+- Source: UK Find a Tender
+- Buyer: United Utilities Water Limited
+- Deadline: 2026-12-16T14:00:00+00:00
+- Estimated value: 25000000 GBP
+
+## Board Effectiveness Review
+- Source: UK Find a Tender
+- Buyer: THE FINANCIAL REPORTING COUNCIL LIMITED
+- Deadline: 2026-10-23T12:00:00+01:00
+- Estimated value: 75000 GBP
+
+## Employee Benefits and Occupational Health Services
+- Source: UK Find a Tender
+- Buyer: Government Commercial Agency
+- Deadline: 2026-10-09T15:00:00+01:00
+- Estimated value: 1299500000 GBP
+
+## Diagnostic and Capital Equipment and Related Accessories and Services
+- Source: UK Find a Tender
+- Buyer: SUPPLY CHAIN COORDINATION LIMITED
+- Deadline: 2026-11-30T15:00:00+00:00
+- Estimated value: 4325783082.0 GBP
+
+## Provision of Open Source Tools
+- Source: UK Find a Tender
+- Buyer: The Police, Fire and Crime Commissioner for Northamptonshire
+- Deadline: None
+
+## Babies, Children and Young People Modern Service Framework
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
 
 ## Social Media Listening & Management Tool
 - Source: UK Find a Tender
@@ -368,47 +437,4 @@ Generated: 2026-09-28T05:44:26.159336+00:00
 - Buyer: Leeds and York Partnership NHS Foundation Trust
 - Deadline: 2026-12-07T12:00:00Z
 - Estimated value: 120000.0 GBP
-
-## VENUE HIRE FOR COMPUTER AND BASED EXAMS
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-09-23T20:30:00Z
-
-## Hosting Capability Supplier Procurement
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 183000000 GBP
-
-## Surface Intelligent Transport System (SITS) – Video Analytics
-- Source: UK Find a Tender
-- Buyer: Transport for London
-- Deadline: None
-
-## Computer-Aided Facilities Management (CAFM) System
-- Source: UK Find a Tender
-- Buyer: Stockport Metropolitan Borough Council
-- Deadline: None
-
-## Sustainability and Climate Data Services
-- Source: UK Find a Tender
-- Buyer: BORDER TO COAST PENSIONS PARTNERSHIP LIMITED
-- Deadline: 2026-10-01T16:00:00+01:00
-
-## Legal Case Management System
-- Source: UK Find a Tender
-- Buyer: Education Authority
-- Deadline: None
-- Estimated value: 125000.0 GBP
-
-## SPS-02319 Prisoner Records 2 (PR2) – Technical Change
-- Source: UK Find a Tender
-- Buyer: Scottish Prison Service
-- Deadline: 2026-11-02T12:00:00Z
-
-## The Provision of Secure Payment Kiosks
-- Source: UK Find a Tender
-- Buyer: Denbighshire County Council
-- Deadline: None
-- Estimated value: 1.0 GBP
 
