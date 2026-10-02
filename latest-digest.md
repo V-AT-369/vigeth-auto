@@ -1,5 +1,88 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-01T06:24:15.530505+00:00
+Generated: 2026-10-02T06:01:55.978047+00:00
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
+
+## CSM Service Management
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+
+## Desktop Client Devices
+- Source: UK Find a Tender
+- Buyer: Scottish Government
+- Deadline: None
+- Estimated value: 150000000 GBP
+
+## RFI: Digital Technologies for Contact Tracing, Infection Surveillance & Response
+- Source: UK Find a Tender
+- Buyer: Secretary of State for Health and Social Care acting as part of the Crown through UK Health Security Agency
+- Deadline: None
+- Estimated value: 1.0 GBP
+
+## Pre-Market Engagement - The Provision of Managed Service, Infrastructure and Hardware Refresh
+- Source: UK Find a Tender
+- Buyer: Chorley Council
+- Deadline: None
+
+## Financial and Purchase to Pay System
+- Source: UK Find a Tender
+- Buyer: Stockport Metropolitan Borough Council
+- Deadline: None
+
+## Internet Connectivity, Resilience, Firewall and Web Filtering
+- Source: UK Find a Tender
+- Buyer: COTHAM SCHOOL
+- Deadline: 2026-10-16T12:00:00+01:00
+- Estimated value: 60000 GBP
+
+## Internet Connectivity, Resilience, Firewall and Web Filtering
+- Source: UK Find a Tender
+- Buyer: COTHAM SCHOOL
+- Deadline: 2026-10-16T12:00:00+01:00
+- Estimated value: 60000 GBP
+
+## A Compliance Management Tool
+- Source: UK Find a Tender
+- Buyer: London Borough of Havering
+- Deadline: None
+
+## Dedicated Housing Tenant Website
+- Source: UK Find a Tender
+- Buyer: Cardiff Council
+- Deadline: 2026-10-16T12:00:00+01:00
+- Estimated value: 75500.0 GBP
+
+## NHSR_485 NHS Resolution Pega Cloud Support, Maintenance and Development Services
+- Source: UK Find a Tender
+- Buyer: NHS Litigation Authority
+- Deadline: None
+
+## UKSAC26_0043 EO Data Hub Service Delivery
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: None
+- Estimated value: 5000000 GBP
+
+## RFI - Provision of Taxi and Private Hire Vehicle Licensing Service Discovery
+- Source: UK Find a Tender
+- Buyer: Department for Transport
+- Deadline: None
+
+## Connected Business Platforms Systems Integrator Service Provision
+- Source: UK Find a Tender
+- Buyer: UK Hydrographic Office
+- Deadline: None
+- Estimated value: 5000000.0 GBP
+
+## Bus Shelters, RTPI and Associated Services Y26014
+- Source: UK Find a Tender
+- Buyer: Kent County Council (t/a Procurement Services)
+- Deadline: 2026-11-06T17:00:00+00:00
 
 ## Electronic Point Of Sale Solution
 - Source: UK Find a Tender
@@ -401,85 +484,4 @@ Generated: 2026-10-01T06:24:15.530505+00:00
 - Source: UK Find a Tender
 - Buyer: Stockton on Tees Borough Council
 - Deadline: None
-
-## IoT Devices for Insight into Freebridge Homes
-- Source: UK Find a Tender
-- Buyer: Freebridge Community Housing Limited
-- Deadline: 2026-10-16T12:00:00+01:00
-
-## Consultancy and training AI offer
-- Source: UK Find a Tender
-- Buyer: JISC
-- Deadline: None
-
-## Financial Planning Solution
-- Source: UK Find a Tender
-- Buyer: CADENT GAS LIMITED
-- Deadline: None
-
-## HS2 Partnering Programme
-- Source: UK Find a Tender
-- Buyer: High Speed Two (HS2) Limited
-- Deadline: None
-
-## Catering Technologies and Services
-- Source: UK Find a Tender
-- Buyer: THE UNIVERSITY CATERERS ORGANISATION LIMITED
-- Deadline: None
-- Estimated value: 9600000 GBP
-
-## HMCTS Legacy Archive Recovery and Digitisation
-- Source: UK Find a Tender
-- Buyer: Ministry of Justice
-- Deadline: None
-
-## ICT Managed Service Partner
-- Source: UK Find a Tender
-- Buyer: MOSAIC SCHOOLS LEARNING TRUST
-- Deadline: None
-- Estimated value: 3000000 GBP
-
-## Contract Award for the Procurement of Beyond Trust Software Services
-- Source: UK Find a Tender
-- Buyer: Dundee City Council
-- Deadline: None
-
-## Pipelines - Support and Development
-- Source: UK Find a Tender
-- Buyer: UK Hydrographic Office
-- Deadline: None
-- Estimated value: 5500000.0 GBP
-
-## Distance Learning Integrated Marketing and Enrolment Solution
-- Source: UK Find a Tender
-- Buyer: University of Huddersfield
-- Deadline: 2026-10-08T12:00:00+01:00
-
-## The provision of Cloudflare Enterprise Services
-- Source: UK Find a Tender
-- Buyer: London Borough of Camden
-- Deadline: None
-
-## Office365 LS 2026
-- Source: UK Find a Tender
-- Buyer: London Stadium 185
-- Deadline: 2026-10-11T23:59:00+01:00
-- Estimated value: 150000.0 GBP
-
-## FDIR Document Checker
-- Source: UK Find a Tender
-- Buyer: HM Revenue & Customs
-- Deadline: None
-
-## Preliminary Market Engagement: Electronic Archiving and Retrieval Solution for WHSCT
-- Source: UK Find a Tender
-- Buyer: Procurement and Logistics Service (PaLS)
-- Deadline: None
-- Estimated value: 1 GBP
-
-## Artificial Intelligence Innovation
-- Source: UK Find a Tender
-- Buyer: Office of Rail and Road
-- Deadline: 2026-10-15T12:00:00+01:00
-- Estimated value: 100000 GBP
 
