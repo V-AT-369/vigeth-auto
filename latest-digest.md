@@ -1,5 +1,97 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-02T06:01:55.978047+00:00
+Generated: 2026-10-03T05:36:57.089471+00:00
+
+## Support for CEC Digital Products
+- Source: UK Find a Tender
+- Buyer: The Careers and Enterprise Company
+- Deadline: None
+
+## “Your Education Technology” An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
+- Source: UK Find a Tender
+- Buyer: Nexus Multi-Academy Trust
+- Deadline: 2026-10-30T12:00:00+00:00
+- Estimated value: 1000000000 AED
+
+## ID 6641977 Department of Finance LPS Ordnance Survey eCommerce Procurement Project - PRELIMINARY MARKET ENGAGEMENT
+- Source: UK Find a Tender
+- Buyer: Department of Finance
+- Deadline: None
+- Estimated value: 1 GBP
+
+## “Your Education Technology” An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
+- Source: UK Find a Tender
+- Buyer: Nexus Multi-Academy Trust
+- Deadline: 2026-10-30T12:00:00+00:00
+- Estimated value: 1000000000 AED
+
+## Cytundeb Fframwaith CymruSOC 2.0 CymruSOC 2.0 Framework Agreement
+- Source: UK Find a Tender
+- Buyer: Merthyr Tydfil County Borough Council
+- Deadline: None
+- Estimated value: 90000000.0 GBP
+
+## Digital Transformation and Research & Innovation Consultancy Open Framework
+- Source: UK Find a Tender
+- Buyer: JISC
+- Deadline: 2026-11-05T12:00:00Z
+- Estimated value: 1000000 GBP
+
+## Maternity and Neonatal Patient Reported Experience Measure (MatNeo PREM)
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+
+## West Sussex CC - RFI - Highway Network Management Systems
+- Source: UK Find a Tender
+- Buyer: West Sussex County Council
+- Deadline: None
+- Estimated value: 500000.0 GBP
+
+## Network Operating System (Cisco)
+- Source: UK Find a Tender
+- Buyer: East Riding of Yorkshire Council
+- Deadline: 2026-11-04T12:00:00+00:00
+- Estimated value: 275000 GBP
+
+## Centricity Server, Autodialler, Pilot Licences, & ACCR Support
+- Source: UK Find a Tender
+- Buyer: Yorkshire Ambulance Service NHS Trust
+- Deadline: None
+
+## Mass Communication Tool
+- Source: UK Find a Tender
+- Buyer: Yorkshire Ambulance Service NHS Trust
+- Deadline: None
+
+## Premarket Engagement - PfH Professional Services and Recruitment Framework
+- Source: UK Find a Tender
+- Buyer: Procurement for Housing
+- Deadline: None
+- Estimated value: 60000000.0 GBP
+
+## Kitchen Management Solution & Associated Hardware
+- Source: UK Find a Tender
+- Buyer: The North Yorkshire Council
+- Deadline: None
+- Estimated value: 245500 GBP
+
+## Independent Living Skills App for Young People
+- Source: UK Find a Tender
+- Buyer: Neath Port Talbot County Borough Council
+- Deadline: None
+- Estimated value: 1.0 GBP
+
+## Internet Connectivity, Resilience, Firewall and Web Filtering
+- Source: UK Find a Tender
+- Buyer: COTHAM SCHOOL
+- Deadline: 2026-10-16T12:00:00+01:00
+- Estimated value: 60000 GBP
+
+## Future Transport Modelling - Strategic Advice
+- Source: UK Find a Tender
+- Buyer: Transport for Wales (TFW)
+- Deadline: None
+- Estimated value: 75000.0 GBP
 
 ## Provision of a new college website
 - Source: UK Find a Tender
@@ -383,105 +475,5 @@ Generated: 2026-10-02T06:01:55.978047+00:00
 ## Scottish Electronic Tax System (SETS)
 - Source: UK Find a Tender
 - Buyer: Revenue Scotland
-- Deadline: None
-
-## Income Tax Self-Assessment Ecosystem Data and Integration - Innovation-Led Proof of Concept
-- Source: UK Find a Tender
-- Buyer: HM Revenue & Customs
-- Deadline: 2026-10-12T14:00:00+01:00
-- Estimated value: 291666.67 GBP
-
-## PRO005084-Services-Framework-DNM Linear Monitor Installs
-- Source: UK Find a Tender
-- Buyer: United Utilities Water Limited
-- Deadline: 2026-12-16T14:00:00+00:00
-- Estimated value: 25000000 GBP
-
-## Board Effectiveness Review
-- Source: UK Find a Tender
-- Buyer: THE FINANCIAL REPORTING COUNCIL LIMITED
-- Deadline: 2026-10-23T12:00:00+01:00
-- Estimated value: 75000 GBP
-
-## Employee Benefits and Occupational Health Services
-- Source: UK Find a Tender
-- Buyer: Government Commercial Agency
-- Deadline: 2026-10-09T15:00:00+01:00
-- Estimated value: 1299500000 GBP
-
-## Diagnostic and Capital Equipment and Related Accessories and Services
-- Source: UK Find a Tender
-- Buyer: SUPPLY CHAIN COORDINATION LIMITED
-- Deadline: 2026-11-30T15:00:00+00:00
-- Estimated value: 4325783082.0 GBP
-
-## Provision of Open Source Tools
-- Source: UK Find a Tender
-- Buyer: The Police, Fire and Crime Commissioner for Northamptonshire
-- Deadline: None
-
-## Babies, Children and Young People Modern Service Framework
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-
-## Social Media Listening & Management Tool
-- Source: UK Find a Tender
-- Buyer: Heritage Fund
-- Deadline: 2026-10-16T12:00:00+01:00
-- Estimated value: 80000.0 GBP
-
-## Supply of Networking Hardware and Software
-- Source: UK Find a Tender
-- Buyer: South Wales Fire and Rescue Service
-- Deadline: 2026-10-26T12:00:00+00:00
-- Estimated value: 583000.0 GBP
-
-## Growth Hub Website
-- Source: UK Find a Tender
-- Buyer: York and North Yorkshire Combined Authority
-- Deadline: 2026-10-16T12:00:00+01:00
-
-## Supply of Networking Hardware and Software
-- Source: UK Find a Tender
-- Buyer: South Wales Fire and Rescue Service
-- Deadline: 2026-10-26T12:00:00+00:00
-- Estimated value: 583000.0 GBP
-
-## Tranman Contract
-- Source: UK Find a Tender
-- Buyer: Leeds City Council
-- Deadline: None
-
-## Business Support North East Framework
-- Source: UK Find a Tender
-- Buyer: North East Combined Authority
-- Deadline: None
-
-## NHSR_485 NHS Resolution Pega Cloud Support, Maintenance and Development Services
-- Source: UK Find a Tender
-- Buyer: NHS Litigation Authority
-- Deadline: None
-
-## Source to Contract Solution
-- Source: UK Find a Tender
-- Buyer: London Borough of Haringey
-- Deadline: None
-- Estimated value: 460000 GBP
-
-## Dover Town Centre Regeneration Programme - Lead Consultant Team
-- Source: UK Find a Tender
-- Buyer: Dover District Council
-- Deadline: 2026-11-06T12:00:00+00:00
-- Estimated value: 500000.0 GBP
-
-## CareCubed - National Care Costing Tool
-- Source: UK Find a Tender
-- Buyer: Stockton on Tees Borough Council
-- Deadline: None
-
-## MRI Housing Allocations Solution Software
-- Source: UK Find a Tender
-- Buyer: Stockton on Tees Borough Council
 - Deadline: None
 
