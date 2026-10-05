@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-04T06:12:25.302476+00:00
+Generated: 2026-10-05T06:04:47.340690+00:00
 
 ## Support for CEC Digital Products
 - Source: UK Find a Tender
