@@ -1,5 +1,82 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-05T06:04:47.340690+00:00
+Generated: 2026-10-06T06:44:16.703170+00:00
+
+## C002187 Framework Agreement for the provision of a Learning Management System
+- Source: UK Find a Tender
+- Buyer: The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)
+- Deadline: 2026-11-25T13:00:00Z
+
+## Digital Optimisation Implementation Support
+- Source: UK Find a Tender
+- Buyer: Torbay Council
+- Deadline: None
+- Estimated value: 150000.0 GBP
+
+## Curated literature based database of germline human genomic variants database
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+- Estimated value: 2347766.0 GBP
+
+## CSP26751 - Delegates for International Energy Agency Technology Collaboration Programme
+- Source: UK Find a Tender
+- Buyer: Department for Energy Security & Net Zero
+- Deadline: 2026-10-13T17:00:00+01:00
+- Estimated value: 147934 GBP
+
+## Case Management System Review - Preliminary Market Engagement
+- Source: UK Find a Tender
+- Buyer: London Borough of Waltham Forest
+- Deadline: None
+- Estimated value: 207720.0 GBP
+
+## Transport for London (TfL) Digital Traffic Enforcement System (DTES) Replacement
+- Source: UK Find a Tender
+- Buyer: Transport for London
+- Deadline: None
+
+## Framework Agreement for Connectivity Services for Educational Establishments
+- Source: UK Find a Tender
+- Buyer: Norfolk County Council
+- Deadline: 2026-10-19T11:00:00+01:00
+- Estimated value: 1500000 GBP
+
+## Provision of Systems Integrator Services
+- Source: UK Find a Tender
+- Buyer: UK Hydrographic Office
+- Deadline: None
+
+## Data Governance & Management Support
+- Source: UK Find a Tender
+- Buyer: Tyne and Wear Passenger Transport Executive T/A Nexus
+- Deadline: None
+
+## Uniform, Inventory and Asset Management Solutio
+- Source: UK Find a Tender
+- Buyer: The Police and Crime Commissioner for Nottinghamshire
+- Deadline: 2026-11-04T12:00:00Z
+- Estimated value: 200000 GBP
+
+## Competency Management System
+- Source: UK Find a Tender
+- Buyer: SOUTH WESTERN RAILWAY LIMITED
+- Deadline: None
+
+## Core-Vet Licencing and Support
+- Source: UK Find a Tender
+- Buyer: The Police & Crime Commissioner for Sussex
+- Deadline: None
+
+## National School of Government and Public Services
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: None
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
 
 ## Support for CEC Digital Products
 - Source: UK Find a Tender
@@ -359,121 +436,4 @@ Generated: 2026-10-05T06:04:47.340690+00:00
 - Source: UK Find a Tender
 - Buyer: CONNECTED PLACES CATAPULT
 - Deadline: 2026-10-16T17:00:00+01:00
-
-## Integrated Project Management Office (IPMO)
-- Source: UK Find a Tender
-- Buyer: NATIONAL GRID ELECTRICITY TRANSMISSION PLC
-- Deadline: None
-- Estimated value: 2389250 GBP
-
-## DDaT26499 - Online Dispute Resolution Discovery and Alpha Options
-- Source: UK Find a Tender
-- Buyer: UK Research and Innovation
-- Deadline: None
-
-## UK 777 IT Onsite Operations and Infrastructure supporting services
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-11-02T14:00:00Z
-- Estimated value: 1233333.0 GBP
-
-## Ofcom Skilled Persons
-- Source: UK Find a Tender
-- Buyer: Ofcom
-- Deadline: None
-
-## UK 777 IT Onsite Operations and Infrastructure supporting services
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-11-02T14:00:00Z
-- Estimated value: 1233333.0 GBP
-
-## SWISH Online Sexual Health Services
-- Source: UK Find a Tender
-- Buyer: SOMERSET NHS FOUNDATION TRUST
-- Deadline: None
-
-## Supply and installation of SD-WAN devices and consultancy
-- Source: UK Find a Tender
-- Buyer: The Police & Crime Commissioner for Sussex
-- Deadline: None
-
-## PRO005130: BioSolids Recycling Digital Solution 
-- Source: UK Find a Tender
-- Buyer: UNITED UTILITIES WATER LIMITED
-- Deadline: None
-
-## GAMBLING HARMS REDUCTION PROGRAMME – GAMBLING BLOCKING PRODUCT
-- Source: UK Find a Tender
-- Buyer: Public Health Wales NHS Trust
-- Deadline: None
-- Estimated value: 100000.0 GBP
-
-## Provision of Asylum Support and Accommodation Services
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-
-## Provision of Asylum Support and Accommodation Services
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-
-## Provision of Data Network Core Switch Replacements (Black Diamonds) plus Support and Maintenance
-- Source: UK Find a Tender
-- Buyer: Isle of Wight Council
-- Deadline: None
-
-## UK_777 IT Onsite Operations & Infrastructure supporting services 
-- Source: UK Find a Tender
-- Buyer: BRITISH COUNCIL(THE)
-- Deadline: None
-- Estimated value: 1283333 GBP
-
-## Income Tax Self-Assessment Ecosystem Data and Integration - Innovation-Led Proof of Concept
-- Source: UK Find a Tender
-- Buyer: HM Revenue & Customs
-- Deadline: 2026-10-12T14:00:00+01:00
-- Estimated value: 291666.67 GBP
-
-## Line of Business System  - Market Engagement
-- Source: UK Find a Tender
-- Buyer: Milton Keynes City Council
-- Deadline: None
-- Estimated value: 1000000 GBP
-
-## PRO005084-Services-Framework-DNM Linear Monitor Installs
-- Source: UK Find a Tender
-- Buyer: United Utilities Water Limited
-- Deadline: 2026-12-16T14:00:00+00:00
-- Estimated value: 25000000 GBP
-
-## UK2 - Deployable Maritime Secure Analysis Capability – Preliminary Market Engagement
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-- Estimated value: 1 GBP
-
-## UK2 - Deployable Maritime Secure Analysis Capability – Preliminary Market Engagement
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-- Estimated value: 1 GBP
-
-## Local Democracy Reporting Platform Service
-- Source: UK Find a Tender
-- Buyer: BBC (British Broadcasting Corporation)
-- Deadline: 2026-10-26T14:00:00Z
-- Estimated value: 1300000 GBP
-
-## Income Tax Self-Assessment Ecosystem Data and Integration - Innovation-Led Proof of Concept
-- Source: UK Find a Tender
-- Buyer: HM Revenue & Customs
-- Deadline: 2026-10-12T14:00:00+01:00
-- Estimated value: 291666.67 GBP
-
-## Scottish Electronic Tax System (SETS)
-- Source: UK Find a Tender
-- Buyer: Revenue Scotland
-- Deadline: None
 
