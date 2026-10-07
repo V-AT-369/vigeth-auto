@@ -1,5 +1,119 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-06T06:44:16.703170+00:00
+Generated: 2026-10-07T06:20:03.796566+00:00
+
+## PI1301726 - Network Managed Service Provision (NMSP)
+- Source: UK Find a Tender
+- Buyer: Corporate Officer of the House of Lords
+- Deadline: None
+- Estimated value: 59750000.0 GBP
+
+## UK2 – Preliminary Market Engagement – Sellafield Limited: Software Asset Management Services
+- Source: UK Find a Tender
+- Buyer: Sellafield Limited
+- Deadline: None
+- Estimated value: 4800000.0 GBP
+
+## PI1301726 - Network Managed Service Provision (NMSP)
+- Source: UK Find a Tender
+- Buyer: Corporate Officer of the House of Lords
+- Deadline: None
+- Estimated value: 59750000.0 GBP
+
+## Team Sigma Energy Management Software
+- Source: UK Find a Tender
+- Buyer: Middlesbrough Council
+- Deadline: None
+
+## Digital Primary Care Open Framework
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+- Estimated value: 838749369.0 GBP
+
+## Parking Management
+- Source: UK Find a Tender
+- Buyer: Middlesbrough Council
+- Deadline: None
+
+## Belfast Stories – Story Engine
+- Source: UK Find a Tender
+- Buyer: Belfast City Council
+- Deadline: 2026-11-10T12:00:00+00:00
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
+
+## ID 6617419 Department of Finance Departmental Solicitors Office DSO Legal Case Management System
+- Source: UK Find a Tender
+- Buyer: Department of Finance
+- Deadline: None
+- Estimated value: 1 GBP
+
+## BACS Bureau Support for NWL Trusts
+- Source: UK Find a Tender
+- Buyer: Central London Community Healthcare NHS Trust
+- Deadline: None
+- Estimated value: 500000.0 GBP
+
+## 2026 ATS & HRIS
+- Source: UK Find a Tender
+- Buyer: OAK NATIONAL ACADEMY LIMITED
+- Deadline: None
+
+## Fire Safety Products and Associated Services
+- Source: UK Find a Tender
+- Buyer: Kent County Council trading as Procurement Services
+- Deadline: 2026-11-05T17:00:00+00:00
+- Estimated value: 120000000.0 GBP
+
+## Waste Management (sustainable) services
+- Source: UK Find a Tender
+- Buyer: London Universities Purchasing Consortium
+- Deadline: None
+- Estimated value: 110000000 GBP
+
+## Concession Contract for Publishing, Selling and Marketing of the British Pharmacopoeia
+- Source: UK Find a Tender
+- Buyer: MHRA
+- Deadline: None
+- Estimated value: 39810000.0 GBP
+
+## HR & Payroll Functions
+- Source: UK Find a Tender
+- Buyer: Middlesbrough Council
+- Deadline: None
+
+## Pathology Managed Equipment Service (MES) – South 4 Pathology Network
+- Source: UK Find a Tender
+- Buyer: Oxford University Hospitals NHS Trust
+- Deadline: None
+- Estimated value: 150000000.0 GBP
+
+## Provision of a new college website
+- Source: UK Find a Tender
+- Buyer: Cardiff and Vale College
+- Deadline: None
+- Estimated value: 220000.0 GBP
+
+## Supply and Maintenance of Urban Traffic Management and Control Systems (software)
+- Source: UK Find a Tender
+- Buyer: Bristol City Council
+- Deadline: None
+- Estimated value: 900000 GBP
+
+## Technology Products and Associated Services 3
+- Source: UK Find a Tender
+- Buyer: Government Commercial Agency
+- Deadline: None
+- Estimated value: 20000000000 GBP
+
+## Disposal of IT Criminal Exhibits
+- Source: UK Find a Tender
+- Buyer: Metropolitan Police Service
+- Deadline: None
 
 ## C002187 Framework Agreement for the provision of a Learning Management System
 - Source: UK Find a Tender
@@ -321,119 +435,4 @@ Generated: 2026-10-06T06:44:16.703170+00:00
 - Buyer: York and North Yorkshire Combined Authority
 - Deadline: 2026-11-16T11:00:00Z
 - Estimated value: 15000000 GBP
-
-## Digital Destruction of Records & Digital Forensics
-- Source: UK Find a Tender
-- Buyer: University Hospitals Sussex NHS Foundation Trust
-- Deadline: None
-
-## Chiltern Rail - Train Planning & Rostering System Replacement
-- Source: UK Find a Tender
-- Buyer: CHILTERN RAIL LIMITED
-- Deadline: None
-- Estimated value: 6500000 GBP
-
-## SONI092 – Workplace Technology Services 
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: None
-- Estimated value: 2120000.0 GBP
-
-## Use of Quantum Magnetic Sensing and Edge-AI in Asset Performance Monitoring in Airports
-- Source: UK Find a Tender
-- Buyer: CONNECTED PLACES CATAPULT
-- Deadline: 2026-10-15T12:00:00+01:00
-
-## Corporate PMO Assurance Framework and Operating Model
-- Source: UK Find a Tender
-- Buyer: City of Bradford Metropolitan District Council
-- Deadline: 2026-10-26T11:00:00+00:00
-- Estimated value: 350000 GBP
-
-## Provision of a White Label Jobs Board Solution for WMjobs.co.uk (W198)
-- Source: UK Find a Tender
-- Buyer: West Midlands Employers
-- Deadline: None
-
-## Electronic Point Of Sale Solution
-- Source: UK Find a Tender
-- Buyer: Bournemouth, Christchurch and Poole Council
-- Deadline: 2026-10-27T13:00:00Z
-- Estimated value: 400000 GBP
-
-## Managed ICT Service Partner
-- Source: UK Find a Tender
-- Buyer: The City of Edinburgh Council
-- Deadline: None
-
-## Technical Implementation Partner & Business Change Partner (DASP)
-- Source: UK Find a Tender
-- Buyer: NHS Blood and Transplant
-- Deadline: 2026-10-09T12:00:00+01:00
-- Estimated value: 9166666.0 GBP
-
-## Technical Implementation Partner & Business Change Partner (DASP)
-- Source: UK Find a Tender
-- Buyer: NHS Blood and Transplant
-- Deadline: 2026-10-09T12:00:00+01:00
-- Estimated value: 9166666.0 GBP
-
-## Westcountry Schools Trust - CAFM System
-- Source: UK Find a Tender
-- Buyer: Westcountry Schools Trust
-- Deadline: None
-- Estimated value: 350000 GBP
-
-## Highways and Infrastructure Professional Services Contract
-- Source: UK Find a Tender
-- Buyer: Norfolk County Council
-- Deadline: None
-- Estimated value: 86300000 GBP
-
-## Provision of an Asset Management Solution - Competitive Flexible Procedure
-- Source: UK Find a Tender
-- Buyer: Isle of Wight Council
-- Deadline: 2026-10-27T14:00:00+00:00
-- Estimated value: 201300.0 GBP
-
-## Secondary Care Medicines Data Pre-Market Engagement
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-- Estimated value: 6750000.0 GBP
-
-## Secondary Care Medicines Data Pre-Market Engagement
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-- Estimated value: 6750000.0 GBP
-
-## Unified Customer Contact and Force Control Room Solution
-- Source: UK Find a Tender
-- Buyer: York and North Yorkshire Combined Authority
-- Deadline: 2026-11-17T11:00:00Z
-- Estimated value: 15000000 GBP
-
-## AI Overlay for the Existing Avaya Elite Telephony Platform
-- Source: UK Find a Tender
-- Buyer: North East Ambulance Service NHS Foundation Trust
-- Deadline: None
-- Estimated value: 200000.0 GBP
-
-## ICT Data Platform Consultancy Services
-- Source: UK Find a Tender
-- Buyer: Ayrshire College
-- Deadline: 2026-11-11T12:00:00Z
-- Estimated value: 200000 GBP
-
-## Preliminary Market Engagement: Prevention and Protection Case Management / Workflow Solution
-- Source: UK Find a Tender
-- Buyer: Business Services Organisation Procurement and Logistics Service
-- Deadline: None
-- Estimated value: 1 GBP
-
-## Product and Service Design and Implementation
-- Source: UK Find a Tender
-- Buyer: CONNECTED PLACES CATAPULT
-- Deadline: 2026-10-16T17:00:00+01:00
 
