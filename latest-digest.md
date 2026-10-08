@@ -1,5 +1,68 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-07T06:20:03.796566+00:00
+Generated: 2026-10-08T06:31:32.621791+00:00
+
+## Investment Appraisal and Proposition Development Support
+- Source: UK Find a Tender
+- Buyer: York and North Yorkshire Combined Authority
+- Deadline: 2026-10-28T12:00:00Z
+
+## Transit Payment Service Providers (TPSP),  Closed Loop cEMV Token Providers, and Handheld Revenue Inspection Devices, for public transport services
+- Source: UK Find a Tender
+- Buyer: SOUTH WEST SMART APPLICATIONS LIMITED
+- Deadline: 2026-11-30T12:00:00Z
+- Estimated value: 60000000 GBP
+
+## Light Measurement Data Acquisition hardware Replacement
+- Source: UK Find a Tender
+- Buyer: The Corporation of Trinity House of Deptford Strond
+- Deadline: 2026-10-23T12:00:00+01:00
+- Estimated value: 60000.0 GBP
+
+## IT Managed services for YMCA London and City North
+- Source: UK Find a Tender
+- Buyer: YMCA London City & North
+- Deadline: 2026-11-10T12:00:00+00:00
+- Estimated value: 420000 GBP
+
+## Baby Tagging System
+- Source: UK Find a Tender
+- Buyer: Bolton NHS Foundation Trust
+- Deadline: 2026-12-11T12:00:00Z
+- Estimated value: 240000.0 GBP
+
+## DfT - Scan of Streets - Request for Information
+- Source: UK Find a Tender
+- Buyer: Department for Transport
+- Deadline: None
+
+## Provision of Healthshare Health Connect Enterprise System
+- Source: UK Find a Tender
+- Buyer: SOMERSET NHS FOUNDATION TRUST
+- Deadline: None
+
+## Continuous Testing (PTaaS) Service Agreement
+- Source: UK Find a Tender
+- Buyer: THAMES WATER UTILITIES LIMITED
+- Deadline: None
+- Estimated value: 2000000 GBP
+
+## Senedd Business Management System
+- Source: UK Find a Tender
+- Buyer: Senedd Cymru / Welsh Parliament
+- Deadline: None
+- Estimated value: 1000000.0 GBP
+
+## IWM Immersive Experience
+- Source: UK Find a Tender
+- Buyer: Imperial War Museum
+- Deadline: None
+- Estimated value: 1000000 GBP
+
+## Bwrdd Partneriaeth Rhanbarthol Plant Gogledd Cymru: Adolygiad Gwasanaethau Plant./ North Wales Children's Regional Partnership Board: Childrens Service Review.
+- Source: UK Find a Tender
+- Buyer: Cyngor Sir Ddinbych / Denbighshire County Council
+- Deadline: 2026-11-04T12:00:00+00:00
+- Estimated value: 120000.0 GBP
 
 ## PI1301726 - Network Managed Service Provision (NMSP)
 - Source: UK Find a Tender
@@ -316,123 +379,4 @@ Generated: 2026-10-07T06:20:03.796566+00:00
 - Source: UK Find a Tender
 - Buyer: Stockport Metropolitan Borough Council
 - Deadline: None
-
-## Internet Connectivity, Resilience, Firewall and Web Filtering
-- Source: UK Find a Tender
-- Buyer: COTHAM SCHOOL
-- Deadline: 2026-10-16T12:00:00+01:00
-- Estimated value: 60000 GBP
-
-## Internet Connectivity, Resilience, Firewall and Web Filtering
-- Source: UK Find a Tender
-- Buyer: COTHAM SCHOOL
-- Deadline: 2026-10-16T12:00:00+01:00
-- Estimated value: 60000 GBP
-
-## A Compliance Management Tool
-- Source: UK Find a Tender
-- Buyer: London Borough of Havering
-- Deadline: None
-
-## Dedicated Housing Tenant Website
-- Source: UK Find a Tender
-- Buyer: Cardiff Council
-- Deadline: 2026-10-16T12:00:00+01:00
-- Estimated value: 75500.0 GBP
-
-## NHSR_485 NHS Resolution Pega Cloud Support, Maintenance and Development Services
-- Source: UK Find a Tender
-- Buyer: NHS Litigation Authority
-- Deadline: None
-
-## UKSAC26_0043 EO Data Hub Service Delivery
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology
-- Deadline: None
-- Estimated value: 5000000 GBP
-
-## RFI - Provision of Taxi and Private Hire Vehicle Licensing Service Discovery
-- Source: UK Find a Tender
-- Buyer: Department for Transport
-- Deadline: None
-
-## Connected Business Platforms Systems Integrator Service Provision
-- Source: UK Find a Tender
-- Buyer: UK Hydrographic Office
-- Deadline: None
-- Estimated value: 5000000.0 GBP
-
-## Bus Shelters, RTPI and Associated Services Y26014
-- Source: UK Find a Tender
-- Buyer: Kent County Council (t/a Procurement Services)
-- Deadline: 2026-11-06T17:00:00+00:00
-
-## Electronic Point Of Sale Solution
-- Source: UK Find a Tender
-- Buyer: Bournemouth, Christchurch and Poole Council
-- Deadline: 2026-10-27T13:00:00Z
-- Estimated value: 400000 GBP
-
-## Agenda for Change Job Evaluation Digital System
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: 2026-10-12T12:00:00+01:00
-- Estimated value: 2600000.0 GBP
-
-## Laundry Replacement of the PLC Controlling
-- Source: UK Find a Tender
-- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
-- Deadline: 2026-10-26T16:00:00+00:00
-- Estimated value: 25000.0 GBP
-
-## Configuration Management Database Solution
-- Source: UK Find a Tender
-- Buyer: Education Authority
-- Deadline: None
-
-## Procurement of a 'Local Authority' Legal Case Management System
-- Source: UK Find a Tender
-- Buyer: North Tyneside Borough Council
-- Deadline: 2026-10-28T12:00:00Z
-- Estimated value: 200000 GBP
-
-## Asset Information Management System (AIMS) - MW
-- Source: UK Find a Tender
-- Buyer: WOLVERHAMPTON HOMES LIMITED
-- Deadline: None
-- Estimated value: 350000 GBP
-
-## Asset Information Management System (AIMS) - MW
-- Source: UK Find a Tender
-- Buyer: WOLVERHAMPTON HOMES LIMITED
-- Deadline: None
-- Estimated value: 350000 GBP
-
-## Multi-Disciplinary Consultancy Services Tranche 1
-- Source: UK Find a Tender
-- Buyer: NHMF (NPC) LIMITED
-- Deadline: 2026-10-26T15:00:00Z
-
-## BGWM Digital Transformation (Discovery Phase)
-- Source: UK Find a Tender
-- Buyer: WEST MIDLANDS GROWTH COMPANY LIMITED
-- Deadline: 2026-10-26T12:00:00+00:00
-- Estimated value: 100000.0 GBP
-
-## PRO005124 – Works – Dynamic Market – Building, Operations, Labour & Trade Services
-- Source: UK Find a Tender
-- Buyer: United Utilities Water Limited
-- Deadline: 2034-12-13T23:59:59Z
-
-## ITT - External Strategic Advisor to the Digital Services Portfolio Board - UID 319
-- Source: UK Find a Tender
-- Buyer: Historic England
-- Deadline: 2026-10-21T09:30:00+01:00
-- Estimated value: 40000 GBP
-
-## Unified Customer Contact and Force Control Room Solution
-- Source: UK Find a Tender
-- Buyer: York and North Yorkshire Combined Authority
-- Deadline: 2026-11-16T11:00:00Z
-- Estimated value: 15000000 GBP
 
