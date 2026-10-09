@@ -1,5 +1,111 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-08T06:31:32.621791+00:00
+Generated: 2026-10-09T06:32:44.152543+00:00
+
+## Device-as-a-Service (DaaS)
+- Source: UK Find a Tender
+- Buyer: Cantium Business Solutions Limited
+- Deadline: 2026-11-03T17:00:00+00:00
+
+## Company Information Database Subscription
+- Source: UK Find a Tender
+- Buyer: Competition and Markets Authority
+- Deadline: 2026-11-11T12:00:00+00:00
+- Estimated value: 575000.0 GBP
+
+## Competency Management System
+- Source: UK Find a Tender
+- Buyer: SOUTH WESTERN RAILWAY LIMITED
+- Deadline: None
+
+## Community Impact Fund – Grant Administration
+- Source: UK Find a Tender
+- Buyer: North East Combined Authority
+- Deadline: 2026-11-10T00:00:00Z
+- Estimated value: 308000 GBP
+
+## Community Impact Fund – Programme Management Office
+- Source: UK Find a Tender
+- Buyer: North East Combined Authority
+- Deadline: 2026-11-10T00:00:00Z
+- Estimated value: 680000 GBP
+
+## UK1 - Pipeline Notice
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 3000000 GBP
+
+## Rail Data Marketplace
+- Source: UK Find a Tender
+- Buyer: RAIL DELIVERY GROUP LIMITED
+- Deadline: None
+
+## ITT TMBC - Cemetery Management Software
+- Source: UK Find a Tender
+- Buyer: Tonbridge & Malling Borough Council
+- Deadline: 2026-11-05T12:00:00+00:00
+
+## CSP26751 - Delegates for International Energy Agency Technology Collaboration Programme
+- Source: UK Find a Tender
+- Buyer: Department for Energy Security & Net Zero
+- Deadline: 2026-10-13T17:00:00+01:00
+- Estimated value: 147934 GBP
+
+## DHSC: Health Survey for England 2028-31
+- Source: UK Find a Tender
+- Buyer: Department of Health & Social Care
+- Deadline: None
+
+## DHSC: Health Survey for England 2028-31
+- Source: UK Find a Tender
+- Buyer: Department of Health & Social Care
+- Deadline: None
+
+## UK1 - Provision of a Successor Avionic Systems Trainer (SAvST)
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 2480000.0 GBP
+
+## RBWM Real Time Passenger Information (RTPI) Services
+- Source: UK Find a Tender
+- Buyer: Royal Borough of Windsor & Maidenhead
+- Deadline: None
+- Estimated value: 800000 GBP
+
+## Hybrid Security Operations Centre (SOC)
+- Source: UK Find a Tender
+- Buyer: British Film Institute
+- Deadline: 2026-11-02T12:00:00+00:00
+- Estimated value: 150000 GBP
+
+## WCC Heat Networks Software
+- Source: UK Find a Tender
+- Buyer: Westminster City Council
+- Deadline: None
+- Estimated value: 300000 GBP
+
+## PRJ_31300 - WCC Heat Network Software
+- Source: UK Find a Tender
+- Buyer: Westminster City Council
+- Deadline: 2026-11-17T17:00:00+00:00
+- Estimated value: 300000 GBP
+
+## Connectivity and Telecommunications Services
+- Source: UK Find a Tender
+- Buyer: THAMES WATER UTILITIES LIMITED
+- Deadline: None
+
+## 2026 ATS & HRIS
+- Source: UK Find a Tender
+- Buyer: OAK NATIONAL ACADEMY LIMITED
+- Deadline: None
+
+## Provision of Motor Control Centres, Systems Integration and ICA Services
+- Source: UK Find a Tender
+- Buyer: Scottish Water
+- Deadline: 2026-11-09T12:00:00Z
+- Estimated value: 140000000.0 GBP
 
 ## Investment Appraisal and Proposition Development Support
 - Source: UK Find a Tender
@@ -315,68 +421,5 @@ Generated: 2026-10-08T06:31:32.621791+00:00
 ## Mass Communication Tool
 - Source: UK Find a Tender
 - Buyer: Yorkshire Ambulance Service NHS Trust
-- Deadline: None
-
-## Premarket Engagement - PfH Professional Services and Recruitment Framework
-- Source: UK Find a Tender
-- Buyer: Procurement for Housing
-- Deadline: None
-- Estimated value: 60000000.0 GBP
-
-## Kitchen Management Solution & Associated Hardware
-- Source: UK Find a Tender
-- Buyer: The North Yorkshire Council
-- Deadline: None
-- Estimated value: 245500 GBP
-
-## Independent Living Skills App for Young People
-- Source: UK Find a Tender
-- Buyer: Neath Port Talbot County Borough Council
-- Deadline: None
-- Estimated value: 1.0 GBP
-
-## Internet Connectivity, Resilience, Firewall and Web Filtering
-- Source: UK Find a Tender
-- Buyer: COTHAM SCHOOL
-- Deadline: 2026-10-16T12:00:00+01:00
-- Estimated value: 60000 GBP
-
-## Future Transport Modelling - Strategic Advice
-- Source: UK Find a Tender
-- Buyer: Transport for Wales (TFW)
-- Deadline: None
-- Estimated value: 75000.0 GBP
-
-## Provision of a new college website
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale College
-- Deadline: None
-- Estimated value: 220000.0 GBP
-
-## CSM Service Management
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-
-## Desktop Client Devices
-- Source: UK Find a Tender
-- Buyer: Scottish Government
-- Deadline: None
-- Estimated value: 150000000 GBP
-
-## RFI: Digital Technologies for Contact Tracing, Infection Surveillance & Response
-- Source: UK Find a Tender
-- Buyer: Secretary of State for Health and Social Care acting as part of the Crown through UK Health Security Agency
-- Deadline: None
-- Estimated value: 1.0 GBP
-
-## Pre-Market Engagement - The Provision of Managed Service, Infrastructure and Hardware Refresh
-- Source: UK Find a Tender
-- Buyer: Chorley Council
-- Deadline: None
-
-## Financial and Purchase to Pay System
-- Source: UK Find a Tender
-- Buyer: Stockport Metropolitan Borough Council
 - Deadline: None
 
