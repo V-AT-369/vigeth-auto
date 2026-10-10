@@ -1,5 +1,98 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-09T06:32:44.152543+00:00
+Generated: 2026-10-10T06:14:49.176791+00:00
+
+## Cultural Host request
+- Source: UK Find a Tender
+- Buyer: Borough of Telford & Wrekin
+- Deadline: 2026-10-26T12:00:00+00:00
+- Estimated value: 20000 GBP
+
+## Data Collection Services (Re procurement of the Bank of England's Electronic Data System, BEEDS)
+- Source: UK Find a Tender
+- Buyer: BANK OF ENGLAND
+- Deadline: None
+- Estimated value: 20000000 GBP
+
+## Provision of an E-Procurement and Contract Management System (Proquro)
+- Source: UK Find a Tender
+- Buyer: Southampton City Council
+- Deadline: None
+
+## CotswoldsPlus Local Visitor Economy Data Platform to Include Support and Maintenance
+- Source: UK Find a Tender
+- Buyer: Cotswold District Council
+- Deadline: 2026-11-09T17:00:00+00:00
+- Estimated value: 280000 GBP
+
+## Employee Relations Case Management System
+- Source: UK Find a Tender
+- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
+- Deadline: None
+
+## Online Assessment Tool
+- Source: UK Find a Tender
+- Buyer: West Yorkshire Fire and Rescue Authority
+- Deadline: None
+- Estimated value: 60000 GBP
+
+## Preliminary Market Engagement for the Supply of a Cloud Hosted Occupational Health Administration Solution and Associated Services.
+- Source: UK Find a Tender
+- Buyer: Derbyshire County Council
+- Deadline: None
+
+## Chelmsford College Website tender
+- Source: UK Find a Tender
+- Buyer: Chelmsford College
+- Deadline: 2026-11-06T23:59:59Z
+
+## TfGM Single View of the Network
+- Source: UK Find a Tender
+- Buyer: Transport for Greater Manchester
+- Deadline: None
+- Estimated value: 1000000 GBP
+
+## ITT (CF) - Digital Preservation System - UID 226M
+- Source: UK Find a Tender
+- Buyer: Historic England
+- Deadline: 2026-11-04T09:30:00+00:00
+- Estimated value: 1160000 GBP
+
+## Rutland County Museum Brand Identity and Website
+- Source: UK Find a Tender
+- Buyer: Rutland County Council
+- Deadline: 2026-10-30T23:59:59Z
+- Estimated value: 30000 GBP
+
+## Procurement of an HR and Payroll System
+- Source: UK Find a Tender
+- Buyer: LOOK AHEAD CARE AND SUPPORT LIMITED
+- Deadline: 2026-11-20T17:00:00Z
+
+## Procurement of an HR and Payroll System
+- Source: UK Find a Tender
+- Buyer: LOOK AHEAD CARE AND SUPPORT LIMITED
+- Deadline: 2026-11-20T17:00:00Z
+
+## Provision of a Tax Administration and Management Solution for Revenue Scotland
+- Source: UK Find a Tender
+- Buyer: Revenue Scotland
+- Deadline: None
+
+## University of York - IAM - Technical Implementation Partner Services
+- Source: UK Find a Tender
+- Buyer: University of York
+- Deadline: None
+
+## Cloud delivered security solution - Palo Alto Prisma Access
+- Source: UK Find a Tender
+- Buyer: City of Bradford Metropolitan District Council
+- Deadline: None
+
+## FHT028 Integrated Housing Management System
+- Source: UK Find a Tender
+- Buyer: ForHousing Ltd
+- Deadline: 2026-11-03T11:00:00+00:00
+- Estimated value: 1200000.0 GBP
 
 ## Device-as-a-Service (DaaS)
 - Source: UK Find a Tender
@@ -343,83 +436,5 @@ Generated: 2026-10-09T06:32:44.152543+00:00
 ## Competency Management System
 - Source: UK Find a Tender
 - Buyer: SOUTH WESTERN RAILWAY LIMITED
-- Deadline: None
-
-## Core-Vet Licencing and Support
-- Source: UK Find a Tender
-- Buyer: The Police & Crime Commissioner for Sussex
-- Deadline: None
-
-## National School of Government and Public Services
-- Source: UK Find a Tender
-- Buyer: Cabinet Office
-- Deadline: None
-
-## Provision of a new college website
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale College
-- Deadline: None
-- Estimated value: 220000.0 GBP
-
-## Support for CEC Digital Products
-- Source: UK Find a Tender
-- Buyer: The Careers and Enterprise Company
-- Deadline: None
-
-## “Your Education Technology” An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
-- Source: UK Find a Tender
-- Buyer: Nexus Multi-Academy Trust
-- Deadline: 2026-10-30T12:00:00+00:00
-- Estimated value: 1000000000 AED
-
-## ID 6641977 Department of Finance LPS Ordnance Survey eCommerce Procurement Project - PRELIMINARY MARKET ENGAGEMENT
-- Source: UK Find a Tender
-- Buyer: Department of Finance
-- Deadline: None
-- Estimated value: 1 GBP
-
-## “Your Education Technology” An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
-- Source: UK Find a Tender
-- Buyer: Nexus Multi-Academy Trust
-- Deadline: 2026-10-30T12:00:00+00:00
-- Estimated value: 1000000000 AED
-
-## Cytundeb Fframwaith CymruSOC 2.0 CymruSOC 2.0 Framework Agreement
-- Source: UK Find a Tender
-- Buyer: Merthyr Tydfil County Borough Council
-- Deadline: None
-- Estimated value: 90000000.0 GBP
-
-## Digital Transformation and Research & Innovation Consultancy Open Framework
-- Source: UK Find a Tender
-- Buyer: JISC
-- Deadline: 2026-11-05T12:00:00Z
-- Estimated value: 1000000 GBP
-
-## Maternity and Neonatal Patient Reported Experience Measure (MatNeo PREM)
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-
-## West Sussex CC - RFI - Highway Network Management Systems
-- Source: UK Find a Tender
-- Buyer: West Sussex County Council
-- Deadline: None
-- Estimated value: 500000.0 GBP
-
-## Network Operating System (Cisco)
-- Source: UK Find a Tender
-- Buyer: East Riding of Yorkshire Council
-- Deadline: 2026-11-04T12:00:00+00:00
-- Estimated value: 275000 GBP
-
-## Centricity Server, Autodialler, Pilot Licences, & ACCR Support
-- Source: UK Find a Tender
-- Buyer: Yorkshire Ambulance Service NHS Trust
-- Deadline: None
-
-## Mass Communication Tool
-- Source: UK Find a Tender
-- Buyer: Yorkshire Ambulance Service NHS Trust
 - Deadline: None
 
