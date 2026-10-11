@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-10T06:14:49.176791+00:00
+Generated: 2026-10-11T06:13:56.553042+00:00
 
 ## Cultural Host request
 - Source: UK Find a Tender
@@ -432,9 +432,4 @@ Generated: 2026-10-10T06:14:49.176791+00:00
 - Buyer: The Police and Crime Commissioner for Nottinghamshire
 - Deadline: 2026-11-04T12:00:00Z
 - Estimated value: 200000 GBP
-
-## Competency Management System
-- Source: UK Find a Tender
-- Buyer: SOUTH WESTERN RAILWAY LIMITED
-- Deadline: None
 
