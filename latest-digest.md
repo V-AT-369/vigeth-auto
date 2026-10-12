@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-11T06:13:56.553042+00:00
+Generated: 2026-10-12T06:22:04.664139+00:00
 
 ## Cultural Host request
 - Source: UK Find a Tender
@@ -421,15 +421,4 @@ Generated: 2026-10-11T06:13:56.553042+00:00
 - Source: UK Find a Tender
 - Buyer: UK Hydrographic Office
 - Deadline: None
-
-## Data Governance & Management Support
-- Source: UK Find a Tender
-- Buyer: Tyne and Wear Passenger Transport Executive T/A Nexus
-- Deadline: None
-
-## Uniform, Inventory and Asset Management Solutio
-- Source: UK Find a Tender
-- Buyer: The Police and Crime Commissioner for Nottinghamshire
-- Deadline: 2026-11-04T12:00:00Z
-- Estimated value: 200000 GBP
 
