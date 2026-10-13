@@ -1,5 +1,85 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-12T06:22:04.664139+00:00
+Generated: 2026-10-13T07:00:36.735972+00:00
+
+## “Your Education Technology” An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
+- Source: UK Find a Tender
+- Buyer: Nexus Multi-Academy Trust
+- Deadline: 2026-10-30T12:00:00+00:00
+- Estimated value: 1000000000 AED
+
+## "Your Education Technology" An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
+- Source: UK Find a Tender
+- Buyer: NEXUS MULTI ACADEMY TRUST
+- Deadline: 2026-11-11T12:00:00Z
+- Estimated value: 1000000000 GBP
+
+## University of York - IAM - Technical Implementation Partner Services
+- Source: UK Find a Tender
+- Buyer: University of York
+- Deadline: None
+
+## CWQM PSQ Template 
+- Source: UK Find a Tender
+- Buyer: Southern Water Services Limited
+- Deadline: None
+- Estimated value: 130500000.0 GBP
+
+## Dental Implants, Digital Services & Associated Products
+- Source: UK Find a Tender
+- Buyer: NHS Greater Glasgow and Clyde
+- Deadline: 2026-11-11T12:00:00Z
+
+## 009655 - Education System - Market Engagement
+- Source: UK Find a Tender
+- Buyer: Newcastle City Council
+- Deadline: None
+
+## Fixed Asset Management System
+- Source: UK Find a Tender
+- Buyer: Education Authority
+- Deadline: 2026-11-09T15:00:00+00:00
+- Estimated value: 800000 GBP
+
+## Case Managment and Document Management Data Migration Services 
+- Source: UK Find a Tender
+- Buyer: NURSING AND MIDWIFERY COUNCIL
+- Deadline: None
+
+## Chelmsford College Website tender
+- Source: UK Find a Tender
+- Buyer: Chelmsford College
+- Deadline: 2026-11-06T23:59:00Z
+
+## Smoking Cessation Case Management System (CMS)
+- Source: UK Find a Tender
+- Buyer: North East Lincolnshire Borough Council
+- Deadline: 2026-11-10T12:00:00+00:00
+- Estimated value: 90000 GBP
+
+## Soft Market Testing for Managed XDR Service
+- Source: UK Find a Tender
+- Buyer: Bristol City Council
+- Deadline: None
+
+## DIR Replacement for Surrey and Sussex
+- Source: UK Find a Tender
+- Buyer: The Police & Crime Commissioner for Sussex
+- Deadline: None
+
+## Chelmsford College Website tender
+- Source: UK Find a Tender
+- Buyer: Chelmsford College
+- Deadline: 2026-11-06T23:59:00Z
+
+## Control Room Technology Support Services
+- Source: UK Find a Tender
+- Buyer: National Highways Limited
+- Deadline: None
+
+## Chelmsford College Website tender
+- Source: UK Find a Tender
+- Buyer: Chelmsford College
+- Deadline: 2026-11-06T23:59:00Z
 
 ## Cultural Host request
 - Source: UK Find a Tender
@@ -342,83 +422,4 @@ Generated: 2026-10-12T06:22:04.664139+00:00
 - Buyer: MHRA
 - Deadline: None
 - Estimated value: 39810000.0 GBP
-
-## HR & Payroll Functions
-- Source: UK Find a Tender
-- Buyer: Middlesbrough Council
-- Deadline: None
-
-## Pathology Managed Equipment Service (MES) – South 4 Pathology Network
-- Source: UK Find a Tender
-- Buyer: Oxford University Hospitals NHS Trust
-- Deadline: None
-- Estimated value: 150000000.0 GBP
-
-## Provision of a new college website
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale College
-- Deadline: None
-- Estimated value: 220000.0 GBP
-
-## Supply and Maintenance of Urban Traffic Management and Control Systems (software)
-- Source: UK Find a Tender
-- Buyer: Bristol City Council
-- Deadline: None
-- Estimated value: 900000 GBP
-
-## Technology Products and Associated Services 3
-- Source: UK Find a Tender
-- Buyer: Government Commercial Agency
-- Deadline: None
-- Estimated value: 20000000000 GBP
-
-## Disposal of IT Criminal Exhibits
-- Source: UK Find a Tender
-- Buyer: Metropolitan Police Service
-- Deadline: None
-
-## C002187 Framework Agreement for the provision of a Learning Management System
-- Source: UK Find a Tender
-- Buyer: The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)
-- Deadline: 2026-11-25T13:00:00Z
-
-## Digital Optimisation Implementation Support
-- Source: UK Find a Tender
-- Buyer: Torbay Council
-- Deadline: None
-- Estimated value: 150000.0 GBP
-
-## Curated literature based database of germline human genomic variants database
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-- Estimated value: 2347766.0 GBP
-
-## CSP26751 - Delegates for International Energy Agency Technology Collaboration Programme
-- Source: UK Find a Tender
-- Buyer: Department for Energy Security & Net Zero
-- Deadline: 2026-10-13T17:00:00+01:00
-- Estimated value: 147934 GBP
-
-## Case Management System Review - Preliminary Market Engagement
-- Source: UK Find a Tender
-- Buyer: London Borough of Waltham Forest
-- Deadline: None
-- Estimated value: 207720.0 GBP
-
-## Transport for London (TfL) Digital Traffic Enforcement System (DTES) Replacement
-- Source: UK Find a Tender
-- Buyer: Transport for London
-- Deadline: None
-
-## Framework Agreement for Connectivity Services for Educational Establishments
-- Source: UK Find a Tender
-- Buyer: Norfolk County Council
-- Deadline: 2026-10-19T11:00:00+01:00
-- Estimated value: 1500000 GBP
-
-## Provision of Systems Integrator Services
-- Source: UK Find a Tender
-- Buyer: UK Hydrographic Office
-- Deadline: None
 
