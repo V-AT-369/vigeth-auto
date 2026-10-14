@@ -1,5 +1,71 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-13T07:00:36.735972+00:00
+Generated: 2026-10-14T05:14:46.911428+00:00
+
+## CM3545 MEICA Services
+- Source: UK Find a Tender
+- Buyer: YORKSHIRE WATER SERVICES LIMITED
+- Deadline: None
+- Estimated value: 133200000 GBP
+
+## ICT Managed Service Partner
+- Source: UK Find a Tender
+- Buyer: LINCOLN ANGLICAN ACADEMY TRUST
+- Deadline: None
+- Estimated value: 2500000 GBP
+
+## ICT Managed Service Partner
+- Source: UK Find a Tender
+- Buyer: LINCOLN ANGLICAN ACADEMY TRUST
+- Deadline: None
+- Estimated value: 2500000 GBP
+
+## IWM Immersive Experience
+- Source: UK Find a Tender
+- Buyer: Imperial War Museum
+- Deadline: None
+
+## QTS Consultanst Framework
+- Source: UK Find a Tender
+- Buyer: QUALITY TRUSTED SOLUTIONS LLP
+- Deadline: 2026-12-18T14:00:00Z
+- Estimated value: 150000000 GBP
+
+## ID 6561954 - Department of Agriculture, Environment and Rural Affairs (DAERA) – Inshore Vessel Monitoring Systems (IVMS) and Electronic Logbooks (E-Logs) - PRE MARKET ENGAGEMENT
+- Source: UK Find a Tender
+- Buyer: Department of Agriculture, Environment and Rural Affairs
+- Deadline: None
+- Estimated value: 600000.0 GBP
+
+## DDaT26517 - Server Storage - Hardware, software & support
+- Source: UK Find a Tender
+- Buyer: UK Research and Innovation
+- Deadline: None
+
+## CCS G-Cloud 14. Lot 1-3 Digital Interaction Planning, Building Control, Cloud Solution
+- Source: UK Find a Tender
+- Buyer: London Borough of Barnet
+- Deadline: None
+
+## DDaT27540 - Cloud Hosting Agreement
+- Source: UK Find a Tender
+- Buyer: UK Research and Innovation
+- Deadline: None
+
+## Financial Datasets
+- Source: UK Find a Tender
+- Buyer: University Of Edinburgh
+- Deadline: None
+
+## Energy Management Solutions Dynamic Market
+- Source: UK Find a Tender
+- Buyer: University of Essex
+- Deadline: 2036-10-12T23:59:59+01:00
+
+## Chelmsford College Website tender
+- Source: UK Find a Tender
+- Buyer: Chelmsford College
+- Deadline: 2026-11-06T23:59:00Z
+- Estimated value: 50000 GBP
 
 ## “Your Education Technology” An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
 - Source: UK Find a Tender
@@ -330,96 +396,4 @@ Generated: 2026-10-13T07:00:36.735972+00:00
 - Buyer: Senedd Cymru / Welsh Parliament
 - Deadline: None
 - Estimated value: 1000000.0 GBP
-
-## IWM Immersive Experience
-- Source: UK Find a Tender
-- Buyer: Imperial War Museum
-- Deadline: None
-- Estimated value: 1000000 GBP
-
-## Bwrdd Partneriaeth Rhanbarthol Plant Gogledd Cymru: Adolygiad Gwasanaethau Plant./ North Wales Children's Regional Partnership Board: Childrens Service Review.
-- Source: UK Find a Tender
-- Buyer: Cyngor Sir Ddinbych / Denbighshire County Council
-- Deadline: 2026-11-04T12:00:00+00:00
-- Estimated value: 120000.0 GBP
-
-## PI1301726 - Network Managed Service Provision (NMSP)
-- Source: UK Find a Tender
-- Buyer: Corporate Officer of the House of Lords
-- Deadline: None
-- Estimated value: 59750000.0 GBP
-
-## UK2 – Preliminary Market Engagement – Sellafield Limited: Software Asset Management Services
-- Source: UK Find a Tender
-- Buyer: Sellafield Limited
-- Deadline: None
-- Estimated value: 4800000.0 GBP
-
-## PI1301726 - Network Managed Service Provision (NMSP)
-- Source: UK Find a Tender
-- Buyer: Corporate Officer of the House of Lords
-- Deadline: None
-- Estimated value: 59750000.0 GBP
-
-## Team Sigma Energy Management Software
-- Source: UK Find a Tender
-- Buyer: Middlesbrough Council
-- Deadline: None
-
-## Digital Primary Care Open Framework
-- Source: UK Find a Tender
-- Buyer: NHS England
-- Deadline: None
-- Estimated value: 838749369.0 GBP
-
-## Parking Management
-- Source: UK Find a Tender
-- Buyer: Middlesbrough Council
-- Deadline: None
-
-## Belfast Stories – Story Engine
-- Source: UK Find a Tender
-- Buyer: Belfast City Council
-- Deadline: 2026-11-10T12:00:00+00:00
-
-## Provision of a new college website
-- Source: UK Find a Tender
-- Buyer: Cardiff and Vale College
-- Deadline: None
-- Estimated value: 220000.0 GBP
-
-## ID 6617419 Department of Finance Departmental Solicitors Office DSO Legal Case Management System
-- Source: UK Find a Tender
-- Buyer: Department of Finance
-- Deadline: None
-- Estimated value: 1 GBP
-
-## BACS Bureau Support for NWL Trusts
-- Source: UK Find a Tender
-- Buyer: Central London Community Healthcare NHS Trust
-- Deadline: None
-- Estimated value: 500000.0 GBP
-
-## 2026 ATS & HRIS
-- Source: UK Find a Tender
-- Buyer: OAK NATIONAL ACADEMY LIMITED
-- Deadline: None
-
-## Fire Safety Products and Associated Services
-- Source: UK Find a Tender
-- Buyer: Kent County Council trading as Procurement Services
-- Deadline: 2026-11-05T17:00:00+00:00
-- Estimated value: 120000000.0 GBP
-
-## Waste Management (sustainable) services
-- Source: UK Find a Tender
-- Buyer: London Universities Purchasing Consortium
-- Deadline: None
-- Estimated value: 110000000 GBP
-
-## Concession Contract for Publishing, Selling and Marketing of the British Pharmacopoeia
-- Source: UK Find a Tender
-- Buyer: MHRA
-- Deadline: None
-- Estimated value: 39810000.0 GBP
 
