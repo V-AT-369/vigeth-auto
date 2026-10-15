@@ -1,5 +1,69 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-14T05:14:46.911428+00:00
+Generated: 2026-10-15T05:01:48.821104+00:00
+
+## Travel Wales by TfW: Retail, Marketplace and Licensing Ecosystem / Teithio Cymru gan TrC: Manwerthu, Y Farchnad ac Ecosystem Trwyddedu
+- Source: UK Find a Tender
+- Buyer: Transport for Wales (TFW) Ltd
+- Deadline: None
+- Estimated value: 100000.0 GBP
+
+## Endoscopy Management Systems for the Peninsula Endoscopy Network
+- Source: UK Find a Tender
+- Buyer: ROYAL DEVON UNIVERSITY HEALTHCARE NHS FOUNDATION TRUST
+- Deadline: None
+
+## Secondary Care Medicines Data Pre-Market Engagement
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+- Estimated value: 6750000.0 GBP
+
+## Provision of the UK Tobacco Track and Trace System
+- Source: UK Find a Tender
+- Buyer: HM Revenue & Customs
+- Deadline: None
+- Estimated value: 5500000 GBP
+
+## Conversion Practices Victim Support Service
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: 2026-11-09T17:00:00Z
+- Estimated value: 180000 GBP
+
+## Case Strategy App
+- Source: UK Find a Tender
+- Buyer: Crown Prosecution Service
+- Deadline: None
+- Estimated value: 1854630 GBP
+
+## RFQ 2026/43 - Development of a Dublin Belfast Economic Corridor Investment Land Guide
+- Source: UK Find a Tender
+- Buyer: Newry, Mourne and Down District Council (NMD)
+- Deadline: 2026-10-30T12:00:00Z
+- Estimated value: 25000.0 GBP
+
+## London Tribunal Managed Service, (LTMS)
+- Source: UK Find a Tender
+- Buyer: London Councils
+- Deadline: None
+- Estimated value: 40000000 GBP
+
+## Theatre Event Management Software
+- Source: UK Find a Tender
+- Buyer: Surrey Heath Borough Council
+- Deadline: 2026-11-11T12:00:00+00:00
+- Estimated value: 38000.0 GBP
+
+## Connected Business Platforms Systems Integrator Service Provision
+- Source: UK Find a Tender
+- Buyer: UK Hydrographic Office
+- Deadline: None
+- Estimated value: 5000000.0 GBP
+
+## Audio visual, digital signage and visitor management system
+- Source: UK Find a Tender
+- Buyer: Liverpool City Region Combined Authority
+- Deadline: 2026-11-18T10:00:00Z
 
 ## CM3545 MEICA Services
 - Source: UK Find a Tender
@@ -311,89 +375,4 @@ Generated: 2026-10-14T05:14:46.911428+00:00
 - Buyer: Royal Borough of Windsor & Maidenhead
 - Deadline: None
 - Estimated value: 800000 GBP
-
-## Hybrid Security Operations Centre (SOC)
-- Source: UK Find a Tender
-- Buyer: British Film Institute
-- Deadline: 2026-11-02T12:00:00+00:00
-- Estimated value: 150000 GBP
-
-## WCC Heat Networks Software
-- Source: UK Find a Tender
-- Buyer: Westminster City Council
-- Deadline: None
-- Estimated value: 300000 GBP
-
-## PRJ_31300 - WCC Heat Network Software
-- Source: UK Find a Tender
-- Buyer: Westminster City Council
-- Deadline: 2026-11-17T17:00:00+00:00
-- Estimated value: 300000 GBP
-
-## Connectivity and Telecommunications Services
-- Source: UK Find a Tender
-- Buyer: THAMES WATER UTILITIES LIMITED
-- Deadline: None
-
-## 2026 ATS & HRIS
-- Source: UK Find a Tender
-- Buyer: OAK NATIONAL ACADEMY LIMITED
-- Deadline: None
-
-## Provision of Motor Control Centres, Systems Integration and ICA Services
-- Source: UK Find a Tender
-- Buyer: Scottish Water
-- Deadline: 2026-11-09T12:00:00Z
-- Estimated value: 140000000.0 GBP
-
-## Investment Appraisal and Proposition Development Support
-- Source: UK Find a Tender
-- Buyer: York and North Yorkshire Combined Authority
-- Deadline: 2026-10-28T12:00:00Z
-
-## Transit Payment Service Providers (TPSP),  Closed Loop cEMV Token Providers, and Handheld Revenue Inspection Devices, for public transport services
-- Source: UK Find a Tender
-- Buyer: SOUTH WEST SMART APPLICATIONS LIMITED
-- Deadline: 2026-11-30T12:00:00Z
-- Estimated value: 60000000 GBP
-
-## Light Measurement Data Acquisition hardware Replacement
-- Source: UK Find a Tender
-- Buyer: The Corporation of Trinity House of Deptford Strond
-- Deadline: 2026-10-23T12:00:00+01:00
-- Estimated value: 60000.0 GBP
-
-## IT Managed services for YMCA London and City North
-- Source: UK Find a Tender
-- Buyer: YMCA London City & North
-- Deadline: 2026-11-10T12:00:00+00:00
-- Estimated value: 420000 GBP
-
-## Baby Tagging System
-- Source: UK Find a Tender
-- Buyer: Bolton NHS Foundation Trust
-- Deadline: 2026-12-11T12:00:00Z
-- Estimated value: 240000.0 GBP
-
-## DfT - Scan of Streets - Request for Information
-- Source: UK Find a Tender
-- Buyer: Department for Transport
-- Deadline: None
-
-## Provision of Healthshare Health Connect Enterprise System
-- Source: UK Find a Tender
-- Buyer: SOMERSET NHS FOUNDATION TRUST
-- Deadline: None
-
-## Continuous Testing (PTaaS) Service Agreement
-- Source: UK Find a Tender
-- Buyer: THAMES WATER UTILITIES LIMITED
-- Deadline: None
-- Estimated value: 2000000 GBP
-
-## Senedd Business Management System
-- Source: UK Find a Tender
-- Buyer: Senedd Cymru / Welsh Parliament
-- Deadline: None
-- Estimated value: 1000000.0 GBP
 
