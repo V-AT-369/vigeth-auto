@@ -1,5 +1,128 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-15T05:01:48.821104+00:00
+Generated: 2026-10-16T04:51:23.582689+00:00
+
+## Public Sector Construction Consultancy
+- Source: UK Find a Tender
+- Buyer: NHS Shared Business Services Limited
+- Deadline: 2027-01-15T12:00:00Z
+- Estimated value: 2300000000 GBP
+
+## Education Network for Northern Ireland - "Education Network (NI)"
+- Source: UK Find a Tender
+- Buyer: the Education Authority
+- Deadline: None
+
+## NCHA202557- People System 
+- Source: UK Find a Tender
+- Buyer: Nottingham Community Housing Association Limited
+- Deadline: 2026-12-18T11:00:00+00:00
+- Estimated value: 1200000.0 GBP
+
+## Transit Payment Service Providers (TPSP), Closed Loop cEMV Token Providers, and Handheld Revenue Inspection Devices, for public transport services
+- Source: UK Find a Tender
+- Buyer: SOUTH WEST SMART APPLICATIONS LIMITED
+- Deadline: 2026-11-30T12:00:00Z
+- Estimated value: 60000000 GBP
+
+## NCHA202557- People System 
+- Source: UK Find a Tender
+- Buyer: Nottingham Community Housing Association Limited
+- Deadline: 2026-12-18T11:00:00+00:00
+- Estimated value: 1200000.0 GBP
+
+## Requirement Management Tool
+- Source: UK Find a Tender
+- Buyer: UK Atomic Energy Authority
+- Deadline: None
+- Estimated value: 170000 GBP
+
+## Digital Forensic Servicesrelating to Data Capture, Processing and Analysis from Digital Storage Devices
+- Source: UK Find a Tender
+- Buyer: The Police and Crime Commissioner for Lincolnshire
+- Deadline: 2026-11-23T00:00:00Z
+- Estimated value: 100000 GBP
+
+## Digital Forensic Servicesrelating to Data Capture, Processing and Analysis from Digital Storage Devices
+- Source: UK Find a Tender
+- Buyer: The Police and Crime Commissioner for Lincolnshire
+- Deadline: 2026-11-23T00:00:00Z
+- Estimated value: 100000 GBP
+
+## Programme Management Platform
+- Source: UK Find a Tender
+- Buyer: Cheshire West and Chester Council
+- Deadline: 2026-11-12T10:00:00Z
+- Estimated value: 400000 GBP
+
+## Customer Information and Due Diligence Prior Information Notice
+- Source: UK Find a Tender
+- Buyer: Scottish Enterprise
+- Deadline: None
+
+## Customer Information and Due Diligence Prior Information Notice
+- Source: UK Find a Tender
+- Buyer: Scottish Enterprise
+- Deadline: None
+
+## Total Office & Logistics Solutions
+- Source: UK Find a Tender
+- Buyer: Commercial Services Kent Ltd (t/a Procurement Services)
+- Deadline: 2026-11-25T17:00:00+00:00
+- Estimated value: 100000000.0 GBP
+
+## PRJ_31142 - Legal Online Research and Library
+- Source: UK Find a Tender
+- Buyer: Westminster City Council
+- Deadline: 2026-11-06T17:00:00+00:00
+- Estimated value: 90000 GBP
+
+## Unified Customer Contact and Force Control Room Solution
+- Source: UK Find a Tender
+- Buyer: York and North Yorkshire Combined Authority
+- Deadline: 2026-11-27T11:00:00Z
+- Estimated value: 15000000 GBP
+
+## CSM BUSINESS SERVICE MANAGEMENT PLATFORM AND IMPLEMENTATION PARTNER
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 100000000 GBP
+
+## Acoustic Monitoring in Care Homes
+- Source: UK Find a Tender
+- Buyer: Isle of Wight Council
+- Deadline: None
+- Estimated value: 83333.33 GBP
+
+## Total Office & Logistics Solutions
+- Source: UK Find a Tender
+- Buyer: Commercial Services Kent Ltd (t/a Procurement Services)
+- Deadline: 2026-11-25T17:00:00+00:00
+- Estimated value: 100000000.0 GBP
+
+## Connected Business Platforms Systems Integrator Service Provision
+- Source: UK Find a Tender
+- Buyer: UK Hydrographic Office
+- Deadline: None
+- Estimated value: 5000000.0 GBP
+
+## Financial Crime Transaction Monitoring Systems Market Engagement Request for Information (CD2430)
+- Source: UK Find a Tender
+- Buyer: BANK OF ENGLAND
+- Deadline: None
+- Estimated value: 5000000 GBP
+
+## IBM SPSS LICENSING SOLUTIONS - PUBLIC HEALTH WALES
+- Source: UK Find a Tender
+- Buyer: Public Health Wales NHS Trust
+- Deadline: None
+- Estimated value: 30000.0 GBP
+
+## Extending the Cost of Food Crime Analysis: Additional Case Studies and Assessing the Impact of NFCU Activity
+- Source: UK Find a Tender
+- Buyer: Food Standards Agency
+- Deadline: 2026-11-12T12:00:00Z
+- Estimated value: 100000.0 GBP
 
 ## Travel Wales by TfW: Retail, Marketplace and Licensing Ecosystem / Teithio Cymru gan TrC: Manwerthu, Y Farchnad ac Ecosystem Trwyddedu
 - Source: UK Find a Tender
@@ -282,97 +405,4 @@ Generated: 2026-10-15T05:01:48.821104+00:00
 - Source: UK Find a Tender
 - Buyer: LOOK AHEAD CARE AND SUPPORT LIMITED
 - Deadline: 2026-11-20T17:00:00Z
-
-## Provision of a Tax Administration and Management Solution for Revenue Scotland
-- Source: UK Find a Tender
-- Buyer: Revenue Scotland
-- Deadline: None
-
-## University of York - IAM - Technical Implementation Partner Services
-- Source: UK Find a Tender
-- Buyer: University of York
-- Deadline: None
-
-## Cloud delivered security solution - Palo Alto Prisma Access
-- Source: UK Find a Tender
-- Buyer: City of Bradford Metropolitan District Council
-- Deadline: None
-
-## FHT028 Integrated Housing Management System
-- Source: UK Find a Tender
-- Buyer: ForHousing Ltd
-- Deadline: 2026-11-03T11:00:00+00:00
-- Estimated value: 1200000.0 GBP
-
-## Device-as-a-Service (DaaS)
-- Source: UK Find a Tender
-- Buyer: Cantium Business Solutions Limited
-- Deadline: 2026-11-03T17:00:00+00:00
-
-## Company Information Database Subscription
-- Source: UK Find a Tender
-- Buyer: Competition and Markets Authority
-- Deadline: 2026-11-11T12:00:00+00:00
-- Estimated value: 575000.0 GBP
-
-## Competency Management System
-- Source: UK Find a Tender
-- Buyer: SOUTH WESTERN RAILWAY LIMITED
-- Deadline: None
-
-## Community Impact Fund – Grant Administration
-- Source: UK Find a Tender
-- Buyer: North East Combined Authority
-- Deadline: 2026-11-10T00:00:00Z
-- Estimated value: 308000 GBP
-
-## Community Impact Fund – Programme Management Office
-- Source: UK Find a Tender
-- Buyer: North East Combined Authority
-- Deadline: 2026-11-10T00:00:00Z
-- Estimated value: 680000 GBP
-
-## UK1 - Pipeline Notice
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-- Estimated value: 3000000 GBP
-
-## Rail Data Marketplace
-- Source: UK Find a Tender
-- Buyer: RAIL DELIVERY GROUP LIMITED
-- Deadline: None
-
-## ITT TMBC - Cemetery Management Software
-- Source: UK Find a Tender
-- Buyer: Tonbridge & Malling Borough Council
-- Deadline: 2026-11-05T12:00:00+00:00
-
-## CSP26751 - Delegates for International Energy Agency Technology Collaboration Programme
-- Source: UK Find a Tender
-- Buyer: Department for Energy Security & Net Zero
-- Deadline: 2026-10-13T17:00:00+01:00
-- Estimated value: 147934 GBP
-
-## DHSC: Health Survey for England 2028-31
-- Source: UK Find a Tender
-- Buyer: Department of Health & Social Care
-- Deadline: None
-
-## DHSC: Health Survey for England 2028-31
-- Source: UK Find a Tender
-- Buyer: Department of Health & Social Care
-- Deadline: None
-
-## UK1 - Provision of a Successor Avionic Systems Trainer (SAvST)
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-- Estimated value: 2480000.0 GBP
-
-## RBWM Real Time Passenger Information (RTPI) Services
-- Source: UK Find a Tender
-- Buyer: Royal Borough of Windsor & Maidenhead
-- Deadline: None
-- Estimated value: 800000 GBP
 
