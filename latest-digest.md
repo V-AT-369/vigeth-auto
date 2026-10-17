@@ -1,5 +1,108 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-16T04:51:23.582689+00:00
+Generated: 2026-10-17T04:52:02.093599+00:00
+
+## Request for Information (RFI) - Auto Translation and Transcription Service
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 600000 GBP
+
+## Repairs, Assets & Compliance ICT Systems
+- Source: UK Find a Tender
+- Buyer: BELIEVE HOUSING LIMITED
+- Deadline: None
+
+## Client Support Framework (CSF)
+- Source: UK Find a Tender
+- Buyer: East West Rail Company Limited
+- Deadline: None
+- Estimated value: 350000000 GBP
+
+## Registration Services Booking and Management System
+- Source: UK Find a Tender
+- Buyer: Herefordshire Council
+- Deadline: 2026-11-13T17:00:00Z
+- Estimated value: 200000 GBP
+
+## Catering Technologies and Services
+- Source: UK Find a Tender
+- Buyer: THE UNIVERSITY CATERERS ORGANISATION LIMITED
+- Deadline: None
+- Estimated value: 11200000 GBP
+
+## Endoscopy Management Systems for the Peninsula Endoscopy Network
+- Source: UK Find a Tender
+- Buyer: ROYAL DEVON UNIVERSITY HEALTHCARE NHS FOUNDATION TRUST
+- Deadline: None
+
+## Requirement Management Tool
+- Source: UK Find a Tender
+- Buyer: UK Atomic Energy Authority
+- Deadline: None
+- Estimated value: 170000 GBP
+
+## Cultural Host request
+- Source: UK Find a Tender
+- Buyer: Borough of Telford & Wrekin
+- Deadline: 2026-10-26T12:00:00+00:00
+- Estimated value: 20000 GBP
+
+## Appointment of a Multi-Disciplinary Consultancy Team for Cemetery Provision Project
+- Source: UK Find a Tender
+- Buyer: Ards and North Down Borough Council
+- Deadline: None
+- Estimated value: 800000 GBP
+
+## Social Media Screening Services
+- Source: UK Find a Tender
+- Buyer: Essex County Council
+- Deadline: None
+
+## Website redesign and redevelopment
+- Source: UK Find a Tender
+- Buyer: Capital City College
+- Deadline: 2026-10-27T12:00:00+00:00
+
+## Conversion Practices Victim Support Service
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: 2026-11-09T17:00:00Z
+- Estimated value: 180000 GBP
+
+## CSM BUSINESS SERVICE MANAGEMENT PLATFORM AND IMPLEMENTATION PARTNER
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 100000000 GBP
+
+## Dedicated Housing Tenant Website
+- Source: UK Find a Tender
+- Buyer: Cardiff Council
+- Deadline: 2026-10-23T12:00:00+01:00
+- Estimated value: 75500.0 GBP
+
+## Growth Hub Website
+- Source: UK Find a Tender
+- Buyer: York and North Yorkshire Combined Authority
+- Deadline: 2026-10-20T12:00:00+01:00
+
+## The People's Network E-bikes - Customer Subscription, Service, Technology and Fleet Management Platform Provider
+- Source: UK Find a Tender
+- Buyer: South Yorkshire Mayoral Combined Authority
+- Deadline: 2026-11-16T12:00:00Z
+- Estimated value: 300000 GBP
+
+## MBC-1728 Income Recovery IT Solutions
+- Source: UK Find a Tender
+- Buyer: Melton Borough Council
+- Deadline: None
+- Estimated value: 200000 GBP
+
+## CSM BUSINESS SERVICE MANAGEMENT PLATFORM AND IMPLEMENTATION PARTNER
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 100000000 GBP
 
 ## Public Sector Construction Consultancy
 - Source: UK Find a Tender
@@ -302,107 +405,4 @@ Generated: 2026-10-16T04:51:23.582689+00:00
 - Source: UK Find a Tender
 - Buyer: Chelmsford College
 - Deadline: 2026-11-06T23:59:00Z
-
-## Smoking Cessation Case Management System (CMS)
-- Source: UK Find a Tender
-- Buyer: North East Lincolnshire Borough Council
-- Deadline: 2026-11-10T12:00:00+00:00
-- Estimated value: 90000 GBP
-
-## Soft Market Testing for Managed XDR Service
-- Source: UK Find a Tender
-- Buyer: Bristol City Council
-- Deadline: None
-
-## DIR Replacement for Surrey and Sussex
-- Source: UK Find a Tender
-- Buyer: The Police & Crime Commissioner for Sussex
-- Deadline: None
-
-## Chelmsford College Website tender
-- Source: UK Find a Tender
-- Buyer: Chelmsford College
-- Deadline: 2026-11-06T23:59:00Z
-
-## Control Room Technology Support Services
-- Source: UK Find a Tender
-- Buyer: National Highways Limited
-- Deadline: None
-
-## Chelmsford College Website tender
-- Source: UK Find a Tender
-- Buyer: Chelmsford College
-- Deadline: 2026-11-06T23:59:00Z
-
-## Cultural Host request
-- Source: UK Find a Tender
-- Buyer: Borough of Telford & Wrekin
-- Deadline: 2026-10-26T12:00:00+00:00
-- Estimated value: 20000 GBP
-
-## Data Collection Services (Re procurement of the Bank of England's Electronic Data System, BEEDS)
-- Source: UK Find a Tender
-- Buyer: BANK OF ENGLAND
-- Deadline: None
-- Estimated value: 20000000 GBP
-
-## Provision of an E-Procurement and Contract Management System (Proquro)
-- Source: UK Find a Tender
-- Buyer: Southampton City Council
-- Deadline: None
-
-## CotswoldsPlus Local Visitor Economy Data Platform to Include Support and Maintenance
-- Source: UK Find a Tender
-- Buyer: Cotswold District Council
-- Deadline: 2026-11-09T17:00:00+00:00
-- Estimated value: 280000 GBP
-
-## Employee Relations Case Management System
-- Source: UK Find a Tender
-- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
-- Deadline: None
-
-## Online Assessment Tool
-- Source: UK Find a Tender
-- Buyer: West Yorkshire Fire and Rescue Authority
-- Deadline: None
-- Estimated value: 60000 GBP
-
-## Preliminary Market Engagement for the Supply of a Cloud Hosted Occupational Health Administration Solution and Associated Services.
-- Source: UK Find a Tender
-- Buyer: Derbyshire County Council
-- Deadline: None
-
-## Chelmsford College Website tender
-- Source: UK Find a Tender
-- Buyer: Chelmsford College
-- Deadline: 2026-11-06T23:59:59Z
-
-## TfGM Single View of the Network
-- Source: UK Find a Tender
-- Buyer: Transport for Greater Manchester
-- Deadline: None
-- Estimated value: 1000000 GBP
-
-## ITT (CF) - Digital Preservation System - UID 226M
-- Source: UK Find a Tender
-- Buyer: Historic England
-- Deadline: 2026-11-04T09:30:00+00:00
-- Estimated value: 1160000 GBP
-
-## Rutland County Museum Brand Identity and Website
-- Source: UK Find a Tender
-- Buyer: Rutland County Council
-- Deadline: 2026-10-30T23:59:59Z
-- Estimated value: 30000 GBP
-
-## Procurement of an HR and Payroll System
-- Source: UK Find a Tender
-- Buyer: LOOK AHEAD CARE AND SUPPORT LIMITED
-- Deadline: 2026-11-20T17:00:00Z
-
-## Procurement of an HR and Payroll System
-- Source: UK Find a Tender
-- Buyer: LOOK AHEAD CARE AND SUPPORT LIMITED
-- Deadline: 2026-11-20T17:00:00Z
 
