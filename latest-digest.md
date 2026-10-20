@@ -1,5 +1,54 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-19T05:07:01.217926+00:00
+Generated: 2026-10-20T05:09:15.762956+00:00
+
+## CCHA 0328 Legal Services Framework for Land and Development
+- Source: UK Find a Tender
+- Buyer: Castles and Coasts
+- Deadline: None
+- Estimated value: 650000 GBP
+
+## IT Hardware Recycling
+- Source: UK Find a Tender
+- Buyer: Hull City Council
+- Deadline: None
+
+## SONI090 – Client-Side Advisor
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: 2026-11-20T12:00:00+00:00
+- Estimated value: 6300000.0 GBP
+
+## Social Housing Emerging Disrupters 6
+- Source: UK Find a Tender
+- Buyer: Procurement for Housing
+- Deadline: 2026-11-17T12:00:00Z
+
+## Operational Excellence 
+- Source: UK Find a Tender
+- Buyer: NURSING AND MIDWIFERY COUNCIL
+- Deadline: None
+
+## Preliminary Market Engagement - Corporate Enterprise Resource Planning (ERP) 
+- Source: UK Find a Tender
+- Buyer: North East Lincolnshire Borough Council
+- Deadline: None
+
+## UK 777 IT Onsite Operations and Infrastructure supporting services
+- Source: UK Find a Tender
+- Buyer: British Council
+- Deadline: 2026-11-09T14:00:00Z
+- Estimated value: 1233333.0 GBP
+
+## AI Sandbox
+- Source: UK Find a Tender
+- Buyer: The Insolvency Service
+- Deadline: None
+
+## FW Services -  Procurement Cost Estimation and demand planning Tools
+- Source: UK Find a Tender
+- Buyer: SCOTTISH HYDRO ELECTRIC TRANSMISSION PLC
+- Deadline: None
+- Estimated value: 3756850 GBP
 
 ## Request for Information (RFI) - Auto Translation and Transcription Service
 - Source: UK Find a Tender
@@ -325,84 +374,4 @@ Generated: 2026-10-19T05:07:01.217926+00:00
 - Buyer: Department of Agriculture, Environment and Rural Affairs
 - Deadline: None
 - Estimated value: 600000.0 GBP
-
-## DDaT26517 - Server Storage - Hardware, software & support
-- Source: UK Find a Tender
-- Buyer: UK Research and Innovation
-- Deadline: None
-
-## CCS G-Cloud 14. Lot 1-3 Digital Interaction Planning, Building Control, Cloud Solution
-- Source: UK Find a Tender
-- Buyer: London Borough of Barnet
-- Deadline: None
-
-## DDaT27540 - Cloud Hosting Agreement
-- Source: UK Find a Tender
-- Buyer: UK Research and Innovation
-- Deadline: None
-
-## Financial Datasets
-- Source: UK Find a Tender
-- Buyer: University Of Edinburgh
-- Deadline: None
-
-## Energy Management Solutions Dynamic Market
-- Source: UK Find a Tender
-- Buyer: University of Essex
-- Deadline: 2036-10-12T23:59:59+01:00
-
-## Chelmsford College Website tender
-- Source: UK Find a Tender
-- Buyer: Chelmsford College
-- Deadline: 2026-11-06T23:59:00Z
-- Estimated value: 50000 GBP
-
-## “Your Education Technology” An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
-- Source: UK Find a Tender
-- Buyer: Nexus Multi-Academy Trust
-- Deadline: 2026-10-30T12:00:00+00:00
-- Estimated value: 1000000000 AED
-
-## "Your Education Technology" An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
-- Source: UK Find a Tender
-- Buyer: NEXUS MULTI ACADEMY TRUST
-- Deadline: 2026-11-11T12:00:00Z
-- Estimated value: 1000000000 GBP
-
-## University of York - IAM - Technical Implementation Partner Services
-- Source: UK Find a Tender
-- Buyer: University of York
-- Deadline: None
-
-## CWQM PSQ Template 
-- Source: UK Find a Tender
-- Buyer: Southern Water Services Limited
-- Deadline: None
-- Estimated value: 130500000.0 GBP
-
-## Dental Implants, Digital Services & Associated Products
-- Source: UK Find a Tender
-- Buyer: NHS Greater Glasgow and Clyde
-- Deadline: 2026-11-11T12:00:00Z
-
-## 009655 - Education System - Market Engagement
-- Source: UK Find a Tender
-- Buyer: Newcastle City Council
-- Deadline: None
-
-## Fixed Asset Management System
-- Source: UK Find a Tender
-- Buyer: Education Authority
-- Deadline: 2026-11-09T15:00:00+00:00
-- Estimated value: 800000 GBP
-
-## Case Managment and Document Management Data Migration Services 
-- Source: UK Find a Tender
-- Buyer: NURSING AND MIDWIFERY COUNCIL
-- Deadline: None
-
-## Chelmsford College Website tender
-- Source: UK Find a Tender
-- Buyer: Chelmsford College
-- Deadline: 2026-11-06T23:59:00Z
 
