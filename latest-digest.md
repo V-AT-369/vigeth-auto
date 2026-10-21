@@ -1,5 +1,92 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-20T05:09:15.762956+00:00
+Generated: 2026-10-21T05:10:38.880784+00:00
+
+## Hazard Management Tool
+- Source: UK Find a Tender
+- Buyer: UK Atomic Energy Authority
+- Deadline: 2026-11-10T12:00:00+00:00
+- Estimated value: 50000 GBP
+
+## Registration Services Booking and Management System
+- Source: UK Find a Tender
+- Buyer: Herefordshire Council
+- Deadline: 2026-11-13T17:00:00Z
+- Estimated value: 200000 GBP
+
+## Request for Information: Cloud managed service team outsourcing on-call customer supportCloud managed service team outsourcing on-call customer support
+- Source: UK Find a Tender
+- Buyer: JISC
+- Deadline: None
+
+## ITT - Recruitment Applicant Tracking System - UID 390M
+- Source: UK Find a Tender
+- Buyer: Historic England
+- Deadline: 2026-11-14T09:30:00+00:00
+- Estimated value: 140000 GBP
+
+## Andover Data Centre Co-Location Agreement
+- Source: UK Find a Tender
+- Buyer: DEPARTMENT FOR ENVIRONMENT, FOOD AND RURAL AFFAIRS
+- Deadline: None
+- Estimated value: 4000000.0 GBP
+
+## PDSE Patient Record Management Solution
+- Source: UK Find a Tender
+- Buyer: University of Plymouth
+- Deadline: 2026-11-03T17:00:00+00:00
+- Estimated value: 890000.0 GBP
+
+## Programme Sapphire: Finance OCM and Workforce Transformation
+- Source: UK Find a Tender
+- Buyer: The Mayor and Commonalty and Citizens of the City of London
+- Deadline: None
+
+## HR Systems
+- Source: UK Find a Tender
+- Buyer: Tai Hedyn Limited
+- Deadline: None
+- Estimated value: 720000.0 GBP
+
+## BLC0239 Crypto Capabilities: Blockchain Analysis
+- Source: UK Find a Tender
+- Buyer: BlueLight Commercial Limited
+- Deadline: None
+- Estimated value: 20000000.0 GBP
+
+## Preliminary Market Engagement: Prescription Processing and Validation Solution
+- Source: UK Find a Tender
+- Buyer: Business Services Organisation Procurement and Logistics Service
+- Deadline: None
+- Estimated value: 1 GBP
+
+## IT Managed Services
+- Source: UK Find a Tender
+- Buyer: Caledonian Maritime Assets Ltd (Utility)
+- Deadline: None
+
+## Specialist Data Engineering and Cloud Engineering Support - Public Health Wales
+- Source: UK Find a Tender
+- Buyer: Public Health Wales NHS Trust
+- Deadline: None
+- Estimated value: 67000.0 GBP
+
+## Provision of an Asset Management Solution - Competitive Flexible Procedure
+- Source: UK Find a Tender
+- Buyer: Isle of Wight Council
+- Deadline: 2026-11-10T14:00:00+00:00
+- Estimated value: 201300.0 GBP
+
+## Supply of Networking Hardware and Software
+- Source: UK Find a Tender
+- Buyer: South Wales Fire and Rescue Service
+- Deadline: 2026-10-26T12:00:00+00:00
+- Estimated value: 583000.0 GBP
+
+## CCHA 0328 Legal Services Framework for Land and Development
+- Source: UK Find a Tender
+- Buyer: Castles and Coasts
+- Deadline: None
+- Estimated value: 650000 GBP
 
 ## CCHA 0328 Legal Services Framework for Land and Development
 - Source: UK Find a Tender
@@ -322,56 +409,4 @@ Generated: 2026-10-20T05:09:15.762956+00:00
 - Buyer: London Councils
 - Deadline: None
 - Estimated value: 40000000 GBP
-
-## Theatre Event Management Software
-- Source: UK Find a Tender
-- Buyer: Surrey Heath Borough Council
-- Deadline: 2026-11-11T12:00:00+00:00
-- Estimated value: 38000.0 GBP
-
-## Connected Business Platforms Systems Integrator Service Provision
-- Source: UK Find a Tender
-- Buyer: UK Hydrographic Office
-- Deadline: None
-- Estimated value: 5000000.0 GBP
-
-## Audio visual, digital signage and visitor management system
-- Source: UK Find a Tender
-- Buyer: Liverpool City Region Combined Authority
-- Deadline: 2026-11-18T10:00:00Z
-
-## CM3545 MEICA Services
-- Source: UK Find a Tender
-- Buyer: YORKSHIRE WATER SERVICES LIMITED
-- Deadline: None
-- Estimated value: 133200000 GBP
-
-## ICT Managed Service Partner
-- Source: UK Find a Tender
-- Buyer: LINCOLN ANGLICAN ACADEMY TRUST
-- Deadline: None
-- Estimated value: 2500000 GBP
-
-## ICT Managed Service Partner
-- Source: UK Find a Tender
-- Buyer: LINCOLN ANGLICAN ACADEMY TRUST
-- Deadline: None
-- Estimated value: 2500000 GBP
-
-## IWM Immersive Experience
-- Source: UK Find a Tender
-- Buyer: Imperial War Museum
-- Deadline: None
-
-## QTS Consultanst Framework
-- Source: UK Find a Tender
-- Buyer: QUALITY TRUSTED SOLUTIONS LLP
-- Deadline: 2026-12-18T14:00:00Z
-- Estimated value: 150000000 GBP
-
-## ID 6561954 - Department of Agriculture, Environment and Rural Affairs (DAERA) – Inshore Vessel Monitoring Systems (IVMS) and Electronic Logbooks (E-Logs) - PRE MARKET ENGAGEMENT
-- Source: UK Find a Tender
-- Buyer: Department of Agriculture, Environment and Rural Affairs
-- Deadline: None
-- Estimated value: 600000.0 GBP
 
