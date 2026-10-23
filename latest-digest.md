@@ -1,5 +1,142 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-22T05:14:35.827473+00:00
+Generated: 2026-10-23T05:13:13.569791+00:00
+
+## Video Analytics Capability
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## Cultural Host request
+- Source: UK Find a Tender
+- Buyer: Borough of Telford & Wrekin
+- Deadline: 2026-11-09T12:00:00+00:00
+- Estimated value: 20000 GBP
+
+## Device-as-a-Service (DaaS)
+- Source: UK Find a Tender
+- Buyer: Cantium Business Solutions Limited
+- Deadline: 2026-11-17T17:00:00+00:00
+
+## Cotham School - Invitation to Tender  School Management Information System (MIS)
+- Source: UK Find a Tender
+- Buyer: COTHAM SCHOOL
+- Deadline: 2026-11-20T12:00:00Z
+- Estimated value: 75000 GBP
+
+## Fleet Management System
+- Source: UK Find a Tender
+- Buyer: Sheffield City Council
+- Deadline: None
+
+## Green Links Study, New Forest National Park
+- Source: UK Find a Tender
+- Buyer: New Forest National Park Authority
+- Deadline: 2026-11-16T12:00:00Z
+- Estimated value: 100000 GBP
+
+## Provision of a Population Segmentation Data Tool
+- Source: UK Find a Tender
+- Buyer: Derbyshire County Council
+- Deadline: None
+- Estimated value: 70000 GBP
+
+## Provision of Digital Customer Engagement Platform 
+- Source: UK Find a Tender
+- Buyer: Codi Group Ltd
+- Deadline: 2026-11-25T14:00:00+00:00
+- Estimated value: 200000.0 GBP
+
+## Request for Information: Cloud managed service team outsourcing on-call customer supportCloud managed service team outsourcing on-call customer support
+- Source: UK Find a Tender
+- Buyer: JISC
+- Deadline: None
+
+## Customer Engagement and Relationship Management 
+- Source: UK Find a Tender
+- Buyer: DFT OPERATOR LIMITED
+- Deadline: None
+
+## Station Working and Associations RFI
+- Source: UK Find a Tender
+- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
+- Deadline: None
+
+## UKSAC26_0043 EO Data Hub Service Delivery
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: None
+- Estimated value: 5000000 GBP
+
+## Coflein: Next Generation Heritage Platform
+- Source: UK Find a Tender
+- Buyer: Royal Commission on the Ancient and Historical Monuments of Wales
+- Deadline: None
+- Estimated value: 112500 GBP
+
+## Preliminary Market Engagement – Sellafield Limited: Network Services
+- Source: UK Find a Tender
+- Buyer: Sellafield Limited
+- Deadline: None
+- Estimated value: 75000000.0 GBP
+
+## Consultancy Framework
+- Source: UK Find a Tender
+- Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
+- Deadline: None
+
+## NCHA202557- People System 
+- Source: UK Find a Tender
+- Buyer: Nottingham Community Housing Association Limited
+- Deadline: None
+- Estimated value: 1450000.0 GBP
+
+## Sellafield Limited: Network Services
+- Source: UK Find a Tender
+- Buyer: Sellafield Limited
+- Deadline: None
+- Estimated value: 75000000.0 GBP
+
+## West Midlands Private Rented Sector (PRS) Stock intelligence survey
+- Source: UK Find a Tender
+- Buyer: West Midlands Combined Authority
+- Deadline: None
+- Estimated value: 120000 GBP
+
+## Equals Trust - Provision of ICT Managed Services Stage 1
+- Source: UK Find a Tender
+- Buyer: Equals Trust
+- Deadline: 2027-02-26T12:00:00+00:00
+- Estimated value: 3000000 GBP
+
+## Tenderer Information Notice
+- Source: UK Find a Tender
+- Buyer: Crown Office and Procurator Fiscal Service
+- Deadline: None
+- Estimated value: 5000000 GBP
+
+## Tenderer Information Notice
+- Source: UK Find a Tender
+- Buyer: Crown Office and Procurator Fiscal Service
+- Deadline: None
+- Estimated value: 5000000 GBP
+
+## UK2 - Deployable Maritime Secure Analysis Capability – Preliminary Market Engagement
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 1 GBP
+
+## Jisc Google for Education Reseller Framework Agreement
+- Source: UK Find a Tender
+- Buyer: JISC SERVICES LIMITED
+- Deadline: None
+- Estimated value: 20000000 GBP
+
+## Port of Dover - IT Professional Resource Framework
+- Source: UK Find a Tender
+- Buyer: Dover Harbour Board
+- Deadline: 2026-11-21T17:00:00+00:00
+- Estimated value: 3000000 GBP
 
 ## Market Intelligence and Document Search Platform
 - Source: UK Find a Tender
@@ -299,107 +436,4 @@ Generated: 2026-10-22T05:14:35.827473+00:00
 - Buyer: THE UNIVERSITY CATERERS ORGANISATION LIMITED
 - Deadline: None
 - Estimated value: 11200000 GBP
-
-## Endoscopy Management Systems for the Peninsula Endoscopy Network
-- Source: UK Find a Tender
-- Buyer: ROYAL DEVON UNIVERSITY HEALTHCARE NHS FOUNDATION TRUST
-- Deadline: None
-
-## Requirement Management Tool
-- Source: UK Find a Tender
-- Buyer: UK Atomic Energy Authority
-- Deadline: None
-- Estimated value: 170000 GBP
-
-## Cultural Host request
-- Source: UK Find a Tender
-- Buyer: Borough of Telford & Wrekin
-- Deadline: 2026-10-26T12:00:00+00:00
-- Estimated value: 20000 GBP
-
-## Appointment of a Multi-Disciplinary Consultancy Team for Cemetery Provision Project
-- Source: UK Find a Tender
-- Buyer: Ards and North Down Borough Council
-- Deadline: None
-- Estimated value: 800000 GBP
-
-## Social Media Screening Services
-- Source: UK Find a Tender
-- Buyer: Essex County Council
-- Deadline: None
-
-## Website redesign and redevelopment
-- Source: UK Find a Tender
-- Buyer: Capital City College
-- Deadline: 2026-10-27T12:00:00+00:00
-
-## Conversion Practices Victim Support Service
-- Source: UK Find a Tender
-- Buyer: Cabinet Office
-- Deadline: 2026-11-09T17:00:00Z
-- Estimated value: 180000 GBP
-
-## CSM BUSINESS SERVICE MANAGEMENT PLATFORM AND IMPLEMENTATION PARTNER
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-- Estimated value: 100000000 GBP
-
-## Dedicated Housing Tenant Website
-- Source: UK Find a Tender
-- Buyer: Cardiff Council
-- Deadline: 2026-10-23T12:00:00+01:00
-- Estimated value: 75500.0 GBP
-
-## Growth Hub Website
-- Source: UK Find a Tender
-- Buyer: York and North Yorkshire Combined Authority
-- Deadline: 2026-10-20T12:00:00+01:00
-
-## The People's Network E-bikes - Customer Subscription, Service, Technology and Fleet Management Platform Provider
-- Source: UK Find a Tender
-- Buyer: South Yorkshire Mayoral Combined Authority
-- Deadline: 2026-11-16T12:00:00Z
-- Estimated value: 300000 GBP
-
-## MBC-1728 Income Recovery IT Solutions
-- Source: UK Find a Tender
-- Buyer: Melton Borough Council
-- Deadline: None
-- Estimated value: 200000 GBP
-
-## CSM BUSINESS SERVICE MANAGEMENT PLATFORM AND IMPLEMENTATION PARTNER
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-- Estimated value: 100000000 GBP
-
-## Public Sector Construction Consultancy
-- Source: UK Find a Tender
-- Buyer: NHS Shared Business Services Limited
-- Deadline: 2027-01-15T12:00:00Z
-- Estimated value: 2300000000 GBP
-
-## Education Network for Northern Ireland - "Education Network (NI)"
-- Source: UK Find a Tender
-- Buyer: the Education Authority
-- Deadline: None
-
-## NCHA202557- People System 
-- Source: UK Find a Tender
-- Buyer: Nottingham Community Housing Association Limited
-- Deadline: 2026-12-18T11:00:00+00:00
-- Estimated value: 1200000.0 GBP
-
-## Transit Payment Service Providers (TPSP), Closed Loop cEMV Token Providers, and Handheld Revenue Inspection Devices, for public transport services
-- Source: UK Find a Tender
-- Buyer: SOUTH WEST SMART APPLICATIONS LIMITED
-- Deadline: 2026-11-30T12:00:00Z
-- Estimated value: 60000000 GBP
-
-## NCHA202557- People System 
-- Source: UK Find a Tender
-- Buyer: Nottingham Community Housing Association Limited
-- Deadline: 2026-12-18T11:00:00+00:00
-- Estimated value: 1200000.0 GBP
 
