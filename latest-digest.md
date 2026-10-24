@@ -1,5 +1,91 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-23T05:13:13.569791+00:00
+Generated: 2026-10-24T04:55:40.532766+00:00
+
+## Digital Analytics Tool
+- Source: UK Find a Tender
+- Buyer: BBC (British Broadcasting Corporation)
+- Deadline: 2026-11-20T14:00:00Z
+
+## Architecture, Design and Product Services 
+- Source: UK Find a Tender
+- Buyer: HM Revenue & Customs
+- Deadline: None
+- Estimated value: 300000000 GBP
+
+## ID 6723703 - DOF - EDD - NICS Identity Assurance (NIDA) Solution
+- Source: UK Find a Tender
+- Buyer: CPD - Supplies and Services Division
+- Deadline: 2026-11-20T15:00:00+00:00
+- Estimated value: 5500000 GBP
+
+## DHSC: Supplier assurance information session for Social Care case management systems
+- Source: UK Find a Tender
+- Buyer: Department of Health & Social Care
+- Deadline: None
+
+## IT2716 - Oracle Support, Improvement & Transformation Service
+- Source: UK Find a Tender
+- Buyer: Wiltshire Council
+- Deadline: None
+- Estimated value: 688000.0 GBP
+
+## Social Housing Emerging Disrupters 6 (SHED 6)
+- Source: UK Find a Tender
+- Buyer: Procurement for Housing Ltd (t/a PfH Scotland)
+- Deadline: 2026-11-17T12:00:00Z
+- Estimated value: 250000000 GBP
+
+## Finance Selection Partner
+- Source: UK Find a Tender
+- Buyer: Anchor Hanover Group
+- Deadline: None
+
+## SONI089 – Software Licensing & Buying Services
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: None
+- Estimated value: 68557055.08 GBP
+
+## Implementing and Testing a Single Unique Identifier for Children within school MIS – Alpha
+- Source: UK Find a Tender
+- Buyer: Department for Education
+- Deadline: None
+- Estimated value: 300000 GBP
+
+## Implementing and Testing a Single Unique Identifier for Children within school MIS – Alpha
+- Source: UK Find a Tender
+- Buyer: Department for Education
+- Deadline: None
+- Estimated value: 300000 GBP
+
+## Belfast Stories – Story Engine
+- Source: UK Find a Tender
+- Buyer: Belfast City Council
+- Deadline: 2026-11-23T12:00:00+00:00
+- Estimated value: 550000 GBP
+
+## Cloud-based income management software solution
+- Source: UK Find a Tender
+- Buyer: London Borough of Lambeth
+- Deadline: None
+- Estimated value: 1234000 GBP
+
+## Microsoft Business Central Delivery and Support Partner
+- Source: UK Find a Tender
+- Buyer: Department for Education
+- Deadline: None
+- Estimated value: 13455016 GBP
+
+## Election Management System Pre Market engagement
+- Source: UK Find a Tender
+- Buyer: Barnsley Metropolitan Borough Council
+- Deadline: None
+
+## BU452026- Digital Reconstruction of Former Hospital in North Wales
+- Source: UK Find a Tender
+- Buyer: Prifysgol Bangor / Bangor University
+- Deadline: 2026-11-20T12:00:00+00:00
+- Estimated value: 304750.0 GBP
 
 ## Video Analytics Capability
 - Source: UK Find a Tender
@@ -375,65 +461,4 @@ Generated: 2026-10-23T05:13:13.569791+00:00
 - Buyer: SONI Ltd
 - Deadline: 2026-11-20T12:00:00+00:00
 - Estimated value: 6300000.0 GBP
-
-## Social Housing Emerging Disrupters 6
-- Source: UK Find a Tender
-- Buyer: Procurement for Housing
-- Deadline: 2026-11-17T12:00:00Z
-
-## Operational Excellence 
-- Source: UK Find a Tender
-- Buyer: NURSING AND MIDWIFERY COUNCIL
-- Deadline: None
-
-## Preliminary Market Engagement - Corporate Enterprise Resource Planning (ERP) 
-- Source: UK Find a Tender
-- Buyer: North East Lincolnshire Borough Council
-- Deadline: None
-
-## UK 777 IT Onsite Operations and Infrastructure supporting services
-- Source: UK Find a Tender
-- Buyer: British Council
-- Deadline: 2026-11-09T14:00:00Z
-- Estimated value: 1233333.0 GBP
-
-## AI Sandbox
-- Source: UK Find a Tender
-- Buyer: The Insolvency Service
-- Deadline: None
-
-## FW Services -  Procurement Cost Estimation and demand planning Tools
-- Source: UK Find a Tender
-- Buyer: SCOTTISH HYDRO ELECTRIC TRANSMISSION PLC
-- Deadline: None
-- Estimated value: 3756850 GBP
-
-## Request for Information (RFI) - Auto Translation and Transcription Service
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 600000 GBP
-
-## Repairs, Assets & Compliance ICT Systems
-- Source: UK Find a Tender
-- Buyer: BELIEVE HOUSING LIMITED
-- Deadline: None
-
-## Client Support Framework (CSF)
-- Source: UK Find a Tender
-- Buyer: East West Rail Company Limited
-- Deadline: None
-- Estimated value: 350000000 GBP
-
-## Registration Services Booking and Management System
-- Source: UK Find a Tender
-- Buyer: Herefordshire Council
-- Deadline: 2026-11-13T17:00:00Z
-- Estimated value: 200000 GBP
-
-## Catering Technologies and Services
-- Source: UK Find a Tender
-- Buyer: THE UNIVERSITY CATERERS ORGANISATION LIMITED
-- Deadline: None
-- Estimated value: 11200000 GBP
 
