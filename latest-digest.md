@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-24T04:55:40.532766+00:00
+Generated: 2026-10-25T05:07:53.544709+00:00
 
 ## Digital Analytics Tool
 - Source: UK Find a Tender
@@ -455,10 +455,4 @@ Generated: 2026-10-24T04:55:40.532766+00:00
 - Source: UK Find a Tender
 - Buyer: Hull City Council
 - Deadline: None
-
-## SONI090 – Client-Side Advisor
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: 2026-11-20T12:00:00+00:00
-- Estimated value: 6300000.0 GBP
 
