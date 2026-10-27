@@ -1,5 +1,90 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-26T05:10:13.383567+00:00
+Generated: 2026-10-27T05:25:13.812003+00:00
+
+## "Your Education Technology" An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
+- Source: UK Find a Tender
+- Buyer: NEXUS MULTI ACADEMY TRUST
+- Deadline: 2026-11-11T12:00:00Z
+- Estimated value: 1000000000 GBP
+
+## The Spencer Academy Trusts Microsoft Licensing & Support Services
+- Source: UK Find a Tender
+- Buyer: THE SPENCER ACADEMIES TRUST
+- Deadline: 2026-11-23T13:00:00Z
+- Estimated value: 1000000 GBP
+
+## Dispatch & Logistics Software (ii)
+- Source: UK Find a Tender
+- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
+- Deadline: None
+
+## Peaks & Plains - Asset Management System Replacement
+- Source: UK Find a Tender
+- Buyer: Cheshire Peaks and Plains Housing Trust Limited
+- Deadline: None
+
+## ISO 9001 Quality Management System Support Services for EA CPS
+- Source: UK Find a Tender
+- Buyer: the Education Authority
+- Deadline: None
+- Estimated value: 49999 GBP
+
+## Web Filtering and Monitoring
+- Source: UK Find a Tender
+- Buyer: THE DAVID ROSS EDUCATION TRUST
+- Deadline: None
+
+## Secure Connection Portal
+- Source: UK Find a Tender
+- Buyer: Borough of Telford & Wrekin
+- Deadline: 2026-11-09T12:00:00+00:00
+- Estimated value: 20000 GBP
+
+## Eastern Region Examination System Application
+- Source: UK Find a Tender
+- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
+- Deadline: 2026-12-11T15:00:00+00:00
+- Estimated value: 1375000 GBP
+
+## Provision of Youth Digital Safety and Online Harms
+- Source: UK Find a Tender
+- Buyer: Police & Crime Commissioner for Merseyside & Chief Constable for Merseyside
+- Deadline: None
+- Estimated value: 150000 GBP
+
+## Provision of Youth Digital Safety and Online Harms
+- Source: UK Find a Tender
+- Buyer: Police & Crime Commissioner for Merseyside & Chief Constable for Merseyside
+- Deadline: None
+- Estimated value: 150000 GBP
+
+## Public Sector Broadband Aggregation (PSBA) 3
+- Source: UK Find a Tender
+- Buyer: Llywodraeth Cymru / Welsh Government
+- Deadline: None
+- Estimated value: 700000000 GBP
+
+## World Model for SCAT
+- Source: UK Find a Tender
+- Buyer: Velindre University NHS Trust - : Please note NHS Wales Shared Services Partnership (hosted by Velindre University NHS Trust) will manage this procurement on behalf of the contracting authority. Due to having the same identifiers, we're unable to reflect this in the notice options.
+- Deadline: 2026-11-19T12:00:00+00:00
+- Estimated value: 50000.0 GBP
+
+## Lost Property
+- Source: UK Find a Tender
+- Buyer: LONDON NORTH EASTERN RAILWAY LIMITED
+- Deadline: None
+- Estimated value: 300000 GBP
+
+## Preliminary Market Engagement - Corporate Enterprise Resource Planning (ERP)
+- Source: UK Find a Tender
+- Buyer: North East Lincolnshire Borough Council
+- Deadline: None
+
+## Digital Analytics Tool
+- Source: UK Find a Tender
+- Buyer: BBC (British Broadcasting Corporation)
+- Deadline: 2026-11-20T14:00:00Z
 
 ## Digital Analytics Tool
 - Source: UK Find a Tender
@@ -392,67 +477,4 @@ Generated: 2026-10-26T05:10:13.383567+00:00
 - Buyer: University of Plymouth
 - Deadline: 2026-11-03T17:00:00+00:00
 - Estimated value: 890000.0 GBP
-
-## Programme Sapphire: Finance OCM and Workforce Transformation
-- Source: UK Find a Tender
-- Buyer: The Mayor and Commonalty and Citizens of the City of London
-- Deadline: None
-
-## HR Systems
-- Source: UK Find a Tender
-- Buyer: Tai Hedyn Limited
-- Deadline: None
-- Estimated value: 720000.0 GBP
-
-## BLC0239 Crypto Capabilities: Blockchain Analysis
-- Source: UK Find a Tender
-- Buyer: BlueLight Commercial Limited
-- Deadline: None
-- Estimated value: 20000000.0 GBP
-
-## Preliminary Market Engagement: Prescription Processing and Validation Solution
-- Source: UK Find a Tender
-- Buyer: Business Services Organisation Procurement and Logistics Service
-- Deadline: None
-- Estimated value: 1 GBP
-
-## IT Managed Services
-- Source: UK Find a Tender
-- Buyer: Caledonian Maritime Assets Ltd (Utility)
-- Deadline: None
-
-## Specialist Data Engineering and Cloud Engineering Support - Public Health Wales
-- Source: UK Find a Tender
-- Buyer: Public Health Wales NHS Trust
-- Deadline: None
-- Estimated value: 67000.0 GBP
-
-## Provision of an Asset Management Solution - Competitive Flexible Procedure
-- Source: UK Find a Tender
-- Buyer: Isle of Wight Council
-- Deadline: 2026-11-10T14:00:00+00:00
-- Estimated value: 201300.0 GBP
-
-## Supply of Networking Hardware and Software
-- Source: UK Find a Tender
-- Buyer: South Wales Fire and Rescue Service
-- Deadline: 2026-10-26T12:00:00+00:00
-- Estimated value: 583000.0 GBP
-
-## CCHA 0328 Legal Services Framework for Land and Development
-- Source: UK Find a Tender
-- Buyer: Castles and Coasts
-- Deadline: None
-- Estimated value: 650000 GBP
-
-## CCHA 0328 Legal Services Framework for Land and Development
-- Source: UK Find a Tender
-- Buyer: Castles and Coasts
-- Deadline: None
-- Estimated value: 650000 GBP
-
-## IT Hardware Recycling
-- Source: UK Find a Tender
-- Buyer: Hull City Council
-- Deadline: None
 
