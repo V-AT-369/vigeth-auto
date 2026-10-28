@@ -1,5 +1,133 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-27T05:25:13.812003+00:00
+Generated: 2026-10-28T06:05:28.822293+00:00
+
+## DFTc: ESM ServiceNow Implementation Market Engagement
+- Source: UK Find a Tender
+- Buyer: Department for Transport
+- Deadline: None
+- Estimated value: 5000000 GBP
+
+## Provision of Cyber Vault Security to Swansea Bay University Health Board
+- Source: UK Find a Tender
+- Buyer: Swansea Bay University Health Board
+- Deadline: None
+
+## Climate Vulnerability Intelligence Dashboard Feasibility Project
+- Source: UK Find a Tender
+- Buyer: South East Wales Corporate Joint Committee
+- Deadline: 2026-11-13T12:00:00+00:00
+- Estimated value: 120000.0 GBP
+
+## 002922 RFI Transforming the British Library Technology Operations Environment
+- Source: UK Find a Tender
+- Buyer: British Library
+- Deadline: None
+- Estimated value: 15000000.0 GBP
+
+## 999 & 111 SUPPORT RENEWAL (WESTCON)
+- Source: UK Find a Tender
+- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
+- Deadline: None
+
+## Network Operating System (Cisco)
+- Source: UK Find a Tender
+- Buyer: East Riding of Yorkshire Council
+- Deadline: 2026-11-11T12:00:00+00:00
+- Estimated value: 275000 GBP
+
+## Investment Appraisal and Proposition Development Support
+- Source: UK Find a Tender
+- Buyer: York and North Yorkshire Combined Authority
+- Deadline: 2026-10-30T12:00:00Z
+
+## BRCD Contracts for Innovation Challenge 1
+- Source: UK Find a Tender
+- Buyer: Newry Mourne & Down District Council
+- Deadline: 2026-12-11T16:00:00Z
+
+## Notice title: New Hospital Programme - Hospital 2.0 Alliance (H2A) Framework Call-Off Contract for North Manchester General Hospital OPD
+- Source: UK Find a Tender
+- Buyer: Manchester University NHS Foundation Trust
+- Deadline: None
+
+## SONI095 Managed Service - Security Operations Centre
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: None
+- Estimated value: 17600000.0 GBP
+
+## SSEN Website Development & Support PQQ
+- Source: UK Find a Tender
+- Buyer: SOUTHERN ELECTRIC POWER DISTRIBUTION PLC
+- Deadline: 2026-11-21T17:00:00+00:00
+- Estimated value: 2500000 GBP
+
+## Eastern Region Examination System Application
+- Source: UK Find a Tender
+- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
+- Deadline: 2026-12-11T15:00:00+00:00
+- Estimated value: 1375000 GBP
+
+## T26/27-008 PEACE PLUS - Celebrating Us
+- Source: UK Find a Tender
+- Buyer: Lisburn and Castlereagh City Council
+- Deadline: 2026-11-27T12:00:00+00:00
+
+## RFI - Resilient Connectivity for Locomotive Operations
+- Source: UK Find a Tender
+- Buyer: Direct Rail Services Limited
+- Deadline: None
+- Estimated value: 500000.0 GBP
+
+## Video Analytics Capability
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## Microsoft Enterprise Agreement
+- Source: UK Find a Tender
+- Buyer: STUDENT LOANS COMPANY
+- Deadline: None
+- Estimated value: 14000000 GBP
+
+## New Hospital Programme - Hospital 2.0 Alliance Acute
+- Source: UK Find a Tender
+- Buyer: Manchester University NHS Foundation Trust
+- Deadline: None
+
+## WEBSITE DESIGN, BUILD AND HOSTING SERVICES
+- Source: UK Find a Tender
+- Buyer: TRURO & PENWITH ACADEMY TRUST
+- Deadline: None
+- Estimated value: 300000 GBP
+
+## CA18/5956 Construction, Environmental & Technical Professional Services Framework (CETPS)
+- Source: UK Find a Tender
+- Buyer: Mining Remediation Authority
+- Deadline: 2026-11-06T16:00:00Z
+- Estimated value: 9400000 GBP
+
+## Provision of Consultancy Support for ERP
+- Source: UK Find a Tender
+- Buyer: The Police & Crime Commissioner for Sussex
+- Deadline: None
+
+## Implementing and Testing a Single Unique Identifier for Children within school MIS – Alpha
+- Source: UK Find a Tender
+- Buyer: Department for Education
+- Deadline: None
+- Estimated value: 300000 GBP
+
+## Implementing and Testing a Single Unique Identifier for Children within school MIS – Alpha
+- Source: UK Find a Tender
+- Buyer: Department for Education
+- Deadline: None
+- Estimated value: 300000 GBP
+
+## Web Filtering and Monitoring
+- Source: UK Find a Tender
+- Buyer: THE DAVID ROSS EDUCATION TRUST
+- Deadline: None
 
 ## "Your Education Technology" An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
 - Source: UK Find a Tender
@@ -347,134 +475,4 @@ Generated: 2026-10-27T05:25:13.812003+00:00
 - Source: UK Find a Tender
 - Buyer: Glasgow City Council
 - Deadline: None
-
-## Procurement of a 'Local Authority' Legal Case Management System
-- Source: UK Find a Tender
-- Buyer: North Tyneside Borough Council
-- Deadline: 2026-11-13T12:00:00Z
-- Estimated value: 200000 GBP
-
-## BCU-DCO-63923 - ENDOSCOPY MANAGEMENT SYSTEM
-- Source: UK Find a Tender
-- Buyer: Betsi Cadwaladr University Health Board
-- Deadline: None
-
-## Jisc Google for Education Reseller Framework Agreement
-- Source: UK Find a Tender
-- Buyer: JISC SERVICES LIMITED
-- Deadline: None
-- Estimated value: 20000000 GBP
-
-## ICO FOI Concilliation Service - Pre Market Engagement
-- Source: UK Find a Tender
-- Buyer: Information Commissioner's Office
-- Deadline: None
-- Estimated value: 800000.0 GBP
-
-## Revenue Protection Enforcement System (RPES)
-- Source: UK Find a Tender
-- Buyer: Transpennine Trains Limited
-- Deadline: None
-- Estimated value: 10000000.0 GBP
-
-## Penetration Testing
-- Source: UK Find a Tender
-- Buyer: Senedd Cymru / Welsh Parliament
-- Deadline: 2026-11-24T10:00:00+00:00
-- Estimated value: 80000.0 GBP
-
-## ID 6794091 - Preliminary Market Engagement -  Provision of Hydrometric Supplies, Services and Training
-- Source: UK Find a Tender
-- Buyer: Department for Infrastructure
-- Deadline: None
-- Estimated value: 1 GBP
-
-## PRO005187-Services-Contract-Interruption to Supply Event Management
-- Source: UK Find a Tender
-- Buyer: UNITED UTILITIES WATER LIMITED
-- Deadline: None
-
-## T26-113BUS Business Sprint Fast Track  SME Growth Support Programme
-- Source: UK Find a Tender
-- Buyer: Derry City and Strabane District Council
-- Deadline: 2026-11-20T12:00:00+00:00
-
-## AI Growth Zone Programme Delivery for Ecosystem Profile and Coordination
-- Source: UK Find a Tender
-- Buyer: North East Combined Authority
-- Deadline: None
-
-## QTS Consultants Framework
-- Source: UK Find a Tender
-- Buyer: QUALITY TRUSTED SOLUTIONS LLP
-- Deadline: 2026-12-18T14:00:00Z
-- Estimated value: 150000000 GBP
-
-## AI Growth Zone Programme Delivery for Ecosystem Profile and Coordination
-- Source: UK Find a Tender
-- Buyer: North East Combined Authority
-- Deadline: None
-
-## T26-121CRO Committee Management Software
-- Source: UK Find a Tender
-- Buyer: Derry City and Strabane District Council
-- Deadline: 2026-11-20T12:00:00+00:00
-
-## Business Continuity Testing Exercise - RFI
-- Source: UK Find a Tender
-- Buyer: NHS Business Services Authority
-- Deadline: None
-- Estimated value: 40000.0 GBP
-
-## Central Business Analysis
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-
-## Maiden Erlegh Trust - Mobile Device Scheme
-- Source: UK Find a Tender
-- Buyer: MAIDEN ERLEGH TRUST
-- Deadline: 2026-11-23T12:00:00Z
-- Estimated value: 6000000 GBP
-
-## PRO005166 - ORiW - Design and Integration Partner
-- Source: UK Find a Tender
-- Buyer: United Utilities Water Limited
-- Deadline: None
-- Estimated value: 600000000 GBP
-
-## Hazard Management Tool
-- Source: UK Find a Tender
-- Buyer: UK Atomic Energy Authority
-- Deadline: 2026-11-10T12:00:00+00:00
-- Estimated value: 50000 GBP
-
-## Registration Services Booking and Management System
-- Source: UK Find a Tender
-- Buyer: Herefordshire Council
-- Deadline: 2026-11-13T17:00:00Z
-- Estimated value: 200000 GBP
-
-## Request for Information: Cloud managed service team outsourcing on-call customer supportCloud managed service team outsourcing on-call customer support
-- Source: UK Find a Tender
-- Buyer: JISC
-- Deadline: None
-
-## ITT - Recruitment Applicant Tracking System - UID 390M
-- Source: UK Find a Tender
-- Buyer: Historic England
-- Deadline: 2026-11-14T09:30:00+00:00
-- Estimated value: 140000 GBP
-
-## Andover Data Centre Co-Location Agreement
-- Source: UK Find a Tender
-- Buyer: DEPARTMENT FOR ENVIRONMENT, FOOD AND RURAL AFFAIRS
-- Deadline: None
-- Estimated value: 4000000.0 GBP
-
-## PDSE Patient Record Management Solution
-- Source: UK Find a Tender
-- Buyer: University of Plymouth
-- Deadline: 2026-11-03T17:00:00+00:00
-- Estimated value: 890000.0 GBP
 
