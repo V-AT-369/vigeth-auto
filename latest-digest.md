@@ -1,5 +1,131 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-30T06:17:22.907343+00:00
+Generated: 2026-10-31T06:08:45.677110+00:00
+
+## Integration Technical Operations Assurance & Environment (ITOAE)
+- Source: UK Find a Tender
+- Buyer: East West Rail Company Limited
+- Deadline: None
+- Estimated value: 300000000 GBP
+
+## Video Analytics Capability
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## Client Support Framework (CSF)
+- Source: UK Find a Tender
+- Buyer: East West Rail Company Limited
+- Deadline: None
+- Estimated value: 350000000 GBP
+
+## Public Cloud Hosting AWS
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Public cloud hosting AWS
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Request for Information (RFI) - Auto Translation and Transcription Service
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 600000 GBP
+
+## Public Cloud Hosting AWS
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Public Cloud Hosting - AZURE
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 150790007 GBP
+
+## Public Cloud Hosting - AZURE
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 150790007 GBP
+
+## Regional Data Platform
+- Source: UK Find a Tender
+- Buyer: Cambridgeshire and Peterborough Combined Authority
+- Deadline: None
+
+## An Online Policies and Procedures service
+- Source: UK Find a Tender
+- Buyer: Lincolnshire County Council
+- Deadline: 2026-11-20T17:00:00Z
+
+## RFI - Provision of a Social Media and Online News Monitoring Solution
+- Source: UK Find a Tender
+- Buyer: Department for Transport
+- Deadline: None
+
+## Revenue Protection Enforcement System (RPES)
+- Source: UK Find a Tender
+- Buyer: Transpennine Trains Limited
+- Deadline: None
+- Estimated value: 10000000.0 GBP
+
+## L26044-T-YHBC- ​Web development, maintenance and hosting
+- Source: UK Find a Tender
+- Buyer: London Luton Airport Operations Limited
+- Deadline: 2026-11-13T12:00:00Z
+
+## Audio visual, digital signage and visitor management system
+- Source: UK Find a Tender
+- Buyer: Liverpool City Region Combined Authority
+- Deadline: 2026-11-18T10:00:00Z
+
+## Invitation to Tender: Cyber Accelerator Programme - Design Partnerships (itt_2888)
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: 2026-11-27T11:00:00+00:00
+- Estimated value: 1200000 GBP
+
+## Webinar Invitation: Cyber Accelerator Programme - Design Partnerships
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: 2026-11-27T11:00:00+00:00
+- Estimated value: 1200000 GBP
+
+## UK Equities Consolidated Tape Provider
+- Source: UK Find a Tender
+- Buyer: FCA
+- Deadline: 2027-03-18T14:30:00Z
+- Estimated value: 65000000.0 GBP
+
+## Provision of a Multi-Authority Employability, Case Management and Employer Relationship Management Solution: Integrated Management Information System for Employability and Skills across the Edinburgh and South East Scotland City Regional Deal Area
+- Source: UK Find a Tender
+- Buyer: Capital City Partnership
+- Deadline: 2027-01-11T12:00:00Z
+- Estimated value: 1250000 GBP
+
+## DFTc: ESM ServiceNow Implementation Market Engagement
+- Source: UK Find a Tender
+- Buyer: Department for Transport
+- Deadline: None
+- Estimated value: 5000000 GBP
+
+## TfWM Customer Website Replacement
+- Source: UK Find a Tender
+- Buyer: West Midlands Combined Authority
+- Deadline: None
+- Estimated value: 400000 GBP
+
+## IT Data Cabling
+- Source: UK Find a Tender
+- Buyer: City of Bradford Metropolitan District Council
+- Deadline: 2026-11-30T13:00:00Z
+- Estimated value: 500000.0 GBP
 
 ## Command and Control Programme (C2P)
 - Source: UK Find a Tender
@@ -235,12 +361,6 @@ Generated: 2026-10-30T06:17:22.907343+00:00
 - Deadline: 2026-12-11T15:00:00+00:00
 - Estimated value: 1375000 GBP
 
-## Eastern Region Examination System Application
-- Source: UK Find a Tender
-- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
-- Deadline: 2026-12-11T15:00:00+00:00
-- Estimated value: 1375000 GBP
-
 ## T26/27-008 PEACE PLUS - Celebrating Us
 - Source: UK Find a Tender
 - Buyer: Lisburn and Castlereagh City Council
@@ -340,95 +460,4 @@ Generated: 2026-10-30T06:17:22.907343+00:00
 - Buyer: Borough of Telford & Wrekin
 - Deadline: 2026-11-09T12:00:00+00:00
 - Estimated value: 20000 GBP
-
-## Eastern Region Examination System Application
-- Source: UK Find a Tender
-- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
-- Deadline: 2026-12-11T15:00:00+00:00
-- Estimated value: 1375000 GBP
-
-## Provision of Youth Digital Safety and Online Harms
-- Source: UK Find a Tender
-- Buyer: Police & Crime Commissioner for Merseyside & Chief Constable for Merseyside
-- Deadline: None
-- Estimated value: 150000 GBP
-
-## Provision of Youth Digital Safety and Online Harms
-- Source: UK Find a Tender
-- Buyer: Police & Crime Commissioner for Merseyside & Chief Constable for Merseyside
-- Deadline: None
-- Estimated value: 150000 GBP
-
-## Public Sector Broadband Aggregation (PSBA) 3
-- Source: UK Find a Tender
-- Buyer: Llywodraeth Cymru / Welsh Government
-- Deadline: None
-- Estimated value: 700000000 GBP
-
-## World Model for SCAT
-- Source: UK Find a Tender
-- Buyer: Velindre University NHS Trust - : Please note NHS Wales Shared Services Partnership (hosted by Velindre University NHS Trust) will manage this procurement on behalf of the contracting authority. Due to having the same identifiers, we're unable to reflect this in the notice options.
-- Deadline: 2026-11-19T12:00:00+00:00
-- Estimated value: 50000.0 GBP
-
-## Lost Property
-- Source: UK Find a Tender
-- Buyer: LONDON NORTH EASTERN RAILWAY LIMITED
-- Deadline: None
-- Estimated value: 300000 GBP
-
-## Preliminary Market Engagement - Corporate Enterprise Resource Planning (ERP)
-- Source: UK Find a Tender
-- Buyer: North East Lincolnshire Borough Council
-- Deadline: None
-
-## Digital Analytics Tool
-- Source: UK Find a Tender
-- Buyer: BBC (British Broadcasting Corporation)
-- Deadline: 2026-11-20T14:00:00Z
-
-## Digital Analytics Tool
-- Source: UK Find a Tender
-- Buyer: BBC (British Broadcasting Corporation)
-- Deadline: 2026-11-20T14:00:00Z
-
-## Architecture, Design and Product Services 
-- Source: UK Find a Tender
-- Buyer: HM Revenue & Customs
-- Deadline: None
-- Estimated value: 300000000 GBP
-
-## ID 6723703 - DOF - EDD - NICS Identity Assurance (NIDA) Solution
-- Source: UK Find a Tender
-- Buyer: CPD - Supplies and Services Division
-- Deadline: 2026-11-20T15:00:00+00:00
-- Estimated value: 5500000 GBP
-
-## DHSC: Supplier assurance information session for Social Care case management systems
-- Source: UK Find a Tender
-- Buyer: Department of Health & Social Care
-- Deadline: None
-
-## IT2716 - Oracle Support, Improvement & Transformation Service
-- Source: UK Find a Tender
-- Buyer: Wiltshire Council
-- Deadline: None
-- Estimated value: 688000.0 GBP
-
-## Social Housing Emerging Disrupters 6 (SHED 6)
-- Source: UK Find a Tender
-- Buyer: Procurement for Housing Ltd (t/a PfH Scotland)
-- Deadline: 2026-11-17T12:00:00Z
-- Estimated value: 250000000 GBP
-
-## Finance Selection Partner
-- Source: UK Find a Tender
-- Buyer: Anchor Hanover Group
-- Deadline: None
-
-## SONI089 – Software Licensing & Buying Services
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: None
-- Estimated value: 68557055.08 GBP
 
