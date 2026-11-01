@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-10-31T06:08:45.677110+00:00
+Generated: 2026-11-01T06:39:09.979093+00:00
 
 ## Integration Technical Operations Assurance & Environment (ITOAE)
 - Source: UK Find a Tender
@@ -454,10 +454,4 @@ Generated: 2026-10-31T06:08:45.677110+00:00
 - Source: UK Find a Tender
 - Buyer: THE DAVID ROSS EDUCATION TRUST
 - Deadline: None
-
-## Secure Connection Portal
-- Source: UK Find a Tender
-- Buyer: Borough of Telford & Wrekin
-- Deadline: 2026-11-09T12:00:00+00:00
-- Estimated value: 20000 GBP
 
