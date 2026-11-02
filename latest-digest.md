@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-01T06:39:09.979093+00:00
+Generated: 2026-11-02T06:38:26.128439+00:00
 
 ## Integration Technical Operations Assurance & Environment (ITOAE)
 - Source: UK Find a Tender
