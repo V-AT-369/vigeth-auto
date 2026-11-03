@@ -1,5 +1,78 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-02T06:38:26.128439+00:00
+Generated: 2026-11-03T07:07:59.124107+00:00
+
+## Equals Trust - Provision of ICT Managed Services Stage 1
+- Source: UK Find a Tender
+- Buyer: Equals Trust
+- Deadline: 2027-02-26T12:00:00+00:00
+- Estimated value: 3000000 GBP
+
+## Application Management Services for the Radiological Response and Emergency Management System (RREMS)
+- Source: UK Find a Tender
+- Buyer: Department for Energy Security & Net Zero
+- Deadline: None
+- Estimated value: 27700000 GBP
+
+## Temporary Accommodation Support Services (TAVSS)  for West London Alliance
+- Source: UK Find a Tender
+- Buyer: London Borough of Ealing Council
+- Deadline: None
+- Estimated value: 240000.0 GBP
+
+## HMCTS Legacy Archive Recovery and Digitisation
+- Source: UK Find a Tender
+- Buyer: Ministry of Justice
+- Deadline: None
+
+## Network Services Contract
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+- Estimated value: 350000000 GBP
+
+## Accounting Finance Software
+- Source: UK Find a Tender
+- Buyer: Housing Solutions
+- Deadline: None
+
+## Video Analytics Capability
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## World Model for SCAT
+- Source: UK Find a Tender
+- Buyer: Velindre University NHS Trust - : Please note NHS Wales Shared Services Partnership (hosted by Velindre University NHS Trust) will manage this procurement on behalf of the contracting authority. Due to having the same identifiers, we're unable to reflect this in the notice options.
+- Deadline: 2026-11-19T12:00:00+00:00
+- Estimated value: 50000.0 GBP
+
+## LEGO299 End-to-End Reporting, Budgeting, Forecasting and Financial Reporting Solution
+- Source: UK Find a Tender
+- Buyer: The Office for Legal Complaints
+- Deadline: 2026-11-30T16:00:00Z
+- Estimated value: 100000 GBP
+
+## Asset Safety and Compliance (ASC2) - PME
+- Source: UK Find a Tender
+- Buyer: LHC Procurement Group for the Scottish Procurement Alliance (SPA)
+- Deadline: None
+
+## Guided Ultrasound Technology for Suspected Deep Vein Thrombosis (DVT)
+- Source: UK Find a Tender
+- Buyer: Chelsea and Westminster Hospital NHS Foundation Trust
+- Deadline: None
+- Estimated value: 300000.0 GBP
+
+## Data Privacy, Information Governance and Risk Management Platform
+- Source: UK Find a Tender
+- Buyer: Science Museum Group
+- Deadline: None
+- Estimated value: 160000 GBP
+
+## Data Privacy, Information Governance and Risk Management Platform
+- Source: UK Find a Tender
+- Buyer: Science Museum Group
+- Deadline: None
 
 ## Integration Technical Operations Assurance & Environment (ITOAE)
 - Source: UK Find a Tender
@@ -341,117 +414,5 @@ Generated: 2026-11-02T06:38:26.128439+00:00
 ## Notice title: New Hospital Programme - Hospital 2.0 Alliance (H2A) Framework Call-Off Contract for North Manchester General Hospital OPD
 - Source: UK Find a Tender
 - Buyer: Manchester University NHS Foundation Trust
-- Deadline: None
-
-## SONI095 Managed Service - Security Operations Centre
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: None
-- Estimated value: 17600000.0 GBP
-
-## SSEN Website Development & Support PQQ
-- Source: UK Find a Tender
-- Buyer: SOUTHERN ELECTRIC POWER DISTRIBUTION PLC
-- Deadline: 2026-11-21T17:00:00+00:00
-- Estimated value: 2500000 GBP
-
-## Eastern Region Examination System Application
-- Source: UK Find a Tender
-- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
-- Deadline: 2026-12-11T15:00:00+00:00
-- Estimated value: 1375000 GBP
-
-## T26/27-008 PEACE PLUS - Celebrating Us
-- Source: UK Find a Tender
-- Buyer: Lisburn and Castlereagh City Council
-- Deadline: 2026-11-27T12:00:00+00:00
-
-## RFI - Resilient Connectivity for Locomotive Operations
-- Source: UK Find a Tender
-- Buyer: Direct Rail Services Limited
-- Deadline: None
-- Estimated value: 500000.0 GBP
-
-## Video Analytics Capability
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## Microsoft Enterprise Agreement
-- Source: UK Find a Tender
-- Buyer: STUDENT LOANS COMPANY
-- Deadline: None
-- Estimated value: 14000000 GBP
-
-## New Hospital Programme - Hospital 2.0 Alliance Acute
-- Source: UK Find a Tender
-- Buyer: Manchester University NHS Foundation Trust
-- Deadline: None
-
-## WEBSITE DESIGN, BUILD AND HOSTING SERVICES
-- Source: UK Find a Tender
-- Buyer: TRURO & PENWITH ACADEMY TRUST
-- Deadline: None
-- Estimated value: 300000 GBP
-
-## CA18/5956 Construction, Environmental & Technical Professional Services Framework (CETPS)
-- Source: UK Find a Tender
-- Buyer: Mining Remediation Authority
-- Deadline: 2026-11-06T16:00:00Z
-- Estimated value: 9400000 GBP
-
-## Provision of Consultancy Support for ERP
-- Source: UK Find a Tender
-- Buyer: The Police & Crime Commissioner for Sussex
-- Deadline: None
-
-## Implementing and Testing a Single Unique Identifier for Children within school MIS – Alpha
-- Source: UK Find a Tender
-- Buyer: Department for Education
-- Deadline: None
-- Estimated value: 300000 GBP
-
-## Implementing and Testing a Single Unique Identifier for Children within school MIS – Alpha
-- Source: UK Find a Tender
-- Buyer: Department for Education
-- Deadline: None
-- Estimated value: 300000 GBP
-
-## Web Filtering and Monitoring
-- Source: UK Find a Tender
-- Buyer: THE DAVID ROSS EDUCATION TRUST
-- Deadline: None
-
-## "Your Education Technology" An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.
-- Source: UK Find a Tender
-- Buyer: NEXUS MULTI ACADEMY TRUST
-- Deadline: 2026-11-11T12:00:00Z
-- Estimated value: 1000000000 GBP
-
-## The Spencer Academy Trusts Microsoft Licensing & Support Services
-- Source: UK Find a Tender
-- Buyer: THE SPENCER ACADEMIES TRUST
-- Deadline: 2026-11-23T13:00:00Z
-- Estimated value: 1000000 GBP
-
-## Dispatch & Logistics Software (ii)
-- Source: UK Find a Tender
-- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
-- Deadline: None
-
-## Peaks & Plains - Asset Management System Replacement
-- Source: UK Find a Tender
-- Buyer: Cheshire Peaks and Plains Housing Trust Limited
-- Deadline: None
-
-## ISO 9001 Quality Management System Support Services for EA CPS
-- Source: UK Find a Tender
-- Buyer: the Education Authority
-- Deadline: None
-- Estimated value: 49999 GBP
-
-## Web Filtering and Monitoring
-- Source: UK Find a Tender
-- Buyer: THE DAVID ROSS EDUCATION TRUST
 - Deadline: None
 
