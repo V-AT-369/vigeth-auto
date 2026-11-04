@@ -1,5 +1,96 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-03T07:07:59.124107+00:00
+Generated: 2026-11-04T06:53:52.704858+00:00
+
+## Provision of a Finance Solution and Associated Services to the Northern Ireland Assembly Commission
+- Source: UK Find a Tender
+- Buyer: Northern Ireland Assembly Commission
+- Deadline: 2027-01-29T15:00:00+00:00
+- Estimated value: 1100000.0 GBP
+
+## Chiltern Rail - Performance, Delay & Incident Management System
+- Source: UK Find a Tender
+- Buyer: CHILTERN RAIL LIMITED
+- Deadline: None
+- Estimated value: 1900000 GBP
+
+## UPS Upgrade and Managed Service
+- Source: UK Find a Tender
+- Buyer: Greater Manchester Combined Authority
+- Deadline: None
+
+## Proquest Central Premium
+- Source: UK Find a Tender
+- Buyer: University of Strathclyde
+- Deadline: None
+
+## Application Management Services for the Radiological Response and Emergency Management System (RREMS)
+- Source: UK Find a Tender
+- Buyer: Department for Energy Security & Net Zero
+- Deadline: None
+- Estimated value: 27700000 GBP
+
+## Spectrum Licencing Solution
+- Source: UK Find a Tender
+- Buyer: Ofcom
+- Deadline: None
+
+## Spectrum Licencing Solution
+- Source: UK Find a Tender
+- Buyer: Ofcom
+- Deadline: None
+
+## Mapping and Modelling Framework 3
+- Source: UK Find a Tender
+- Buyer: ENVIRONMENT AGENCY
+- Deadline: None
+- Estimated value: 50000000.0 GBP
+
+## BRCD Contracts for Innovation Challenge 1
+- Source: UK Find a Tender
+- Buyer: Newry Mourne & Down District Council
+- Deadline: 2026-12-11T16:00:00Z
+
+## Microsoft Renewal - Enterprise Subscription Agreement & Server and Cloud Enrolment
+- Source: UK Find a Tender
+- Buyer: Stockport Metropolitan Borough Council
+- Deadline: None
+
+## Contract Management Tool For NEC4 Contracts
+- Source: UK Find a Tender
+- Buyer: Defence Infrastructure Organisation
+- Deadline: None
+
+## On-Bus Technology for the South Yorkshire Franchised Bus Fleet - Preliminary Market Engagement
+- Source: UK Find a Tender
+- Buyer: South Yorkshire Mayoral Combined Authority
+- Deadline: None
+
+## Registrars Diary Management System
+- Source: UK Find a Tender
+- Buyer: Trafford Council
+- Deadline: None
+
+## Supply, Installation and On-Going Maintenance & Support of an Asset Management Solution
+- Source: UK Find a Tender
+- Buyer: Caerphilly County Borough Council
+- Deadline: None
+
+## Satellite-Enabled Heat and Humidity Risk Management for NHS Estates
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: None
+- Estimated value: 1200000 GBP
+
+## Supplier Ambient Voice Technology (AVT) Self Certified Registry for the use of AI-Enabled Ambient Scribing Products in Health and Care Settings
+- Source: UK Find a Tender
+- Buyer: NHS ENGLAND
+- Deadline: None
+
+## Virtual Accessibility Tours
+- Source: UK Find a Tender
+- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
+- Deadline: 2026-11-30T23:59:00+00:00
+- Estimated value: 4100000 GBP
 
 ## Equals Trust - Provision of ICT Managed Services Stage 1
 - Source: UK Find a Tender
@@ -323,96 +414,4 @@ Generated: 2026-11-03T07:07:59.124107+00:00
 - Buyer: Borough of Telford & Wrekin
 - Deadline: 2026-11-09T12:00:00+00:00
 - Estimated value: 20000 GBP
-
-## Continuous Testing (PTaaS) Service Agreement
-- Source: UK Find a Tender
-- Buyer: THAMES WATER UTILITIES LIMITED
-- Deadline: None
-- Estimated value: 2000000 GBP
-
-## Provision of subscription-based Gartner Research Services to Swansea Bay University Health Board
-- Source: UK Find a Tender
-- Buyer: Swansea Bay University Health Board
-- Deadline: None
-
-## One IPO Phase 2 - Client-Side Delivery & Intelligent Client Function Services
-- Source: UK Find a Tender
-- Buyer: Intellectual Property Office
-- Deadline: None
-
-## Workforce Solutions Framework
-- Source: UK Find a Tender
-- Buyer: Government Commercial Agency
-- Deadline: None
-
-## PRO005184-Services-Framework-Cloud-based video knowledge capture and platform
-- Source: UK Find a Tender
-- Buyer: United Utilities Water Limited
-- Deadline: None
-
-## Travel Wales by TfW: Retail, Marketplace and Licensing Ecosystem / Teithio Cymru gan TrC: Manwerthu, Y Farchnad ac Ecosystem Trwyddedu
-- Source: UK Find a Tender
-- Buyer: Transport for Wales (TFW) Ltd
-- Deadline: None
-- Estimated value: 100000.0 GBP
-
-## Provision of an Events Management Solution
-- Source: UK Find a Tender
-- Buyer: The Royal Household
-- Deadline: None
-
-## Travel Wales by TfW: Retail, Marketplace and Licensing Ecosystem / Teithio Cymru gan TrC: Manwerthu, Y Farchnad ac Ecosystem Trwyddedu
-- Source: UK Find a Tender
-- Buyer: Transport for Wales (TFW) Ltd
-- Deadline: None
-- Estimated value: 100000.0 GBP
-
-## DFTc: ESM ServiceNow Implementation Market Engagement
-- Source: UK Find a Tender
-- Buyer: Department for Transport
-- Deadline: None
-- Estimated value: 5000000 GBP
-
-## Provision of Cyber Vault Security to Swansea Bay University Health Board
-- Source: UK Find a Tender
-- Buyer: Swansea Bay University Health Board
-- Deadline: None
-
-## Climate Vulnerability Intelligence Dashboard Feasibility Project
-- Source: UK Find a Tender
-- Buyer: South East Wales Corporate Joint Committee
-- Deadline: 2026-11-13T12:00:00+00:00
-- Estimated value: 120000.0 GBP
-
-## 002922 RFI Transforming the British Library Technology Operations Environment
-- Source: UK Find a Tender
-- Buyer: British Library
-- Deadline: None
-- Estimated value: 15000000.0 GBP
-
-## 999 & 111 SUPPORT RENEWAL (WESTCON)
-- Source: UK Find a Tender
-- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
-- Deadline: None
-
-## Network Operating System (Cisco)
-- Source: UK Find a Tender
-- Buyer: East Riding of Yorkshire Council
-- Deadline: 2026-11-11T12:00:00+00:00
-- Estimated value: 275000 GBP
-
-## Investment Appraisal and Proposition Development Support
-- Source: UK Find a Tender
-- Buyer: York and North Yorkshire Combined Authority
-- Deadline: 2026-10-30T12:00:00Z
-
-## BRCD Contracts for Innovation Challenge 1
-- Source: UK Find a Tender
-- Buyer: Newry Mourne & Down District Council
-- Deadline: 2026-12-11T16:00:00Z
-
-## Notice title: New Hospital Programme - Hospital 2.0 Alliance (H2A) Framework Call-Off Contract for North Manchester General Hospital OPD
-- Source: UK Find a Tender
-- Buyer: Manchester University NHS Foundation Trust
-- Deadline: None
 
