@@ -1,5 +1,73 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-04T06:53:52.704858+00:00
+Generated: 2026-11-05T07:12:32.757558+00:00
+
+## Gazetteer Management Solution
+- Source: UK Find a Tender
+- Buyer: CADENT GAS LIMITED
+- Deadline: None
+
+## DWP Estates Data and Systems Integrator Services (Project DASI)
+- Source: UK Find a Tender
+- Buyer: Department for Work & Pensions
+- Deadline: None
+- Estimated value: 56000000.0 GBP
+
+## DWP Estates Data and Systems Integrator Services (Project DASI)
+- Source: UK Find a Tender
+- Buyer: Department for Work & Pensions
+- Deadline: None
+- Estimated value: 56000000.0 GBP
+
+## DWP Estates Data and Systems Integrator Services (Project DASI)
+- Source: UK Find a Tender
+- Buyer: Department for Work & Pensions
+- Deadline: None
+- Estimated value: 56000000.0 GBP
+
+## DWP Estates Data and Systems Integrator Services (Project DASI)
+- Source: UK Find a Tender
+- Buyer: Department for Work & Pensions
+- Deadline: None
+- Estimated value: 56000000.0 GBP
+
+## Gazetteer Management Service
+- Source: UK Find a Tender
+- Buyer: CADENT GAS LIMITED
+- Deadline: None
+
+## Penetration Testing
+- Source: UK Find a Tender
+- Buyer: Planning Inspectorate
+- Deadline: None
+
+## EMMS Cyber Security SME Support Programme
+- Source: UK Find a Tender
+- Buyer: Lincolnshire County Council
+- Deadline: 2026-11-18T09:00:00Z
+- Estimated value: 65000.0 GBP
+
+## Digital Connectivity Programme - 1gb Broadband Install and Service Delivery
+- Source: UK Find a Tender
+- Buyer: North Lanarkshire Council
+- Deadline: 2026-12-08T12:00:00Z
+- Estimated value: 85450527 GBP
+
+## The Spencer Academy Trusts Microsoft Licensing & Support Services
+- Source: UK Find a Tender
+- Buyer: THE SPENCER ACADEMIES TRUST
+- Deadline: 2026-11-23T13:00:00Z
+- Estimated value: 525000 GBP
+
+## SONI095 Managed Service - Security Operations Centre
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: None
+- Estimated value: 17600000.0 GBP
+
+## Mayoral Combined Authority Web Services Rewnal
+- Source: UK Find a Tender
+- Buyer: The West of England Combined Authority
+- Deadline: None
 
 ## Provision of a Finance Solution and Associated Services to the Northern Ireland Assembly Commission
 - Source: UK Find a Tender
@@ -347,71 +415,4 @@ Generated: 2026-11-04T06:53:52.704858+00:00
 - Buyer: Ministry of Defence
 - Deadline: 2027-01-04T23:59:00+00:00
 - Estimated value: 350000 GBP
-
-## DoF DSS - Northern Ireland Digital Public Networking Infrastructure (NIDPNI) - Preliminary Market Engagement
-- Source: UK Find a Tender
-- Buyer: Department of Finance
-- Deadline: None
-
-## Risk Management System
-- Source: UK Find a Tender
-- Buyer: The Community Housing Group Ltd
-- Deadline: None
-
-## AI Growth Zone Programme Delivery for Ecosystem Profile and Coordination
-- Source: UK Find a Tender
-- Buyer: North East Combined Authority
-- Deadline: None
-
-## Retrofit Consultancy
-- Source: UK Find a Tender
-- Buyer: Plymouth Community Homes
-- Deadline: 2026-11-25T12:00:00+00:00
-- Estimated value: 1000000 GBP
-
-## Preliminary Market Engagement: Historical Information Retention and Access Services for Health and Social Care Northern Ireland (HSCNI)
-- Source: UK Find a Tender
-- Buyer: Regional Business Services Organisation Procurement and Logistics Service
-- Deadline: None
-- Estimated value: 1 GBP
-
-## PfH Professional Services and Recruitment Framework PME
-- Source: UK Find a Tender
-- Buyer: Procurement for Housing
-- Deadline: None
-- Estimated value: 60000000.0 GBP
-
-## Chelmsford College Website tender
-- Source: UK Find a Tender
-- Buyer: Chelmsford College
-- Deadline: 2026-11-06T23:59:00Z
-- Estimated value: 50000 GBP
-
-## AI AVATAR (Suffolk Economy)
-- Source: UK Find a Tender
-- Buyer: Suffolk County Council
-- Deadline: 2026-11-26T11:00:00+00:00
-
-## Palladian Academy Trust - Comms & Security Partner
-- Source: UK Find a Tender
-- Buyer: PALLADIAN ACADEMY TRUST
-- Deadline: 2026-11-30T12:00:00Z
-- Estimated value: 500000 GBP
-
-## AI AVATAR (Suffolk Economy)
-- Source: UK Find a Tender
-- Buyer: Suffolk County Council
-- Deadline: 2026-11-26T11:00:00+00:00
-
-## Cloud-based income management software solution
-- Source: UK Find a Tender
-- Buyer: London Borough of Lambeth
-- Deadline: None
-- Estimated value: 1234000 GBP
-
-## Secure Connection Portal
-- Source: UK Find a Tender
-- Buyer: Borough of Telford & Wrekin
-- Deadline: 2026-11-09T12:00:00+00:00
-- Estimated value: 20000 GBP
 
