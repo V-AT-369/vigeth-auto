@@ -1,5 +1,117 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-05T07:12:32.757558+00:00
+Generated: 2026-11-06T07:12:45.293049+00:00
+
+## PRO005166 - ORiW - Design and Integration Partner
+- Source: UK Find a Tender
+- Buyer: United Utilities Water Limited
+- Deadline: 2026-11-30T14:00:00+00:00
+- Estimated value: 600000000 GBP
+
+## Atlas Wide Area Network Services
+- Source: UK Find a Tender
+- Buyer: Foreign, Commonwealth and Development Office
+- Deadline: None
+- Estimated value: 60000000.0 GBP
+
+## Contract for RFID Tracking Solution (iRecord/iFit) Software
+- Source: UK Find a Tender
+- Buyer: Swansea Bay University Health Board
+- Deadline: None
+
+## AT1594 - Selective and Additional Licensing
+- Source: UK Find a Tender
+- Buyer: Luton Council
+- Deadline: 2026-12-04T12:00:00+00:00
+- Estimated value: 3500000.0 GBP
+
+## Systems Integration PME
+- Source: UK Find a Tender
+- Buyer: North East Ambulance Service NHS Foundation Trust
+- Deadline: None
+- Estimated value: 300000.0 GBP
+
+## Machine Translation 
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## Spectrum Licensing Solution
+- Source: UK Find a Tender
+- Buyer: Ofcom
+- Deadline: None
+
+## NEX26/45 Bus Scheduling System 
+- Source: UK Find a Tender
+- Buyer: Tyne and Wear Passenger Transport Executive T/A Nexus
+- Deadline: None
+
+## Corporate Information Audiovisual Asset Management System
+- Source: UK Find a Tender
+- Buyer: Science Museum Group
+- Deadline: None
+- Estimated value: 165000 GBP
+
+## Public Cloud Hosting 2
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Public cloud hosting
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Public Cloud Hosting 1
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 150790007 GBP
+
+## Public Cloud Hosting 1
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 150790007 GBP
+
+## Public Cloud Hosting 2
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Supply and Support of Integrated Workplace Management System
+- Source: UK Find a Tender
+- Buyer: North Ayrshire Council
+- Deadline: 2026-12-07T12:00:00Z
+
+## UK Equities Consolidated Tape Provider
+- Source: UK Find a Tender
+- Buyer: FCA
+- Deadline: 2027-03-18T14:30:00Z
+- Estimated value: 65000000.0 GBP
+
+## Blood Transfusion Laboratory Information System (LIMS)
+- Source: UK Find a Tender
+- Buyer: Great Ormond Street Hospital for Children NHS Foundation Trust
+- Deadline: None
+- Estimated value: 250000.0 GBP
+
+## Video Analytics Capability
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## UK4 - Tender Notice - Improvements to the Lived Experience of Ethnic Minority Staff in Defence and Deliver on the Race Action Plan
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+
+## Provision of Elekta Care OIS Gold Maintenance and Support Services for the MOSAIQ Oncology Information System
+- Source: UK Find a Tender
+- Buyer: Velindre University NHS Trust - Please note NHS Wales Shared Services Partnership (hosted by Velindre University NHS Trust) will manage this procurement on behalf of the contracting authority. Due to having the same identifiers, we're unable to reflect this in the notice options.
+- Deadline: None
 
 ## Gazetteer Management Solution
 - Source: UK Find a Tender
@@ -290,129 +402,4 @@ Generated: 2026-11-05T07:12:32.757558+00:00
 - Source: UK Find a Tender
 - Buyer: Cambridgeshire and Peterborough Combined Authority
 - Deadline: None
-
-## An Online Policies and Procedures service
-- Source: UK Find a Tender
-- Buyer: Lincolnshire County Council
-- Deadline: 2026-11-20T17:00:00Z
-
-## RFI - Provision of a Social Media and Online News Monitoring Solution
-- Source: UK Find a Tender
-- Buyer: Department for Transport
-- Deadline: None
-
-## Revenue Protection Enforcement System (RPES)
-- Source: UK Find a Tender
-- Buyer: Transpennine Trains Limited
-- Deadline: None
-- Estimated value: 10000000.0 GBP
-
-## L26044-T-YHBC- ​Web development, maintenance and hosting
-- Source: UK Find a Tender
-- Buyer: London Luton Airport Operations Limited
-- Deadline: 2026-11-13T12:00:00Z
-
-## Audio visual, digital signage and visitor management system
-- Source: UK Find a Tender
-- Buyer: Liverpool City Region Combined Authority
-- Deadline: 2026-11-18T10:00:00Z
-
-## Invitation to Tender: Cyber Accelerator Programme - Design Partnerships (itt_2888)
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology
-- Deadline: 2026-11-27T11:00:00+00:00
-- Estimated value: 1200000 GBP
-
-## Webinar Invitation: Cyber Accelerator Programme - Design Partnerships
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology
-- Deadline: 2026-11-27T11:00:00+00:00
-- Estimated value: 1200000 GBP
-
-## UK Equities Consolidated Tape Provider
-- Source: UK Find a Tender
-- Buyer: FCA
-- Deadline: 2027-03-18T14:30:00Z
-- Estimated value: 65000000.0 GBP
-
-## Provision of a Multi-Authority Employability, Case Management and Employer Relationship Management Solution: Integrated Management Information System for Employability and Skills across the Edinburgh and South East Scotland City Regional Deal Area
-- Source: UK Find a Tender
-- Buyer: Capital City Partnership
-- Deadline: 2027-01-11T12:00:00Z
-- Estimated value: 1250000 GBP
-
-## DFTc: ESM ServiceNow Implementation Market Engagement
-- Source: UK Find a Tender
-- Buyer: Department for Transport
-- Deadline: None
-- Estimated value: 5000000 GBP
-
-## TfWM Customer Website Replacement
-- Source: UK Find a Tender
-- Buyer: West Midlands Combined Authority
-- Deadline: None
-- Estimated value: 400000 GBP
-
-## IT Data Cabling
-- Source: UK Find a Tender
-- Buyer: City of Bradford Metropolitan District Council
-- Deadline: 2026-11-30T13:00:00Z
-- Estimated value: 500000.0 GBP
-
-## Command and Control Programme (C2P)
-- Source: UK Find a Tender
-- Buyer: Maritime and Coastguard Agency
-- Deadline: None
-- Estimated value: 70000000 GBP
-
-## Palladian Academy Trust - Comms & Security Partner
-- Source: UK Find a Tender
-- Buyer: PALLADIAN ACADEMY TRUST
-- Deadline: 2026-11-30T12:00:00Z
-- Estimated value: 600000 GBP
-
-## Microsoft Licenses and Associated Services
-- Source: UK Find a Tender
-- Buyer: BELIEVE HOUSING LIMITED
-- Deadline: 2026-11-30T12:00:00+00:00
-- Estimated value: 1850000 GBP
-
-## Provision of Penetration Testing Services for the Department for Transport
-- Source: UK Find a Tender
-- Buyer: Department for Transport
-- Deadline: None
-
-## Project Integrator Services Framework
-- Source: UK Find a Tender
-- Buyer: HS1 Ltd (t/a London St. Pancras Highspeed)
-- Deadline: 2027-03-09T12:00:00+00:00
-- Estimated value: 40000000 GBP
-
-## Workforce Solution 2
-- Source: UK Find a Tender
-- Buyer: Government Commercial Agency
-- Deadline: None
-- Estimated value: 20000000000 GBP
-
-## Digital Procurement Tooling Solution - RFI
-- Source: UK Find a Tender
-- Buyer: FCA
-- Deadline: None
-
-## Digital Procurement Tooling Solution - Possible Retender and RFIs
-- Source: UK Find a Tender
-- Buyer: FCA
-- Deadline: None
-
-## Preliminary Market Engagement – Third-Party Risk Management (TPRM) Platform
-- Source: UK Find a Tender
-- Buyer: Development Bank of Wales
-- Deadline: None
-- Estimated value: 1.0 GBP
-
-## UK3 - Culture Toolkit
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: 2027-01-04T23:59:00+00:00
-- Estimated value: 350000 GBP
 
