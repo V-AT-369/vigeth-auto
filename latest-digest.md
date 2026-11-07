@@ -1,5 +1,205 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-06T07:12:45.293049+00:00
+Generated: 2026-11-07T06:26:21.359409+00:00
+
+## Housing Mobile Workforce Management Technology (Totalmobile)
+- Source: UK Find a Tender
+- Buyer: London Borough of Haringey
+- Deadline: None
+
+## Mobile Application and Associated Services
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## Situational Awareness Application 
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## RPA & Intelligent Automation
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## Enterprise Search 
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## Machine Translation
+- Source: UK Find a Tender
+- Buyer: Mayor's Office for Policing and Crime
+- Deadline: None
+
+## Flexible Benefits Platform Solution (including Brokering Service) and Employee Recognition Platform Solution
+- Source: UK Find a Tender
+- Buyer: NATIONAL ENERGY SYSTEM OPERATOR LIMITED
+- Deadline: None
+- Estimated value: 32008465 GBP
+
+## Secure Connection Portal
+- Source: UK Find a Tender
+- Buyer: Borough of Telford & Wrekin
+- Deadline: 2026-11-10T12:00:00+00:00
+- Estimated value: 20000 GBP
+
+## ID 6575748 - DFE – OITFET - Provision, Implementation, and Support of a Case Management System, Customer Portal and Integration with a Public Register
+- Source: UK Find a Tender
+- Buyer: Department for the Economy
+- Deadline: 2026-12-04T15:00:00+00:00
+- Estimated value: 3506954 GBP
+
+## Learning and Development 2
+- Source: UK Find a Tender
+- Buyer: Government Commercial Agency
+- Deadline: None
+- Estimated value: 4000000000 GBP
+
+## Multimedia Storage Replacement
+- Source: UK Find a Tender
+- Buyer: West Yorkshire Fire and Rescue Authority
+- Deadline: 2026-12-01T12:00:00Z
+- Estimated value: 170000 GBP
+
+## NCHA202557- People System
+- Source: UK Find a Tender
+- Buyer: Nottingham Community Housing Association Limited
+- Deadline: None
+- Estimated value: 1450000.0 GBP
+
+## Preliminary Maret Engagement notice for an Asset Management System at The Royal Parks
+- Source: UK Find a Tender
+- Buyer: The Royal Parks Ltd
+- Deadline: None
+
+## Contact Management Project
+- Source: UK Find a Tender
+- Buyer: West Northamptonshire Council
+- Deadline: None
+
+## Project Management and Civil Engineer Support
+- Source: UK Find a Tender
+- Buyer: King's Lynn and West Norfolk Borough Council
+- Deadline: None
+
+## Public cloud hosting
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Public Cloud Hosting 1
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 150790007 GBP
+
+## Public Cloud Hosting 2
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Public cloud hosting
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 881621007 GBP
+
+## Request for Information - ERP Programme Implementation System Integrator
+- Source: UK Find a Tender
+- Buyer: Buckinghamshire Council
+- Deadline: None
+
+## Framework for an Artificial Intelligence (AI) Transformation Partner
+- Source: UK Find a Tender
+- Buyer: Gateshead Borough Council
+- Deadline: 2026-12-07T16:00:00Z
+- Estimated value: 5000000 GBP
+
+## Enterprise Resource Planning
+- Source: UK Find a Tender
+- Buyer: Shropshire Council
+- Deadline: None
+
+## Unified Communications Telephony and Contact Centre
+- Source: UK Find a Tender
+- Buyer: West Northamptonshire Council
+- Deadline: None
+
+## PROC 26-3336 Back-Office Solution for the Police Scotland EV Charging Infrastructure
+- Source: UK Find a Tender
+- Buyer: Scottish Police Authority
+- Deadline: None
+
+## Decision Intelligence Platform (DIP)
+- Source: UK Find a Tender
+- Buyer: Financial Conduct Authority
+- Deadline: None
+
+## Public Sector Construction Consultancy
+- Source: UK Find a Tender
+- Buyer: NHS Shared Business Services Limited
+- Deadline: 2027-03-01T12:00:00Z
+- Estimated value: 2300000000 GBP
+
+## Digital Experience Platform
+- Source: UK Find a Tender
+- Buyer: British Business Bank Plc
+- Deadline: None
+- Estimated value: 3500000.0 GBP
+
+## Electronic Prescription Service
+- Source: UK Find a Tender
+- Buyer: The Rotherham NHS Foundation Trust
+- Deadline: 2026-12-01T12:00:00Z
+- Estimated value: 160000.0 GBP
+
+## Supply of BT Fibre Connectivity
+- Source: UK Find a Tender
+- Buyer: Caerphilly County Borough Council
+- Deadline: None
+
+## Technical Support Services Operational Reference & Encyclopaedic Data
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: 2026-12-11T10:00:00+00:00
+- Estimated value: 7400000 GBP
+
+## Technical Support Services Operational Reference & Encyclopaedic Data
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: 2026-12-11T10:00:00+00:00
+- Estimated value: 7400000 GBP
+
+## Technical Support Services Operational Reference & Encyclopaedic Data-UK1
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: 2026-12-11T10:00:00+00:00
+- Estimated value: 7400000 GBP
+
+## Electoral Management Software (EMS)
+- Source: UK Find a Tender
+- Buyer: The Mayor and Commonalty and Citizens of the City of London
+- Deadline: None
+
+## Registration Services Booking and Management System
+- Source: UK Find a Tender
+- Buyer: Herefordshire Council
+- Deadline: 2026-12-04T12:00:00Z
+- Estimated value: 200000 GBP
+
+## Public Cloud Hosting 1
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 150790007 GBP
+
+## PRO005166 - ORiW - Design and Integration Partner
+- Source: UK Find a Tender
+- Buyer: United Utilities Water Limited
+- Deadline: 2026-11-30T14:00:00+00:00
+- Estimated value: 600000000 GBP
 
 ## PRO005166 - ORiW - Design and Integration Partner
 - Source: UK Find a Tender
@@ -293,113 +493,5 @@ Generated: 2026-11-06T07:12:45.293049+00:00
 ## HMCTS Legacy Archive Recovery and Digitisation
 - Source: UK Find a Tender
 - Buyer: Ministry of Justice
-- Deadline: None
-
-## Network Services Contract
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-- Estimated value: 350000000 GBP
-
-## Accounting Finance Software
-- Source: UK Find a Tender
-- Buyer: Housing Solutions
-- Deadline: None
-
-## Video Analytics Capability
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## World Model for SCAT
-- Source: UK Find a Tender
-- Buyer: Velindre University NHS Trust - : Please note NHS Wales Shared Services Partnership (hosted by Velindre University NHS Trust) will manage this procurement on behalf of the contracting authority. Due to having the same identifiers, we're unable to reflect this in the notice options.
-- Deadline: 2026-11-19T12:00:00+00:00
-- Estimated value: 50000.0 GBP
-
-## LEGO299 End-to-End Reporting, Budgeting, Forecasting and Financial Reporting Solution
-- Source: UK Find a Tender
-- Buyer: The Office for Legal Complaints
-- Deadline: 2026-11-30T16:00:00Z
-- Estimated value: 100000 GBP
-
-## Asset Safety and Compliance (ASC2) - PME
-- Source: UK Find a Tender
-- Buyer: LHC Procurement Group for the Scottish Procurement Alliance (SPA)
-- Deadline: None
-
-## Guided Ultrasound Technology for Suspected Deep Vein Thrombosis (DVT)
-- Source: UK Find a Tender
-- Buyer: Chelsea and Westminster Hospital NHS Foundation Trust
-- Deadline: None
-- Estimated value: 300000.0 GBP
-
-## Data Privacy, Information Governance and Risk Management Platform
-- Source: UK Find a Tender
-- Buyer: Science Museum Group
-- Deadline: None
-- Estimated value: 160000 GBP
-
-## Data Privacy, Information Governance and Risk Management Platform
-- Source: UK Find a Tender
-- Buyer: Science Museum Group
-- Deadline: None
-
-## Integration Technical Operations Assurance & Environment (ITOAE)
-- Source: UK Find a Tender
-- Buyer: East West Rail Company Limited
-- Deadline: None
-- Estimated value: 300000000 GBP
-
-## Video Analytics Capability
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## Client Support Framework (CSF)
-- Source: UK Find a Tender
-- Buyer: East West Rail Company Limited
-- Deadline: None
-- Estimated value: 350000000 GBP
-
-## Public Cloud Hosting AWS
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Public cloud hosting AWS
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Request for Information (RFI) - Auto Translation and Transcription Service
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 600000 GBP
-
-## Public Cloud Hosting AWS
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Public Cloud Hosting - AZURE
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 150790007 GBP
-
-## Public Cloud Hosting - AZURE
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 150790007 GBP
-
-## Regional Data Platform
-- Source: UK Find a Tender
-- Buyer: Cambridgeshire and Peterborough Combined Authority
 - Deadline: None
 
