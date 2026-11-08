@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-07T06:26:21.359409+00:00
+Generated: 2026-11-08T06:32:55.053261+00:00
 
 ## Housing Mobile Workforce Management Technology (Totalmobile)
 - Source: UK Find a Tender
