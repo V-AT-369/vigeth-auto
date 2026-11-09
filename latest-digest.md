@@ -1,5 +1,11 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-08T06:32:55.053261+00:00
+Generated: 2026-11-09T07:02:07.722472+00:00
+
+## PS26330 – Enterprise Tenancy Consultancy
+- Source: UK Find a Tender
+- Buyer: UK Research and Innovation
+- Deadline: None
+- Estimated value: 250000 GBP
 
 ## Housing Mobile Workforce Management Technology (Totalmobile)
 - Source: UK Find a Tender
