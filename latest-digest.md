@@ -1,5 +1,135 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-09T07:02:07.722472+00:00
+Generated: 2026-11-10T07:38:52.562590+00:00
+
+## ID 6663135 - DfC - Strategic Partner Contract
+- Source: UK Find a Tender
+- Buyer: Department for Communities
+- Deadline: 2026-12-07T15:00:00+00:00
+- Estimated value: 8000000 GBP
+
+## Third Party Due Diligence Service, Expression of Interest (EOI)
+- Source: UK Find a Tender
+- Buyer: The Electoral Commission
+- Deadline: 2026-12-14T12:00:00Z
+
+## Atlas Wide Area Network Services
+- Source: UK Find a Tender
+- Buyer: Foreign, Commonwealth and Development Office
+- Deadline: None
+- Estimated value: 60000000.0 GBP
+
+## Housing Scheme Digitisation
+- Source: UK Find a Tender
+- Buyer: Chesterfield Borough Council
+- Deadline: None
+
+## External Workforce Resources 
+- Source: UK Find a Tender
+- Buyer: Digital Health & Care Wales
+- Deadline: None
+- Estimated value: 15000000.0 GBP
+
+## RFQ2026/31 - CCTV and Access Control Specialist Consultant Appointment
+- Source: UK Find a Tender
+- Buyer: Newry, Mourne and Down District Council (NMD)
+- Deadline: 2026-12-02T12:00:00Z
+- Estimated value: 20000.0 GBP
+
+## BRCD Contracts for Innovation Challenge 1
+- Source: UK Find a Tender
+- Buyer: Newry Mourne & Down District Council
+- Deadline: 2026-12-11T16:00:00Z
+
+## Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)
+- Source: UK Find a Tender
+- Buyer: NHS Grampian
+- Deadline: None
+
+## Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)
+- Source: UK Find a Tender
+- Buyer: NHS Grampian
+- Deadline: 2026-12-09T12:00:00Z
+
+## REG/G/025/2026 Box Office Ticketing System
+- Source: UK Find a Tender
+- Buyer: Middlesbrough Council
+- Deadline: None
+
+## PS26330 - Enterprise Tenancy Consultancy
+- Source: UK Find a Tender
+- Buyer: UK Research and Innovation
+- Deadline: None
+- Estimated value: 250000 GBP
+
+## Careers Management and Employability Platform
+- Source: UK Find a Tender
+- Buyer: York St John University
+- Deadline: None
+
+## Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)
+- Source: UK Find a Tender
+- Buyer: NHS Grampian
+- Deadline: 2026-12-09T12:00:00Z
+
+## REG/G/013/2026 Planning Software
+- Source: UK Find a Tender
+- Buyer: Middlesbrough Council
+- Deadline: None
+
+## Finance system
+- Source: UK Find a Tender
+- Buyer: East Midlands Combined County Authority
+- Deadline: None
+
+## Consultancy Framework
+- Source: UK Find a Tender
+- Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
+- Deadline: None
+
+## Provision, Support & Maintenance of a Human Resources Payroll System
+- Source: UK Find a Tender
+- Buyer: North East Scotland College
+- Deadline: None
+
+## WPL07329 – HIOW OneEPR Readiness
+- Source: UK Find a Tender
+- Buyer: HAMPSHIRE HOSPITALS NHS FOUNDATION TRUST
+- Deadline: None
+- Estimated value: 1200000 GBP
+
+## Digital development partner and content management system platform implementation
+- Source: UK Find a Tender
+- Buyer: THE UNITED KINGDOM SPORTS COUNCIL
+- Deadline: 2026-12-11T15:00:00Z
+- Estimated value: 258333 GBP
+
+## The Spencer Academy Trusts Microsoft Licensing & Support Services
+- Source: UK Find a Tender
+- Buyer: THE SPENCER ACADEMIES TRUST
+- Deadline: 2026-12-04T13:00:00Z
+- Estimated value: 525000 GBP
+
+## Case Management System
+- Source: UK Find a Tender
+- Buyer: the Education Authority
+- Deadline: None
+- Estimated value: 6000000.0 GBP
+
+## ID 6639812  DoF - IT Assist - Supply of End User Devices, Accessories and Services - Preliminary Market Engagement
+- Source: UK Find a Tender
+- Buyer: Department of Finance/IT Assist
+- Deadline: None
+
+## Board Portal Software
+- Source: UK Find a Tender
+- Buyer: Connexus Homes Limited
+- Deadline: 2026-11-30T12:00:00+00:00
+
+## NENC ICB Clinical Support Information and Pathway Implementation for the North Area Integrated Care Partnership
+- Source: UK Find a Tender
+- Buyer: NHS NORTH EAST AND NORTH CUMBRIA INTEGRATED CARE BOARD
+- Deadline: 2026-12-08T12:00:00Z
+- Estimated value: 1000000 GBP
 
 ## PS26330 – Enterprise Tenancy Consultancy
 - Source: UK Find a Tender
@@ -435,69 +565,4 @@ Generated: 2026-11-09T07:02:07.722472+00:00
 - Source: UK Find a Tender
 - Buyer: Newry Mourne & Down District Council
 - Deadline: 2026-12-11T16:00:00Z
-
-## Microsoft Renewal - Enterprise Subscription Agreement & Server and Cloud Enrolment
-- Source: UK Find a Tender
-- Buyer: Stockport Metropolitan Borough Council
-- Deadline: None
-
-## Contract Management Tool For NEC4 Contracts
-- Source: UK Find a Tender
-- Buyer: Defence Infrastructure Organisation
-- Deadline: None
-
-## On-Bus Technology for the South Yorkshire Franchised Bus Fleet - Preliminary Market Engagement
-- Source: UK Find a Tender
-- Buyer: South Yorkshire Mayoral Combined Authority
-- Deadline: None
-
-## Registrars Diary Management System
-- Source: UK Find a Tender
-- Buyer: Trafford Council
-- Deadline: None
-
-## Supply, Installation and On-Going Maintenance & Support of an Asset Management Solution
-- Source: UK Find a Tender
-- Buyer: Caerphilly County Borough Council
-- Deadline: None
-
-## Satellite-Enabled Heat and Humidity Risk Management for NHS Estates
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology
-- Deadline: None
-- Estimated value: 1200000 GBP
-
-## Supplier Ambient Voice Technology (AVT) Self Certified Registry for the use of AI-Enabled Ambient Scribing Products in Health and Care Settings
-- Source: UK Find a Tender
-- Buyer: NHS ENGLAND
-- Deadline: None
-
-## Virtual Accessibility Tours
-- Source: UK Find a Tender
-- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
-- Deadline: 2026-11-30T23:59:00+00:00
-- Estimated value: 4100000 GBP
-
-## Equals Trust - Provision of ICT Managed Services Stage 1
-- Source: UK Find a Tender
-- Buyer: Equals Trust
-- Deadline: 2027-02-26T12:00:00+00:00
-- Estimated value: 3000000 GBP
-
-## Application Management Services for the Radiological Response and Emergency Management System (RREMS)
-- Source: UK Find a Tender
-- Buyer: Department for Energy Security & Net Zero
-- Deadline: None
-- Estimated value: 27700000 GBP
-
-## Temporary Accommodation Support Services (TAVSS)  for West London Alliance
-- Source: UK Find a Tender
-- Buyer: London Borough of Ealing Council
-- Deadline: None
-- Estimated value: 240000.0 GBP
-
-## HMCTS Legacy Archive Recovery and Digitisation
-- Source: UK Find a Tender
-- Buyer: Ministry of Justice
-- Deadline: None
 
