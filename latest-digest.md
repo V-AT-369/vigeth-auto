@@ -1,5 +1,87 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-10T07:38:52.562590+00:00
+Generated: 2026-11-11T06:57:58.670208+00:00
+
+## CE ICB - WorkWell Initiative Service Procurement
+- Source: UK Find a Tender
+- Buyer: NHS Central East Integrated Care Board
+- Deadline: 2026-12-09T12:00:00Z
+- Estimated value: 2743184.0 GBP
+
+## ICT Solutions Framework
+- Source: UK Find a Tender
+- Buyer: University of Essex
+- Deadline: None
+- Estimated value: 100000000.0 GBP
+
+## Exposure assessment tool (EAT) and additional services
+- Source: UK Find a Tender
+- Buyer: Food Standards Agency
+- Deadline: 2026-12-10T12:00:00Z
+- Estimated value: 125000.0 GBP
+
+## Exposure assessment tool (EAT) and additional services
+- Source: UK Find a Tender
+- Buyer: Food Standards Agency
+- Deadline: 2026-12-10T12:00:00Z
+- Estimated value: 125000.0 GBP
+
+## PHW-FTS-63679 LUNG CANCER SCREENING WALES: COMPUTER-AIDED DETECTION (CAD) & VOLUMETRY SOFTWARE INCLUDING OUTSOURCING SCAN REPORTING
+- Source: UK Find a Tender
+- Buyer: Public Health Wales
+- Deadline: 2026-12-07T12:00:00+00:00
+- Estimated value: 13582525.11 GBP
+
+## Electronic Committee Management System (ECMS).
+- Source: UK Find a Tender
+- Buyer: Caerphilly County Borough Council
+- Deadline: 2026-12-11T12:00:00+00:00
+- Estimated value: 200000.0 GBP
+
+## Third Party Due Diligence Service, Expression of Interest (EOI)
+- Source: UK Find a Tender
+- Buyer: The Electoral Commission
+- Deadline: 2026-12-14T12:00:00Z
+
+## Professional Services Framework 2.0
+- Source: UK Find a Tender
+- Buyer: LONDON & QUADRANT HOUSING TRUST
+- Deadline: None
+- Estimated value: 8000000 GBP
+
+## Professional Services Framework 2.0
+- Source: UK Find a Tender
+- Buyer: LONDON & QUADRANT HOUSING TRUST
+- Deadline: None
+- Estimated value: 8000000 GBP
+
+## Third Party Due Diligence Service, Expression of Interest (EOI)
+- Source: UK Find a Tender
+- Buyer: The Electoral Commission
+- Deadline: 2026-12-14T12:00:00Z
+
+## Lone Worker Monitoring Solution
+- Source: UK Find a Tender
+- Buyer: City & County of Swansea
+- Deadline: 2026-12-08T12:00:00+00:00
+- Estimated value: 35000.0 GBP
+
+## Homes England - Cladding Safety Scheme Service Administrator
+- Source: UK Find a Tender
+- Buyer: Homes England
+- Deadline: None
+- Estimated value: 10000000 GBP
+
+## Homes England - Cladding Safety Scheme Service Administrator
+- Source: UK Find a Tender
+- Buyer: Homes England
+- Deadline: None
+- Estimated value: 10000000 GBP
+
+## P2026-255 - UK Digital Twin Centre - Technology Access Programme (TAP)
+- Source: UK Find a Tender
+- Buyer: Digital Catapult
+- Deadline: 2027-01-29T12:00:00+00:00
+- Estimated value: 160000 GBP
 
 ## ID 6663135 - DfC - Strategic Partner Contract
 - Source: UK Find a Tender
@@ -482,87 +564,4 @@ Generated: 2026-11-10T07:38:52.562590+00:00
 - Source: UK Find a Tender
 - Buyer: CADENT GAS LIMITED
 - Deadline: None
-
-## Penetration Testing
-- Source: UK Find a Tender
-- Buyer: Planning Inspectorate
-- Deadline: None
-
-## EMMS Cyber Security SME Support Programme
-- Source: UK Find a Tender
-- Buyer: Lincolnshire County Council
-- Deadline: 2026-11-18T09:00:00Z
-- Estimated value: 65000.0 GBP
-
-## Digital Connectivity Programme - 1gb Broadband Install and Service Delivery
-- Source: UK Find a Tender
-- Buyer: North Lanarkshire Council
-- Deadline: 2026-12-08T12:00:00Z
-- Estimated value: 85450527 GBP
-
-## The Spencer Academy Trusts Microsoft Licensing & Support Services
-- Source: UK Find a Tender
-- Buyer: THE SPENCER ACADEMIES TRUST
-- Deadline: 2026-11-23T13:00:00Z
-- Estimated value: 525000 GBP
-
-## SONI095 Managed Service - Security Operations Centre
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: None
-- Estimated value: 17600000.0 GBP
-
-## Mayoral Combined Authority Web Services Rewnal
-- Source: UK Find a Tender
-- Buyer: The West of England Combined Authority
-- Deadline: None
-
-## Provision of a Finance Solution and Associated Services to the Northern Ireland Assembly Commission
-- Source: UK Find a Tender
-- Buyer: Northern Ireland Assembly Commission
-- Deadline: 2027-01-29T15:00:00+00:00
-- Estimated value: 1100000.0 GBP
-
-## Chiltern Rail - Performance, Delay & Incident Management System
-- Source: UK Find a Tender
-- Buyer: CHILTERN RAIL LIMITED
-- Deadline: None
-- Estimated value: 1900000 GBP
-
-## UPS Upgrade and Managed Service
-- Source: UK Find a Tender
-- Buyer: Greater Manchester Combined Authority
-- Deadline: None
-
-## Proquest Central Premium
-- Source: UK Find a Tender
-- Buyer: University of Strathclyde
-- Deadline: None
-
-## Application Management Services for the Radiological Response and Emergency Management System (RREMS)
-- Source: UK Find a Tender
-- Buyer: Department for Energy Security & Net Zero
-- Deadline: None
-- Estimated value: 27700000 GBP
-
-## Spectrum Licencing Solution
-- Source: UK Find a Tender
-- Buyer: Ofcom
-- Deadline: None
-
-## Spectrum Licencing Solution
-- Source: UK Find a Tender
-- Buyer: Ofcom
-- Deadline: None
-
-## Mapping and Modelling Framework 3
-- Source: UK Find a Tender
-- Buyer: ENVIRONMENT AGENCY
-- Deadline: None
-- Estimated value: 50000000.0 GBP
-
-## BRCD Contracts for Innovation Challenge 1
-- Source: UK Find a Tender
-- Buyer: Newry Mourne & Down District Council
-- Deadline: 2026-12-11T16:00:00Z
 
