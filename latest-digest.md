@@ -1,5 +1,135 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-11T06:57:58.670208+00:00
+Generated: 2026-11-12T07:33:57.356557+00:00
+
+## Structured Cabling Services
+- Source: UK Find a Tender
+- Buyer: Bournemouth, Christchurch and Poole Council
+- Deadline: 2026-12-10T14:00:00Z
+- Estimated value: 360000 GBP
+
+## STEP Engineering System Partners Procurement
+- Source: UK Find a Tender
+- Buyer: UK Fusion Energy Ltd
+- Deadline: 2027-01-29T17:00:00+00:00
+- Estimated value: 115000000.0 GBP
+
+## 2026 WS3200788718 Software Resellers
+- Source: UK Find a Tender
+- Buyer: Anglian Water Services Limited
+- Deadline: 2026-12-11T23:00:00Z
+- Estimated value: 15000000 GBP
+
+## Provision of Network Services and Equipment
+- Source: UK Find a Tender
+- Buyer: Suffolk County Council
+- Deadline: None
+- Estimated value: 6000000 GBP
+
+## Contact Centre as a Service - Product
+- Source: UK Find a Tender
+- Buyer: STUDENT LOANS COMPANY
+- Deadline: None
+- Estimated value: 7809000 GBP
+
+## Co-Location Lease Re-Procurement
+- Source: UK Find a Tender
+- Buyer: STUDENT LOANS COMPANY
+- Deadline: None
+- Estimated value: 4000000 GBP
+
+## UKRI-6251 Cyber Security – Managed Service and Detection Response & Security Operations Centre service
+- Source: UK Find a Tender
+- Buyer: UK Research & Innovation (UKRI)
+- Deadline: None
+- Estimated value: 4958333.33 GBP
+
+## Network Managed Service
+- Source: UK Find a Tender
+- Buyer: Corporate Officer of the House of Commons
+- Deadline: None
+
+## AI Triage and Care Navigation: NHS App Programme (PME)
+- Source: UK Find a Tender
+- Buyer: NHS Central East Integrated Care Board
+- Deadline: None
+- Estimated value: 400000.0 GBP
+
+## Waste Management Solution – In Cab Devices
+- Source: UK Find a Tender
+- Buyer: South Lanarkshire Council
+- Deadline: None
+- Estimated value: 555000 GBP
+
+## PHW-FTS-63679 LUNG CANCER SCREENING WALES: COMPUTER-AIDED DETECTION (CAD) & VOLUMETRY SOFTWARE INCLUDING OUTSOURCING SCAN REPORTING
+- Source: UK Find a Tender
+- Buyer: Public Health Wales
+- Deadline: 2026-12-07T12:00:00+00:00
+- Estimated value: 13582525.11 GBP
+
+## Capital Projects Multidisciplinary Consultancy Services Framework Agreement
+- Source: UK Find a Tender
+- Buyer: The Crown Estate
+- Deadline: 2026-12-15T17:00:00+00:00
+- Estimated value: 64800000 GBP
+
+## PME for Tissue and Cell Management System
+- Source: UK Find a Tender
+- Buyer: King's College Hospital NHS Foundation Trust
+- Deadline: None
+- Estimated value: 375000.0 GBP
+
+## Strategy 2030 Delivery Partners Framework
+- Source: UK Find a Tender
+- Buyer: THE ROYAL ACADEMY OF ENGINEERING
+- Deadline: None
+- Estimated value: 300000 GBP
+
+## Capital Projects Multidisciplinary Consultancy Services Framework Agreement
+- Source: UK Find a Tender
+- Buyer: The Crown Estate
+- Deadline: 2027-03-19T17:00:00+00:00
+- Estimated value: 64800000 GBP
+
+## The Crown Estate (TCE) is seeking to establish a multi-supplier Capital Projects...
+- Source: UK Find a Tender
+- Buyer: The Crown Estate
+- Deadline: 2027-03-19T17:00:00+00:00
+
+## Smarter Digital Access Programme
+- Source: UK Find a Tender
+- Buyer: FCA
+- Deadline: None
+- Estimated value: 650000000.0 GBP
+
+## Smarter Digital Access Programme
+- Source: UK Find a Tender
+- Buyer: FCA
+- Deadline: None
+- Estimated value: 650000000.0 GBP
+
+## BFI Player Motion Design System and Brand Toolkit
+- Source: UK Find a Tender
+- Buyer: British Film Institute
+- Deadline: 2026-12-07T12:00:00+00:00
+- Estimated value: 35000.0 GBP
+
+## BFI Player Motion Design System and Brand Toolkit
+- Source: UK Find a Tender
+- Buyer: British Film Institute
+- Deadline: 2026-12-07T12:00:00+00:00
+- Estimated value: 35000.0 GBP
+
+## ITT - Creative Content Exchange - UID 392
+- Source: UK Find a Tender
+- Buyer: Historic England
+- Deadline: 2026-12-04T09:30:00+00:00
+- Estimated value: 69000 GBP
+
+## Atlas Wide Area Network Services
+- Source: UK Find a Tender
+- Buyer: Foreign, Commonwealth and Development Office
+- Deadline: None
+- Estimated value: 60000000.0 GBP
 
 ## CE ICB - WorkWell Initiative Service Procurement
 - Source: UK Find a Tender
@@ -503,65 +633,4 @@ Generated: 2026-11-11T06:57:58.670208+00:00
 - Source: UK Find a Tender
 - Buyer: North Ayrshire Council
 - Deadline: 2026-12-07T12:00:00Z
-
-## UK Equities Consolidated Tape Provider
-- Source: UK Find a Tender
-- Buyer: FCA
-- Deadline: 2027-03-18T14:30:00Z
-- Estimated value: 65000000.0 GBP
-
-## Blood Transfusion Laboratory Information System (LIMS)
-- Source: UK Find a Tender
-- Buyer: Great Ormond Street Hospital for Children NHS Foundation Trust
-- Deadline: None
-- Estimated value: 250000.0 GBP
-
-## Video Analytics Capability
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## UK4 - Tender Notice - Improvements to the Lived Experience of Ethnic Minority Staff in Defence and Deliver on the Race Action Plan
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: None
-
-## Provision of Elekta Care OIS Gold Maintenance and Support Services for the MOSAIQ Oncology Information System
-- Source: UK Find a Tender
-- Buyer: Velindre University NHS Trust - Please note NHS Wales Shared Services Partnership (hosted by Velindre University NHS Trust) will manage this procurement on behalf of the contracting authority. Due to having the same identifiers, we're unable to reflect this in the notice options.
-- Deadline: None
-
-## Gazetteer Management Solution
-- Source: UK Find a Tender
-- Buyer: CADENT GAS LIMITED
-- Deadline: None
-
-## DWP Estates Data and Systems Integrator Services (Project DASI)
-- Source: UK Find a Tender
-- Buyer: Department for Work & Pensions
-- Deadline: None
-- Estimated value: 56000000.0 GBP
-
-## DWP Estates Data and Systems Integrator Services (Project DASI)
-- Source: UK Find a Tender
-- Buyer: Department for Work & Pensions
-- Deadline: None
-- Estimated value: 56000000.0 GBP
-
-## DWP Estates Data and Systems Integrator Services (Project DASI)
-- Source: UK Find a Tender
-- Buyer: Department for Work & Pensions
-- Deadline: None
-- Estimated value: 56000000.0 GBP
-
-## DWP Estates Data and Systems Integrator Services (Project DASI)
-- Source: UK Find a Tender
-- Buyer: Department for Work & Pensions
-- Deadline: None
-- Estimated value: 56000000.0 GBP
-
-## Gazetteer Management Service
-- Source: UK Find a Tender
-- Buyer: CADENT GAS LIMITED
-- Deadline: None
 
