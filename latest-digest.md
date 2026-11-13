@@ -1,5 +1,98 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-12T07:33:57.356557+00:00
+Generated: 2026-11-13T07:04:59.667721+00:00
+
+## Managed Network Services
+- Source: UK Find a Tender
+- Buyer: Royal Borough of Greenwich
+- Deadline: 2026-12-14T17:00:00Z
+- Estimated value: 16000000 GBP
+
+## SONI090 – Client-Side Advisor
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: 2026-11-20T12:00:00+00:00
+- Estimated value: 6300000.0 GBP
+
+## NHS Scotland National Finance System Software Licence and Support Services Agreement
+- Source: UK Find a Tender
+- Buyer: The Common Services Agency (more commonly known as NHS National Services Scotland) (NSS)
+- Deadline: None
+
+## Technology Solution for Local Price Data Collection
+- Source: UK Find a Tender
+- Buyer: Office for National Statistics
+- Deadline: None
+
+## Provision of MHR People First HR and Payroll Software and Associated Services
+- Source: UK Find a Tender
+- Buyer: Havant and South Downs College
+- Deadline: None
+
+## Power Price Projection Datasets
+- Source: UK Find a Tender
+- Buyer: LOW CARBON CONTRACTS COMPANY LTD
+- Deadline: None
+
+## Equals Trust - Provision of ICT Managed Services Stage 1
+- Source: UK Find a Tender
+- Buyer: Equals Trust
+- Deadline: 2027-02-26T12:00:00+00:00
+- Estimated value: 3000000 GBP
+
+## NEX26/74 (Skills & Learning Review Pre Market Engagement)
+- Source: UK Find a Tender
+- Buyer: Tyne and Wear Passenger Transport Executive T/A Nexus
+- Deadline: None
+
+## Child Digital Health Services
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+- Estimated value: 66968818.0 GBP
+
+## Digital Higher-risk Building Safety Case Software
+- Source: UK Find a Tender
+- Buyer: London Borough of Camden
+- Deadline: None
+
+## SONI090 – Client-Side Advisor
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: 2026-11-20T12:00:00+00:00
+- Estimated value: 6300000.0 GBP
+
+## Customer engagement platform
+- Source: UK Find a Tender
+- Buyer: BROMFORD FLAGSHIP LIVEWEST LIMITED
+- Deadline: None
+- Estimated value: 90000.0 GBP
+
+## Rail Plant Performance System
+- Source: UK Find a Tender
+- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
+- Deadline: None
+- Estimated value: 529000 GBP
+
+## Surrey Spatial Development Strategy (SDS) Digital Platform
+- Source: UK Find a Tender
+- Buyer: Surrey County Council
+- Deadline: None
+
+## Employment support products for JCS
+- Source: UK Find a Tender
+- Buyer: Department for Work & Pensions
+- Deadline: None
+
+## Employment support products for JCS
+- Source: UK Find a Tender
+- Buyer: Department for Work & Pensions
+- Deadline: None
+
+## SONI095 Managed Service - Security Operations Centre
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: None
+- Estimated value: 17600000.0 GBP
 
 ## Structured Cabling Services
 - Source: UK Find a Tender
@@ -496,141 +589,4 @@ Generated: 2026-11-12T07:33:57.356557+00:00
 - Buyer: British Business Bank Plc
 - Deadline: None
 - Estimated value: 3500000.0 GBP
-
-## Electronic Prescription Service
-- Source: UK Find a Tender
-- Buyer: The Rotherham NHS Foundation Trust
-- Deadline: 2026-12-01T12:00:00Z
-- Estimated value: 160000.0 GBP
-
-## Supply of BT Fibre Connectivity
-- Source: UK Find a Tender
-- Buyer: Caerphilly County Borough Council
-- Deadline: None
-
-## Technical Support Services Operational Reference & Encyclopaedic Data
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: 2026-12-11T10:00:00+00:00
-- Estimated value: 7400000 GBP
-
-## Technical Support Services Operational Reference & Encyclopaedic Data
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: 2026-12-11T10:00:00+00:00
-- Estimated value: 7400000 GBP
-
-## Technical Support Services Operational Reference & Encyclopaedic Data-UK1
-- Source: UK Find a Tender
-- Buyer: Ministry of Defence
-- Deadline: 2026-12-11T10:00:00+00:00
-- Estimated value: 7400000 GBP
-
-## Electoral Management Software (EMS)
-- Source: UK Find a Tender
-- Buyer: The Mayor and Commonalty and Citizens of the City of London
-- Deadline: None
-
-## Registration Services Booking and Management System
-- Source: UK Find a Tender
-- Buyer: Herefordshire Council
-- Deadline: 2026-12-04T12:00:00Z
-- Estimated value: 200000 GBP
-
-## Public Cloud Hosting 1
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 150790007 GBP
-
-## PRO005166 - ORiW - Design and Integration Partner
-- Source: UK Find a Tender
-- Buyer: United Utilities Water Limited
-- Deadline: 2026-11-30T14:00:00+00:00
-- Estimated value: 600000000 GBP
-
-## PRO005166 - ORiW - Design and Integration Partner
-- Source: UK Find a Tender
-- Buyer: United Utilities Water Limited
-- Deadline: 2026-11-30T14:00:00+00:00
-- Estimated value: 600000000 GBP
-
-## Atlas Wide Area Network Services
-- Source: UK Find a Tender
-- Buyer: Foreign, Commonwealth and Development Office
-- Deadline: None
-- Estimated value: 60000000.0 GBP
-
-## Contract for RFID Tracking Solution (iRecord/iFit) Software
-- Source: UK Find a Tender
-- Buyer: Swansea Bay University Health Board
-- Deadline: None
-
-## AT1594 - Selective and Additional Licensing
-- Source: UK Find a Tender
-- Buyer: Luton Council
-- Deadline: 2026-12-04T12:00:00+00:00
-- Estimated value: 3500000.0 GBP
-
-## Systems Integration PME
-- Source: UK Find a Tender
-- Buyer: North East Ambulance Service NHS Foundation Trust
-- Deadline: None
-- Estimated value: 300000.0 GBP
-
-## Machine Translation 
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## Spectrum Licensing Solution
-- Source: UK Find a Tender
-- Buyer: Ofcom
-- Deadline: None
-
-## NEX26/45 Bus Scheduling System 
-- Source: UK Find a Tender
-- Buyer: Tyne and Wear Passenger Transport Executive T/A Nexus
-- Deadline: None
-
-## Corporate Information Audiovisual Asset Management System
-- Source: UK Find a Tender
-- Buyer: Science Museum Group
-- Deadline: None
-- Estimated value: 165000 GBP
-
-## Public Cloud Hosting 2
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Public cloud hosting
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Public Cloud Hosting 1
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 150790007 GBP
-
-## Public Cloud Hosting 1
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 150790007 GBP
-
-## Public Cloud Hosting 2
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Supply and Support of Integrated Workplace Management System
-- Source: UK Find a Tender
-- Buyer: North Ayrshire Council
-- Deadline: 2026-12-07T12:00:00Z
 
