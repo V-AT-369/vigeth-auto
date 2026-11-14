@@ -1,5 +1,108 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-13T07:04:59.667721+00:00
+Generated: 2026-11-14T06:54:00.606945+00:00
+
+## Rail Delivery Group - Outboundary Travelcard Revenue Allocation Model
+- Source: UK Find a Tender
+- Buyer: ATOC Limited
+- Deadline: None
+- Estimated value: 1800000 GBP
+
+## T166 - Design, Installation, Commissioning and Maintenance of a Sludge Logging System
+- Source: UK Find a Tender
+- Buyer: Northern Ireland Water
+- Deadline: None
+- Estimated value: 5270000 GBP
+
+## Managed Detection and Response (MDR) Service
+- Source: UK Find a Tender
+- Buyer: THE CAMBRIDGE HOUSING SOCIETY LTD
+- Deadline: 2026-12-09T23:59:00Z
+- Estimated value: 140000 GBP
+
+## Glasgow Business Growth Framework - Phase 4
+- Source: UK Find a Tender
+- Buyer: Glasgow City Council
+- Deadline: 2026-12-15T12:00:00Z
+- Estimated value: 3800000 GBP
+
+## Dynamic Market for Services
+- Source: UK Find a Tender
+- Buyer: PEABODY TRUST
+- Deadline: None
+
+## Liverpool City Council - Capital Projects Professional Services Framework
+- Source: UK Find a Tender
+- Buyer: Liverpool City Council
+- Deadline: None
+- Estimated value: 6000000 GBP
+
+## Cyber Supplier and Third Party Risk Management capability - Market Engagement
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+- Estimated value: 5000000.0 GBP
+
+## NHS Scotland Payroll Services Storage Solution - Additional Spend
+- Source: UK Find a Tender
+- Buyer: The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)
+- Deadline: None
+
+## ID 6841219 - DFC - NMNI - The Provision, Support and Maintenance of a Key Management System
+- Source: UK Find a Tender
+- Buyer: National Museums Northern Ireland (NMNI)
+- Deadline: 2026-12-08T15:00:00+00:00
+- Estimated value: 310000 GBP
+
+## Diagnostic and Capital Equipment and Related Accessories and Services
+- Source: UK Find a Tender
+- Buyer: SUPPLY CHAIN COORDINATION LIMITED
+- Deadline: 2026-12-21T15:00:00+00:00
+- Estimated value: 4325783082.0 GBP
+
+## Health and Social Care Cyber Supplier Assessment Capability – Preliminary Market
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+- Estimated value: 5000000.0 GBP
+
+## Health and Social Care Cyber Supplier Assessment Capability – Preliminary Market
+- Source: UK Find a Tender
+- Buyer: NHS England
+- Deadline: None
+- Estimated value: 5000000.0 GBP
+
+## Operational Technology and Digital Engineering Services
+- Source: UK Find a Tender
+- Buyer: Scottish Water
+- Deadline: None
+
+## 26076 Street Works Co-Ordination and TMC Network Monitoring Platform
+- Source: UK Find a Tender
+- Buyer: Cambridgeshire County Council
+- Deadline: 2026-12-11T12:00:00+00:00
+- Estimated value: 400000 GBP
+
+## Finance System Replacement
+- Source: UK Find a Tender
+- Buyer: Citizen Housing Group Ltd
+- Deadline: None
+
+## Procurement of a 'Local Authority' Legal Case Management System
+- Source: UK Find a Tender
+- Buyer: North Tyneside Borough Council
+- Deadline: 2026-11-16T12:00:00Z
+- Estimated value: 200000 GBP
+
+## Inventory Management System
+- Source: UK Find a Tender
+- Buyer: MHRA
+- Deadline: 2027-05-04T14:00:00+01:00
+
+## Virano - ICT Framework
+- Source: UK Find a Tender
+- Buyer: VIRANO FRAMEWORKS LTD
+- Deadline: 2026-12-15T12:00:00Z
+- Estimated value: 200000000 GBP
 
 ## Managed Network Services
 - Source: UK Find a Tender
@@ -413,180 +516,4 @@ Generated: 2026-11-13T07:04:59.667721+00:00
 - Buyer: THE SPENCER ACADEMIES TRUST
 - Deadline: 2026-12-04T13:00:00Z
 - Estimated value: 525000 GBP
-
-## Case Management System
-- Source: UK Find a Tender
-- Buyer: the Education Authority
-- Deadline: None
-- Estimated value: 6000000.0 GBP
-
-## ID 6639812  DoF - IT Assist - Supply of End User Devices, Accessories and Services - Preliminary Market Engagement
-- Source: UK Find a Tender
-- Buyer: Department of Finance/IT Assist
-- Deadline: None
-
-## Board Portal Software
-- Source: UK Find a Tender
-- Buyer: Connexus Homes Limited
-- Deadline: 2026-11-30T12:00:00+00:00
-
-## NENC ICB Clinical Support Information and Pathway Implementation for the North Area Integrated Care Partnership
-- Source: UK Find a Tender
-- Buyer: NHS NORTH EAST AND NORTH CUMBRIA INTEGRATED CARE BOARD
-- Deadline: 2026-12-08T12:00:00Z
-- Estimated value: 1000000 GBP
-
-## PS26330 – Enterprise Tenancy Consultancy
-- Source: UK Find a Tender
-- Buyer: UK Research and Innovation
-- Deadline: None
-- Estimated value: 250000 GBP
-
-## Housing Mobile Workforce Management Technology (Totalmobile)
-- Source: UK Find a Tender
-- Buyer: London Borough of Haringey
-- Deadline: None
-
-## Mobile Application and Associated Services
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## Situational Awareness Application 
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## RPA & Intelligent Automation
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## Enterprise Search 
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## Machine Translation
-- Source: UK Find a Tender
-- Buyer: Mayor's Office for Policing and Crime
-- Deadline: None
-
-## Flexible Benefits Platform Solution (including Brokering Service) and Employee Recognition Platform Solution
-- Source: UK Find a Tender
-- Buyer: NATIONAL ENERGY SYSTEM OPERATOR LIMITED
-- Deadline: None
-- Estimated value: 32008465 GBP
-
-## Secure Connection Portal
-- Source: UK Find a Tender
-- Buyer: Borough of Telford & Wrekin
-- Deadline: 2026-11-10T12:00:00+00:00
-- Estimated value: 20000 GBP
-
-## ID 6575748 - DFE – OITFET - Provision, Implementation, and Support of a Case Management System, Customer Portal and Integration with a Public Register
-- Source: UK Find a Tender
-- Buyer: Department for the Economy
-- Deadline: 2026-12-04T15:00:00+00:00
-- Estimated value: 3506954 GBP
-
-## Learning and Development 2
-- Source: UK Find a Tender
-- Buyer: Government Commercial Agency
-- Deadline: None
-- Estimated value: 4000000000 GBP
-
-## Multimedia Storage Replacement
-- Source: UK Find a Tender
-- Buyer: West Yorkshire Fire and Rescue Authority
-- Deadline: 2026-12-01T12:00:00Z
-- Estimated value: 170000 GBP
-
-## NCHA202557- People System
-- Source: UK Find a Tender
-- Buyer: Nottingham Community Housing Association Limited
-- Deadline: None
-- Estimated value: 1450000.0 GBP
-
-## Preliminary Maret Engagement notice for an Asset Management System at The Royal Parks
-- Source: UK Find a Tender
-- Buyer: The Royal Parks Ltd
-- Deadline: None
-
-## Contact Management Project
-- Source: UK Find a Tender
-- Buyer: West Northamptonshire Council
-- Deadline: None
-
-## Project Management and Civil Engineer Support
-- Source: UK Find a Tender
-- Buyer: King's Lynn and West Norfolk Borough Council
-- Deadline: None
-
-## Public cloud hosting
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Public Cloud Hosting 1
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 150790007 GBP
-
-## Public Cloud Hosting 2
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Public cloud hosting
-- Source: UK Find a Tender
-- Buyer: Home Office
-- Deadline: None
-- Estimated value: 881621007 GBP
-
-## Request for Information - ERP Programme Implementation System Integrator
-- Source: UK Find a Tender
-- Buyer: Buckinghamshire Council
-- Deadline: None
-
-## Framework for an Artificial Intelligence (AI) Transformation Partner
-- Source: UK Find a Tender
-- Buyer: Gateshead Borough Council
-- Deadline: 2026-12-07T16:00:00Z
-- Estimated value: 5000000 GBP
-
-## Enterprise Resource Planning
-- Source: UK Find a Tender
-- Buyer: Shropshire Council
-- Deadline: None
-
-## Unified Communications Telephony and Contact Centre
-- Source: UK Find a Tender
-- Buyer: West Northamptonshire Council
-- Deadline: None
-
-## PROC 26-3336 Back-Office Solution for the Police Scotland EV Charging Infrastructure
-- Source: UK Find a Tender
-- Buyer: Scottish Police Authority
-- Deadline: None
-
-## Decision Intelligence Platform (DIP)
-- Source: UK Find a Tender
-- Buyer: Financial Conduct Authority
-- Deadline: None
-
-## Public Sector Construction Consultancy
-- Source: UK Find a Tender
-- Buyer: NHS Shared Business Services Limited
-- Deadline: 2027-03-01T12:00:00Z
-- Estimated value: 2300000000 GBP
-
-## Digital Experience Platform
-- Source: UK Find a Tender
-- Buyer: British Business Bank Plc
-- Deadline: None
-- Estimated value: 3500000.0 GBP
 
