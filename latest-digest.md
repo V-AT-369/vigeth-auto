@@ -1,5 +1,5 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-14T06:54:00.606945+00:00
+Generated: 2026-11-15T07:00:04.370467+00:00
 
 ## Rail Delivery Group - Outboundary Travelcard Revenue Allocation Model
 - Source: UK Find a Tender
