@@ -1,5 +1,101 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-16T07:07:46.419177+00:00
+Generated: 2026-11-17T08:20:35.430719+00:00
+
+## DPP2617 - Joint Emergency Services Group (JESG) Emergency Services Network (ESN) Senior Responsible Owner Support Officer
+- Source: UK Find a Tender
+- Buyer: Police and Crime Commissioner for Dyfed-Powys
+- Deadline: 2026-12-07T14:00:00+00:00
+- Estimated value: 144000.0 GBP
+
+## Employee Time Recording System
+- Source: UK Find a Tender
+- Buyer: West Yorkshire Combined Authority
+- Deadline: None
+
+## Technology Access Programme (TAP) - UK Digital Twin Centre
+- Source: UK Find a Tender
+- Buyer: Digital Catapult
+- Deadline: None
+- Estimated value: 160000.0 GBP
+
+## Virano - ICT Framework
+- Source: UK Find a Tender
+- Buyer: VIRANO FRAMEWORKS LTD
+- Deadline: 2026-12-15T12:00:00Z
+- Estimated value: 200000000 GBP
+
+## Secondary Maritime Broadband Solution
+- Source: UK Find a Tender
+- Buyer: Trinity House
+- Deadline: 2026-11-26T12:00:00+00:00
+- Estimated value: 47000.0 GBP
+
+## TVCA Data Platform
+- Source: UK Find a Tender
+- Buyer: Tees Valley Combined Authority
+- Deadline: None
+- Estimated value: 400000 GBP
+
+## Computer Vision Detection
+- Source: UK Find a Tender
+- Buyer: Tees Valley Combined Authority
+- Deadline: None
+- Estimated value: 3000000 GBP
+
+## Provision of a Fuel Finder Service
+- Source: UK Find a Tender
+- Buyer: Department for Energy Security & Net Zero
+- Deadline: None
+- Estimated value: 3000000 GBP
+
+## Digital Analytics Tool
+- Source: UK Find a Tender
+- Buyer: BBC (British Broadcasting Corporation)
+- Deadline: 2026-11-20T14:00:00Z
+
+## Integrated Care Management, Staff/Resource Rostering and Call Management Solution
+- Source: UK Find a Tender
+- Buyer: Denbighshire County Council
+- Deadline: None
+- Estimated value: 1.0 GBP
+
+## Seasonal Payments - Social Program Management - (SPM) Support
+- Source: UK Find a Tender
+- Buyer: Social Security Scotland
+- Deadline: None
+
+## (ITT) Provision of an English, Maths and Optional Digital Skills Initial Assessment Platform
+- Source: UK Find a Tender
+- Buyer: New College Swindon
+- Deadline: 2026-12-14T10:00:00Z
+- Estimated value: 150000.0 GBP
+
+## HR & Payroll Services
+- Source: UK Find a Tender
+- Buyer: Harlow District Council
+- Deadline: None
+
+## Managed Detection and Response (MDR) Service
+- Source: UK Find a Tender
+- Buyer: THE CAMBRIDGE HOUSING SOCIETY LTD
+- Deadline: 2026-12-09T23:59:00Z
+- Estimated value: 140000 GBP
+
+## Civic Centre CCTV
+- Source: UK Find a Tender
+- Buyer: City & County of Swansea
+- Deadline: 2026-12-11T12:00:00+00:00
+- Estimated value: 40000.0 GBP
+
+## Seasonal Payments - Social Program Management - (SPM) Support
+- Source: UK Find a Tender
+- Buyer: Social Security Scotland
+- Deadline: None
+
+## Inventory Management System
+- Source: UK Find a Tender
+- Buyer: MHRA
+- Deadline: None
 
 ## Rail Delivery Group - Outboundary Travelcard Revenue Allocation Model
 - Source: UK Find a Tender
@@ -379,141 +475,4 @@ Generated: 2026-11-16T07:07:46.419177+00:00
 - Buyer: LONDON & QUADRANT HOUSING TRUST
 - Deadline: None
 - Estimated value: 8000000 GBP
-
-## Third Party Due Diligence Service, Expression of Interest (EOI)
-- Source: UK Find a Tender
-- Buyer: The Electoral Commission
-- Deadline: 2026-12-14T12:00:00Z
-
-## Lone Worker Monitoring Solution
-- Source: UK Find a Tender
-- Buyer: City & County of Swansea
-- Deadline: 2026-12-08T12:00:00+00:00
-- Estimated value: 35000.0 GBP
-
-## Homes England - Cladding Safety Scheme Service Administrator
-- Source: UK Find a Tender
-- Buyer: Homes England
-- Deadline: None
-- Estimated value: 10000000 GBP
-
-## Homes England - Cladding Safety Scheme Service Administrator
-- Source: UK Find a Tender
-- Buyer: Homes England
-- Deadline: None
-- Estimated value: 10000000 GBP
-
-## P2026-255 - UK Digital Twin Centre - Technology Access Programme (TAP)
-- Source: UK Find a Tender
-- Buyer: Digital Catapult
-- Deadline: 2027-01-29T12:00:00+00:00
-- Estimated value: 160000 GBP
-
-## ID 6663135 - DfC - Strategic Partner Contract
-- Source: UK Find a Tender
-- Buyer: Department for Communities
-- Deadline: 2026-12-07T15:00:00+00:00
-- Estimated value: 8000000 GBP
-
-## Third Party Due Diligence Service, Expression of Interest (EOI)
-- Source: UK Find a Tender
-- Buyer: The Electoral Commission
-- Deadline: 2026-12-14T12:00:00Z
-
-## Atlas Wide Area Network Services
-- Source: UK Find a Tender
-- Buyer: Foreign, Commonwealth and Development Office
-- Deadline: None
-- Estimated value: 60000000.0 GBP
-
-## Housing Scheme Digitisation
-- Source: UK Find a Tender
-- Buyer: Chesterfield Borough Council
-- Deadline: None
-
-## External Workforce Resources 
-- Source: UK Find a Tender
-- Buyer: Digital Health & Care Wales
-- Deadline: None
-- Estimated value: 15000000.0 GBP
-
-## RFQ2026/31 - CCTV and Access Control Specialist Consultant Appointment
-- Source: UK Find a Tender
-- Buyer: Newry, Mourne and Down District Council (NMD)
-- Deadline: 2026-12-02T12:00:00Z
-- Estimated value: 20000.0 GBP
-
-## BRCD Contracts for Innovation Challenge 1
-- Source: UK Find a Tender
-- Buyer: Newry Mourne & Down District Council
-- Deadline: 2026-12-11T16:00:00Z
-
-## Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)
-- Source: UK Find a Tender
-- Buyer: NHS Grampian
-- Deadline: None
-
-## Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)
-- Source: UK Find a Tender
-- Buyer: NHS Grampian
-- Deadline: 2026-12-09T12:00:00Z
-
-## REG/G/025/2026 Box Office Ticketing System
-- Source: UK Find a Tender
-- Buyer: Middlesbrough Council
-- Deadline: None
-
-## PS26330 - Enterprise Tenancy Consultancy
-- Source: UK Find a Tender
-- Buyer: UK Research and Innovation
-- Deadline: None
-- Estimated value: 250000 GBP
-
-## Careers Management and Employability Platform
-- Source: UK Find a Tender
-- Buyer: York St John University
-- Deadline: None
-
-## Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)
-- Source: UK Find a Tender
-- Buyer: NHS Grampian
-- Deadline: 2026-12-09T12:00:00Z
-
-## REG/G/013/2026 Planning Software
-- Source: UK Find a Tender
-- Buyer: Middlesbrough Council
-- Deadline: None
-
-## Finance system
-- Source: UK Find a Tender
-- Buyer: East Midlands Combined County Authority
-- Deadline: None
-
-## Consultancy Framework
-- Source: UK Find a Tender
-- Buyer: SEC PROCUREMENT LIMITED T/A SOUTH EAST CONSORTIUM
-- Deadline: None
-
-## Provision, Support & Maintenance of a Human Resources Payroll System
-- Source: UK Find a Tender
-- Buyer: North East Scotland College
-- Deadline: None
-
-## WPL07329 – HIOW OneEPR Readiness
-- Source: UK Find a Tender
-- Buyer: HAMPSHIRE HOSPITALS NHS FOUNDATION TRUST
-- Deadline: None
-- Estimated value: 1200000 GBP
-
-## Digital development partner and content management system platform implementation
-- Source: UK Find a Tender
-- Buyer: THE UNITED KINGDOM SPORTS COUNCIL
-- Deadline: 2026-12-11T15:00:00Z
-- Estimated value: 258333 GBP
-
-## The Spencer Academy Trusts Microsoft Licensing & Support Services
-- Source: UK Find a Tender
-- Buyer: THE SPENCER ACADEMIES TRUST
-- Deadline: 2026-12-04T13:00:00Z
-- Estimated value: 525000 GBP
 
