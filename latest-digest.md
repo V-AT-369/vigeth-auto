@@ -1,5 +1,67 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-17T08:20:35.430719+00:00
+Generated: 2026-11-18T07:51:42.181437+00:00
+
+## Global Vessel Data
+- Source: UK Find a Tender
+- Buyer: UK Hydrographic Office
+- Deadline: 2026-11-30T12:00:00+00:00
+- Estimated value: 50000.0 GBP
+
+## SONI090 – Client-Side Advisor
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: 2026-11-25T12:00:00+00:00
+- Estimated value: 6300000.0 GBP
+
+## Poplar HARCA Finance System
+- Source: UK Find a Tender
+- Buyer: Poplar Housing and Regeneration Community Association Limited
+- Deadline: None
+
+## EMMS Cyber Security SME Support Programme
+- Source: UK Find a Tender
+- Buyer: Lincolnshire County Council
+- Deadline: 2026-11-18T09:00:00Z
+- Estimated value: 65000.0 GBP
+
+## RE23090 D - ICT infrastructure Managed Services
+- Source: UK Find a Tender
+- Buyer: London Borough of Ealing
+- Deadline: None
+- Estimated value: 11125000.0 GBP
+
+## Preliminary Market Engagement Demonstration – Redaction Solutions
+- Source: UK Find a Tender
+- Buyer: Manchester City Council
+- Deadline: None
+
+## NHS Essex Preliminary Market Engagement Notice for Online Consultation Provision
+- Source: UK Find a Tender
+- Buyer: NHS ESSEX INTEGRATED CARE BOARD
+- Deadline: None
+
+## Tender 69/2026 - Mentoring Programme  “Empowering Business Through Artificial Intelligence (AI) Awareness”
+- Source: UK Find a Tender
+- Buyer: Newry, Mourne and Down District Council (NMD)
+- Deadline: 2026-12-15T12:00:00Z
+- Estimated value: 90000.0 GBP
+
+## NorTMS External Audit
+- Source: UK Find a Tender
+- Buyer: Transport for the North
+- Deadline: 2026-12-12T23:59:00+00:00
+
+## Greater Cambridge Development Corporation - Digital Planning – Soft Market Testing
+- Source: UK Find a Tender
+- Buyer: Homes England
+- Deadline: None
+- Estimated value: 600000 GBP
+
+## UK2 - Preliminary Market Engagement Notice Template
+- Source: UK Find a Tender
+- Buyer: Ministry of Justice
+- Deadline: None
+- Estimated value: 100000000 GBP
 
 ## DPP2617 - Joint Emergency Services Group (JESG) Emergency Services Network (ESN) Senior Responsible Owner Support Officer
 - Source: UK Find a Tender
@@ -416,63 +478,4 @@ Generated: 2026-11-17T08:20:35.430719+00:00
 - Buyer: Historic England
 - Deadline: 2026-12-04T09:30:00+00:00
 - Estimated value: 69000 GBP
-
-## Atlas Wide Area Network Services
-- Source: UK Find a Tender
-- Buyer: Foreign, Commonwealth and Development Office
-- Deadline: None
-- Estimated value: 60000000.0 GBP
-
-## CE ICB - WorkWell Initiative Service Procurement
-- Source: UK Find a Tender
-- Buyer: NHS Central East Integrated Care Board
-- Deadline: 2026-12-09T12:00:00Z
-- Estimated value: 2743184.0 GBP
-
-## ICT Solutions Framework
-- Source: UK Find a Tender
-- Buyer: University of Essex
-- Deadline: None
-- Estimated value: 100000000.0 GBP
-
-## Exposure assessment tool (EAT) and additional services
-- Source: UK Find a Tender
-- Buyer: Food Standards Agency
-- Deadline: 2026-12-10T12:00:00Z
-- Estimated value: 125000.0 GBP
-
-## Exposure assessment tool (EAT) and additional services
-- Source: UK Find a Tender
-- Buyer: Food Standards Agency
-- Deadline: 2026-12-10T12:00:00Z
-- Estimated value: 125000.0 GBP
-
-## PHW-FTS-63679 LUNG CANCER SCREENING WALES: COMPUTER-AIDED DETECTION (CAD) & VOLUMETRY SOFTWARE INCLUDING OUTSOURCING SCAN REPORTING
-- Source: UK Find a Tender
-- Buyer: Public Health Wales
-- Deadline: 2026-12-07T12:00:00+00:00
-- Estimated value: 13582525.11 GBP
-
-## Electronic Committee Management System (ECMS).
-- Source: UK Find a Tender
-- Buyer: Caerphilly County Borough Council
-- Deadline: 2026-12-11T12:00:00+00:00
-- Estimated value: 200000.0 GBP
-
-## Third Party Due Diligence Service, Expression of Interest (EOI)
-- Source: UK Find a Tender
-- Buyer: The Electoral Commission
-- Deadline: 2026-12-14T12:00:00Z
-
-## Professional Services Framework 2.0
-- Source: UK Find a Tender
-- Buyer: LONDON & QUADRANT HOUSING TRUST
-- Deadline: None
-- Estimated value: 8000000 GBP
-
-## Professional Services Framework 2.0
-- Source: UK Find a Tender
-- Buyer: LONDON & QUADRANT HOUSING TRUST
-- Deadline: None
-- Estimated value: 8000000 GBP
 
