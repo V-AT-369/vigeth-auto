@@ -1,5 +1,65 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-18T07:51:42.181437+00:00
+Generated: 2026-11-19T07:47:19.949058+00:00
+
+## Managed Detection and Response (MDR) Service
+- Source: UK Find a Tender
+- Buyer: THE CAMBRIDGE HOUSING SOCIETY LTD
+- Deadline: 2026-12-09T23:59:00Z
+- Estimated value: 140000 GBP
+
+## Commercial Satellite-Derived Earth Observation Data for the UK Public Sector
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: None
+- Estimated value: 44400000 GBP
+
+## Regenda Group – Finance System Supply, Implementation and Support.
+- Source: UK Find a Tender
+- Buyer: Regenda Limited
+- Deadline: 2027-01-04T17:00:00+00:00
+
+## Website Services
+- Source: UK Find a Tender
+- Buyer: CADENT GAS LIMITED
+- Deadline: None
+
+## Global Vessel Data
+- Source: UK Find a Tender
+- Buyer: UK Hydrographic Office
+- Deadline: 2026-11-30T12:00:00+00:00
+- Estimated value: 50000.0 GBP
+
+## Management Information System (MIS) for the Adult College
+- Source: UK Find a Tender
+- Buyer: London Borough of Barking and Dagenham
+- Deadline: 2026-12-17T12:00:00+00:00
+- Estimated value: 400000 GBP
+
+## INVITATION TO TENDER Trust-wide Site Broadband, SD-WAN, Firewall and Data-center Connectivity Service
+- Source: UK Find a Tender
+- Buyer: ARCHWAY LEARNING TRUST
+- Deadline: None
+
+## NHS Essex Preliminary Market Engagement Notice for Online Consultation Provision
+- Source: UK Find a Tender
+- Buyer: NHS ESSEX INTEGRATED CARE BOARD
+- Deadline: None
+
+## NHS Essex Preliminary Market Engagement Notice for Online Consultation Provision
+- Source: UK Find a Tender
+- Buyer: NHS ESSEX INTEGRATED CARE BOARD
+- Deadline: None
+
+## Poplar HARCA Finance System
+- Source: UK Find a Tender
+- Buyer: Poplar Housing and Regeneration Community Association Limited
+- Deadline: None
+- Estimated value: 600000.0 GBP
+
+## DoF LPS Valuation Delivery Partner Project
+- Source: UK Find a Tender
+- Buyer: Department of Finance, Land and Property Services
+- Deadline: None
 
 ## Global Vessel Data
 - Source: UK Find a Tender
@@ -354,128 +414,4 @@ Generated: 2026-11-18T07:51:42.181437+00:00
 - Buyer: SONI Ltd
 - Deadline: None
 - Estimated value: 17600000.0 GBP
-
-## Structured Cabling Services
-- Source: UK Find a Tender
-- Buyer: Bournemouth, Christchurch and Poole Council
-- Deadline: 2026-12-10T14:00:00Z
-- Estimated value: 360000 GBP
-
-## STEP Engineering System Partners Procurement
-- Source: UK Find a Tender
-- Buyer: UK Fusion Energy Ltd
-- Deadline: 2027-01-29T17:00:00+00:00
-- Estimated value: 115000000.0 GBP
-
-## 2026 WS3200788718 Software Resellers
-- Source: UK Find a Tender
-- Buyer: Anglian Water Services Limited
-- Deadline: 2026-12-11T23:00:00Z
-- Estimated value: 15000000 GBP
-
-## Provision of Network Services and Equipment
-- Source: UK Find a Tender
-- Buyer: Suffolk County Council
-- Deadline: None
-- Estimated value: 6000000 GBP
-
-## Contact Centre as a Service - Product
-- Source: UK Find a Tender
-- Buyer: STUDENT LOANS COMPANY
-- Deadline: None
-- Estimated value: 7809000 GBP
-
-## Co-Location Lease Re-Procurement
-- Source: UK Find a Tender
-- Buyer: STUDENT LOANS COMPANY
-- Deadline: None
-- Estimated value: 4000000 GBP
-
-## UKRI-6251 Cyber Security – Managed Service and Detection Response & Security Operations Centre service
-- Source: UK Find a Tender
-- Buyer: UK Research & Innovation (UKRI)
-- Deadline: None
-- Estimated value: 4958333.33 GBP
-
-## Network Managed Service
-- Source: UK Find a Tender
-- Buyer: Corporate Officer of the House of Commons
-- Deadline: None
-
-## AI Triage and Care Navigation: NHS App Programme (PME)
-- Source: UK Find a Tender
-- Buyer: NHS Central East Integrated Care Board
-- Deadline: None
-- Estimated value: 400000.0 GBP
-
-## Waste Management Solution – In Cab Devices
-- Source: UK Find a Tender
-- Buyer: South Lanarkshire Council
-- Deadline: None
-- Estimated value: 555000 GBP
-
-## PHW-FTS-63679 LUNG CANCER SCREENING WALES: COMPUTER-AIDED DETECTION (CAD) & VOLUMETRY SOFTWARE INCLUDING OUTSOURCING SCAN REPORTING
-- Source: UK Find a Tender
-- Buyer: Public Health Wales
-- Deadline: 2026-12-07T12:00:00+00:00
-- Estimated value: 13582525.11 GBP
-
-## Capital Projects Multidisciplinary Consultancy Services Framework Agreement
-- Source: UK Find a Tender
-- Buyer: The Crown Estate
-- Deadline: 2026-12-15T17:00:00+00:00
-- Estimated value: 64800000 GBP
-
-## PME for Tissue and Cell Management System
-- Source: UK Find a Tender
-- Buyer: King's College Hospital NHS Foundation Trust
-- Deadline: None
-- Estimated value: 375000.0 GBP
-
-## Strategy 2030 Delivery Partners Framework
-- Source: UK Find a Tender
-- Buyer: THE ROYAL ACADEMY OF ENGINEERING
-- Deadline: None
-- Estimated value: 300000 GBP
-
-## Capital Projects Multidisciplinary Consultancy Services Framework Agreement
-- Source: UK Find a Tender
-- Buyer: The Crown Estate
-- Deadline: 2027-03-19T17:00:00+00:00
-- Estimated value: 64800000 GBP
-
-## The Crown Estate (TCE) is seeking to establish a multi-supplier Capital Projects...
-- Source: UK Find a Tender
-- Buyer: The Crown Estate
-- Deadline: 2027-03-19T17:00:00+00:00
-
-## Smarter Digital Access Programme
-- Source: UK Find a Tender
-- Buyer: FCA
-- Deadline: None
-- Estimated value: 650000000.0 GBP
-
-## Smarter Digital Access Programme
-- Source: UK Find a Tender
-- Buyer: FCA
-- Deadline: None
-- Estimated value: 650000000.0 GBP
-
-## BFI Player Motion Design System and Brand Toolkit
-- Source: UK Find a Tender
-- Buyer: British Film Institute
-- Deadline: 2026-12-07T12:00:00+00:00
-- Estimated value: 35000.0 GBP
-
-## BFI Player Motion Design System and Brand Toolkit
-- Source: UK Find a Tender
-- Buyer: British Film Institute
-- Deadline: 2026-12-07T12:00:00+00:00
-- Estimated value: 35000.0 GBP
-
-## ITT - Creative Content Exchange - UID 392
-- Source: UK Find a Tender
-- Buyer: Historic England
-- Deadline: 2026-12-04T09:30:00+00:00
-- Estimated value: 69000 GBP
 
