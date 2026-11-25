@@ -1,5 +1,82 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-24T10:16:31.439360+00:00
+Generated: 2026-11-25T08:59:32.168395+00:00
+
+## Microsoft Fabric implementation and Data Platform
+- Source: UK Find a Tender
+- Buyer: CalMac Ferries Limited
+- Deadline: None
+
+## Spectrum Licensing Solution
+- Source: UK Find a Tender
+- Buyer: Ofcom
+- Deadline: None
+
+## National School of Government and Public Services
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: None
+
+## HAR6214 Victoria Park Lido 
+- Source: UK Find a Tender
+- Buyer: Tower Hamlets
+- Deadline: None
+- Estimated value: 2350000.0 GBP
+
+## Provision of a White Label Jobs Board Solution for WMjobs.co.uk (W198)
+- Source: UK Find a Tender
+- Buyer: West Midlands Employers
+- Deadline: 2026-12-21T12:00:00+00:00
+
+## National School of Government and Public Services
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: None
+
+## National School of Government and Public Services
+- Source: UK Find a Tender
+- Buyer: Cabinet Office
+- Deadline: None
+
+## CSP27042 - Data broker (DPI)
+- Source: UK Find a Tender
+- Buyer: Department for Science, Innovation & Technology
+- Deadline: None
+- Estimated value: 100000 GBP
+
+## Evesham Riverside Regeneration Landmark Residential-led Development Opportunity
+- Source: UK Find a Tender
+- Buyer: Wychavon District Council
+- Deadline: None
+- Estimated value: 38500000 GBP
+
+## HCC - 11/26 - Preliminary Market Engagement for the Provision of Transport, Infrastructure and Planning Services
+- Source: UK Find a Tender
+- Buyer: Hertfordshire County Council
+- Deadline: None
+
+## Managed Cardiac Private Patient Unit (PPU) Services - Preliminary Market Engagement
+- Source: UK Find a Tender
+- Buyer: Mid and South Essex NHS Foundation Trust
+- Deadline: None
+- Estimated value: 0.01 GBP
+
+## Provision of Leadership Learning Platform
+- Source: UK Find a Tender
+- Buyer: COLLEGE OF POLICING LIMITED
+- Deadline: None
+- Estimated value: 1041666 GBP
+
+## Hydraulic Modelling Tooling - Market Engagement
+- Source: UK Find a Tender
+- Buyer: Anglian Water Services Limited
+- Deadline: None
+- Estimated value: 1500000 GBP
+
+## Hydraulic Modelling Tooling - Market Engagement
+- Source: UK Find a Tender
+- Buyer: Anglian Water Services Limited
+- Deadline: None
+- Estimated value: 1500000 GBP
 
 ## Data Archiving & Storage
 - Source: UK Find a Tender
@@ -342,87 +419,4 @@ Generated: 2026-11-24T10:16:31.439360+00:00
 - Source: UK Find a Tender
 - Buyer: CADENT GAS LIMITED
 - Deadline: None
-
-## Global Vessel Data
-- Source: UK Find a Tender
-- Buyer: UK Hydrographic Office
-- Deadline: 2026-11-30T12:00:00+00:00
-- Estimated value: 50000.0 GBP
-
-## Management Information System (MIS) for the Adult College
-- Source: UK Find a Tender
-- Buyer: London Borough of Barking and Dagenham
-- Deadline: 2026-12-17T12:00:00+00:00
-- Estimated value: 400000 GBP
-
-## INVITATION TO TENDER Trust-wide Site Broadband, SD-WAN, Firewall and Data-center Connectivity Service
-- Source: UK Find a Tender
-- Buyer: ARCHWAY LEARNING TRUST
-- Deadline: None
-
-## NHS Essex Preliminary Market Engagement Notice for Online Consultation Provision
-- Source: UK Find a Tender
-- Buyer: NHS ESSEX INTEGRATED CARE BOARD
-- Deadline: None
-
-## NHS Essex Preliminary Market Engagement Notice for Online Consultation Provision
-- Source: UK Find a Tender
-- Buyer: NHS ESSEX INTEGRATED CARE BOARD
-- Deadline: None
-
-## Poplar HARCA Finance System
-- Source: UK Find a Tender
-- Buyer: Poplar Housing and Regeneration Community Association Limited
-- Deadline: None
-- Estimated value: 600000.0 GBP
-
-## DoF LPS Valuation Delivery Partner Project
-- Source: UK Find a Tender
-- Buyer: Department of Finance, Land and Property Services
-- Deadline: None
-
-## Global Vessel Data
-- Source: UK Find a Tender
-- Buyer: UK Hydrographic Office
-- Deadline: 2026-11-30T12:00:00+00:00
-- Estimated value: 50000.0 GBP
-
-## SONI090 – Client-Side Advisor
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: 2026-11-25T12:00:00+00:00
-- Estimated value: 6300000.0 GBP
-
-## Poplar HARCA Finance System
-- Source: UK Find a Tender
-- Buyer: Poplar Housing and Regeneration Community Association Limited
-- Deadline: None
-
-## EMMS Cyber Security SME Support Programme
-- Source: UK Find a Tender
-- Buyer: Lincolnshire County Council
-- Deadline: 2026-11-18T09:00:00Z
-- Estimated value: 65000.0 GBP
-
-## RE23090 D - ICT infrastructure Managed Services
-- Source: UK Find a Tender
-- Buyer: London Borough of Ealing
-- Deadline: None
-- Estimated value: 11125000.0 GBP
-
-## Preliminary Market Engagement Demonstration – Redaction Solutions
-- Source: UK Find a Tender
-- Buyer: Manchester City Council
-- Deadline: None
-
-## NHS Essex Preliminary Market Engagement Notice for Online Consultation Provision
-- Source: UK Find a Tender
-- Buyer: NHS ESSEX INTEGRATED CARE BOARD
-- Deadline: None
-
-## Tender 69/2026 - Mentoring Programme  “Empowering Business Through Artificial Intelligence (AI) Awareness”
-- Source: UK Find a Tender
-- Buyer: Newry, Mourne and Down District Council (NMD)
-- Deadline: 2026-12-15T12:00:00Z
-- Estimated value: 90000.0 GBP
 
