@@ -1,5 +1,55 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-25T08:59:32.168395+00:00
+Generated: 2026-11-26T08:46:29.458466+00:00
+
+## Provision of a solution for understanding passenger demand using data and analytics
+- Source: UK Find a Tender
+- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
+- Deadline: 2027-01-04T23:59:00+00:00
+- Estimated value: 8250000 GBP
+
+## SONI095 Managed Service - Security Operations Centre
+- Source: UK Find a Tender
+- Buyer: SONI Ltd
+- Deadline: None
+- Estimated value: 17600000.0 GBP
+
+## Remote Health Monitoring - Interim Contract
+- Source: UK Find a Tender
+- Buyer: The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)
+- Deadline: None
+
+## DHSC: Mental Health of Children and Young People (MHCYP) Survey
+- Source: UK Find a Tender
+- Buyer: Department of Health & Social Care
+- Deadline: None
+
+## Alarm Receiving Centre Call Handling System_
+- Source: UK Find a Tender
+- Buyer: North Hertfordshire District Council
+- Deadline: 2027-01-25T12:00:00+00:00
+- Estimated value: 2000000 GBP
+
+## Network Managed Service
+- Source: UK Find a Tender
+- Buyer: Corporate Officer of the House of Commons
+- Deadline: None
+
+## NNLC816 - Strategic Technology Services Partner
+- Source: UK Find a Tender
+- Buyer: United Kingdom National Nuclear Laboratory
+- Deadline: None
+- Estimated value: 8333333.0 GBP
+
+## Fleet Replacement Consultancy
+- Source: UK Find a Tender
+- Buyer: Transport for Wales Rail Limited (Utility Buyer)
+- Deadline: 2027-01-15T12:00:00+00:00
+- Estimated value: 1500000.0 GBP
+
+## Apprenticeship Management Solution
+- Source: UK Find a Tender
+- Buyer: Birmingham City University
+- Deadline: 2027-01-08T12:00:00Z
 
 ## Microsoft Fabric implementation and Data Platform
 - Source: UK Find a Tender
@@ -345,78 +395,4 @@ Generated: 2026-11-25T08:59:32.168395+00:00
 - Buyer: Department of Health & Social Care
 - Deadline: None
 - Estimated value: 37200000.0 GBP
-
-## Support for Communities Framework 2026-2030
-- Source: UK Find a Tender
-- Buyer: Highlands and Islands Enterprise
-- Deadline: None
-
-## ID 6689974 - DFE - Invest NI - Global Spirits Database
-- Source: UK Find a Tender
-- Buyer: Invest Northern Ireland
-- Deadline: 2026-12-17T15:00:00+00:00
-- Estimated value: 170000 GBP
-
-## Exploration of AI & related technologies in analysis, design & implementation of tax legislation
-- Source: UK Find a Tender
-- Buyer: HM Revenue & Customs
-- Deadline: None
-
-## National Probate Records Centre re-procurement
-- Source: UK Find a Tender
-- Buyer: Ministry of Justice
-- Deadline: None
-- Estimated value: 100000000 GBP
-
-## Substance Use Adult Treatment Service Case Management System
-- Source: UK Find a Tender
-- Buyer: Devon County Council
-- Deadline: None
-- Estimated value: 200000.0 GBP
-
-## ID 6723703 - DOF - EDD - NICS Identity Assurance (NIDA) Solution
-- Source: UK Find a Tender
-- Buyer: CPD - Supplies and Services Division
-- Deadline: 2026-11-27T15:00:00+00:00
-- Estimated value: 5500000 GBP
-
-## SONI090 – Client-Side Advisor
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: 2026-11-25T12:00:00+00:00
-- Estimated value: 6300000.0 GBP
-
-## Audit, Performance, Risk and Policy Management System
-- Source: UK Find a Tender
-- Buyer: Flintshire County Council
-- Deadline: None
-- Estimated value: 1.0 GBP
-
-## National Probate Records Centre re-procurement
-- Source: UK Find a Tender
-- Buyer: Ministry of Justice
-- Deadline: None
-- Estimated value: 100000000 GBP
-
-## Managed Detection and Response (MDR) Service
-- Source: UK Find a Tender
-- Buyer: THE CAMBRIDGE HOUSING SOCIETY LTD
-- Deadline: 2026-12-09T23:59:00Z
-- Estimated value: 140000 GBP
-
-## Commercial Satellite-Derived Earth Observation Data for the UK Public Sector
-- Source: UK Find a Tender
-- Buyer: Department for Science, Innovation & Technology
-- Deadline: None
-- Estimated value: 44400000 GBP
-
-## Regenda Group – Finance System Supply, Implementation and Support.
-- Source: UK Find a Tender
-- Buyer: Regenda Limited
-- Deadline: 2027-01-04T17:00:00+00:00
-
-## Website Services
-- Source: UK Find a Tender
-- Buyer: CADENT GAS LIMITED
-- Deadline: None
 
