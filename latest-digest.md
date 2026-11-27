@@ -1,5 +1,121 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-26T08:46:29.458466+00:00
+Generated: 2026-11-27T08:57:14.414657+00:00
+
+## H&S System
+- Source: UK Find a Tender
+- Buyer: The Community Housing Group Ltd
+- Deadline: None
+
+## Inventory Management System
+- Source: UK Find a Tender
+- Buyer: MHRA
+- Deadline: None
+
+## Estates Data Collection: Technical Quality Management
+- Source: UK Find a Tender
+- Buyer: Department for Education
+- Deadline: None
+- Estimated value: 7000000.0 GBP
+
+## Estates Data Collection: IT
+- Source: UK Find a Tender
+- Buyer: Department for Education
+- Deadline: None
+- Estimated value: 5000000.0 GBP
+
+## Provision of Digital Skills for Technology
+- Source: UK Find a Tender
+- Buyer: Department for Business & Trade
+- Deadline: None
+- Estimated value: 15000000 GBP
+
+## Cambridgeshire on-street Public Access Wi-Fi overlay solution
+- Source: UK Find a Tender
+- Buyer: Cambridgeshire County Council
+- Deadline: None
+
+## IT Asset Disposal Services
+- Source: UK Find a Tender
+- Buyer: Met Office
+- Deadline: None
+
+## Be a Councillor (BaC) partner programme
+- Source: UK Find a Tender
+- Buyer: Improvement and Development Agency for Local Government (IDeA)
+- Deadline: 2026-12-11T12:00:00Z
+- Estimated value: 57000.0 GBP
+
+## Provision of a Cloud Financial Management (FinOps), Artificial Intelligence (AI) Cost Management and Optimisation Platform
+- Source: UK Find a Tender
+- Buyer: Digital Health & Care Wales
+- Deadline: None
+- Estimated value: 200000.0 GBP
+
+## Civica - Data Complaints, DPIAs & Incident  Breach MGMT
+- Source: UK Find a Tender
+- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
+- Deadline: None
+
+## Digital Technology Services Resources Framework
+- Source: UK Find a Tender
+- Buyer: the Education Authority
+- Deadline: None
+- Estimated value: 3000000 GBP
+
+## Preliminary Market Engagement - Corporate Performance Management and Governance, Risk & Compliance System
+- Source: UK Find a Tender
+- Buyer: Plus Dane Housing Limited
+- Deadline: None
+
+## SolarWinds
+- Source: UK Find a Tender
+- Buyer: NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)
+- Deadline: None
+
+## Improving Health data for Violence Prevention
+- Source: UK Find a Tender
+- Buyer: Police and Crime Commissioner for West Midlands
+- Deadline: None
+- Estimated value: 20000 GBP
+
+## Engineering Information Management Systems – Product Lifecycle Management
+- Source: UK Find a Tender
+- Buyer: Transport for London
+- Deadline: None
+
+## The Fosterline Service
+- Source: UK Find a Tender
+- Buyer: Department for Education
+- Deadline: 2027-01-07T12:00:00+00:00
+- Estimated value: 551666.67 GBP
+
+## 715727500 Project VISCOUNT
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+- Estimated value: 7686000 GBP
+
+## GMPF - Cyber Partner
+- Source: UK Find a Tender
+- Buyer: Tameside Metropolitan Borough Council
+- Deadline: None
+
+## Provision of a solution for understanding passenger demand using data and analytics
+- Source: UK Find a Tender
+- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
+- Deadline: 2027-01-04T23:59:00+00:00
+- Estimated value: 8250000 GBP
+
+## CRM platform licences and support – competitive call-off under G-Cloud 15
+- Source: UK Find a Tender
+- Buyer: Waste & Resources Action Programme
+- Deadline: 2027-01-12T23:45:00+00:00
+
+## NNLC816 - Strategic Technology Services Partner
+- Source: UK Find a Tender
+- Buyer: United Kingdom National Nuclear Laboratory
+- Deadline: None
+- Estimated value: 8333333.0 GBP
 
 ## Provision of a solution for understanding passenger demand using data and analytics
 - Source: UK Find a Tender
@@ -303,96 +419,4 @@ Generated: 2026-11-26T08:46:29.458466+00:00
 - Source: UK Find a Tender
 - Buyer: City of Bradford Metropolitan District Council
 - Deadline: None
-
-## Managing Assets Management – Coastal  Northern Ireland tender
-- Source: UK Find a Tender
-- Buyer: The Crown Estate
-- Deadline: 2026-12-15T12:00:00+00:00
-- Estimated value: 330000 GBP
-
-## Recruitment, Reward, and Retention Solutions: Reward
-- Source: UK Find a Tender
-- Buyer: Mid South Essex NHS Foundation Trust
-- Deadline: 2026-12-16T12:00:00+00:00
-- Estimated value: 145000000.0 GBP
-
-## The Tiffin Girls' School - ICT Managed Services
-- Source: UK Find a Tender
-- Buyer: THE TIFFIN GIRLS' SCHOOL
-- Deadline: None
-- Estimated value: 445000 GBP
-
-## PRJ_31300 - WCC Heat Network Software
-- Source: UK Find a Tender
-- Buyer: Westminster City Council
-- Deadline: 2027-01-15T17:00:00+00:00
-- Estimated value: 300000 GBP
-
-## NEPRO Four
-- Source: UK Find a Tender
-- Buyer: The Association of North East Councils Limited (NEPO)
-- Deadline: 2027-01-08T12:00:00Z
-- Estimated value: 6000000000 GBP
-
-## Route Optimisation System
-- Source: UK Find a Tender
-- Buyer: The North Yorkshire Council
-- Deadline: None
-
-## Corporate Information Audiovisual Asset Management System
-- Source: UK Find a Tender
-- Buyer: Science Museum Group
-- Deadline: None
-- Estimated value: 165000 GBP
-
-## mygov Services - Content Management and Personalisation PIN
-- Source: UK Find a Tender
-- Buyer: Scottish Government
-- Deadline: None
-
-## Highways Frameworks for Barnet London Borough Council
-- Source: UK Find a Tender
-- Buyer: London Borough of Barnet
-- Deadline: None
-- Estimated value: 35000000.0 GBP
-
-## Building Management System (BMS)
-- Source: UK Find a Tender
-- Buyer: SOMERSET NHS FOUNDATION TRUST
-- Deadline: 2026-12-16T14:00:00Z
-- Estimated value: 1200000 GBP
-
-## System Rheoli Achosion - Case Management System
-- Source: UK Find a Tender
-- Buyer: Isle of Anglesey County Council
-- Deadline: None
-- Estimated value: 376000.0 GBP
-
-## Corporate Information Audiovisual Asset Management System
-- Source: UK Find a Tender
-- Buyer: Science Museum Group
-- Deadline: None
-- Estimated value: 165000 GBP
-
-## Protective DNS (JNRS) Request for Information
-- Source: UK Find a Tender
-- Buyer: JISC
-- Deadline: None
-
-## Chiltern Rail - Performance, Delay & Incident Management System
-- Source: UK Find a Tender
-- Buyer: CHILTERN RAIL LIMITED
-- Deadline: None
-- Estimated value: 1900000 GBP
-
-## Environmental Services
-- Source: UK Find a Tender
-- Buyer: NETWORK RAIL INFRASTRUCTURE LIMITED
-- Deadline: None
-
-## DHSC: Health Survey for England 2028-31
-- Source: UK Find a Tender
-- Buyer: Department of Health & Social Care
-- Deadline: None
-- Estimated value: 37200000.0 GBP
 
