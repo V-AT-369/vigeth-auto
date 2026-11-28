@@ -1,5 +1,91 @@
 # Vigeth Tenders — IT/Software Services Digest
-Generated: 2026-11-27T08:57:14.414657+00:00
+Generated: 2026-11-28T08:18:06.664574+00:00
+
+## Rostering & Fatigue Management IT Tool
+- Source: UK Find a Tender
+- Buyer: Transport for London
+- Deadline: None
+- Estimated value: 800000 GBP
+
+## Digital Capability Framework
+- Source: UK Find a Tender
+- Buyer: FCA
+- Deadline: None
+- Estimated value: 647371207.05 GBP
+
+## Sterile Services: Track and Trace Software | 7556/27
+- Source: UK Find a Tender
+- Buyer: Guy's and St Thomas' NHS Foundation Trust
+- Deadline: 2027-01-06T12:00:00Z
+- Estimated value: 700000.0 GBP
+
+## Smarter Digital Access Programme
+- Source: UK Find a Tender
+- Buyer: FCA
+- Deadline: None
+- Estimated value: 792371207.0 GBP
+
+## Smarter Digital Access Programme
+- Source: UK Find a Tender
+- Buyer: FCA
+- Deadline: None
+- Estimated value: 792371207.0 GBP
+
+## 589-NYC-RS Offsite Back-up (NYES)
+- Source: UK Find a Tender
+- Buyer: The North Yorkshire Council
+- Deadline: None
+- Estimated value: 180000 GBP
+
+## Healthy Lifestyle Digital Rewards Programme
+- Source: UK Find a Tender
+- Buyer: London Borough of Hounslow
+- Deadline: None
+- Estimated value: 180000 GBP
+
+## Managed Service Provider for IT Infrastructure
+- Source: UK Find a Tender
+- Buyer: NURSING AND MIDWIFERY COUNCIL
+- Deadline: 2027-04-27T23:59:59+01:00
+
+## LCC - Digital Technology Advice (IDTA)
+- Source: UK Find a Tender
+- Buyer: Lincolnshire County Council
+- Deadline: 2027-01-15T17:00:00Z
+- Estimated value: 291666.67 GBP
+
+## Serve Successor
+- Source: UK Find a Tender
+- Buyer: Ministry of Defence
+- Deadline: None
+
+## Student Engagement, Attendance, Support & Case Management
+- Source: UK Find a Tender
+- Buyer: Aston University
+- Deadline: None
+
+## Health and Safety Management Software Platform
+- Source: UK Find a Tender
+- Buyer: British Film Institute
+- Deadline: 2026-12-18T12:00:00+00:00
+
+## Cisco support and subscriptions
+- Source: UK Find a Tender
+- Buyer: Bracknell Forest Borough Council
+- Deadline: 2026-12-24T17:00:00+00:00
+- Estimated value: 119999.2 GBP
+
+## DEC Data Coherence, Delivery and Capability Services
+- Source: UK Find a Tender
+- Buyer: Home Office
+- Deadline: None
+- Estimated value: 8000000 GBP
+
+## Unpaid Carers Self Help Digital AI Platform
+- Source: UK Find a Tender
+- Buyer: Dorset Council
+- Deadline: None
+- Estimated value: 100000 GBP
 
 ## H&S System
 - Source: UK Find a Tender
@@ -323,100 +409,4 @@ Generated: 2026-11-27T08:57:14.414657+00:00
 - Buyer: Crown Prosecution Service
 - Deadline: None
 - Estimated value: 1854630 GBP
-
-## Source to Contract System 2026
-- Source: UK Find a Tender
-- Buyer: GREENSQUAREACCORD LIMITED
-- Deadline: None
-- Estimated value: 166666 GBP
-
-## SONI090 – Client-Side Advisor
-- Source: UK Find a Tender
-- Buyer: SONI Ltd
-- Deadline: 2026-11-25T12:00:00+00:00
-- Estimated value: 6300000.0 GBP
-
-## Customer Feedback Collection, Research & Insight Solution Services
-- Source: UK Find a Tender
-- Buyer: Beyond Housing Limited
-- Deadline: 2027-01-07T12:00:00+00:00
-- Estimated value: 408333.3 GBP
-
-## Learning and Competency Management System
-- Source: UK Find a Tender
-- Buyer: West Mercia Police and Crime Commissioner
-- Deadline: None
-
-## Data Archiving & Storage
-- Source: UK Find a Tender
-- Buyer: NHS Blood and Transplant
-- Deadline: None
-- Estimated value: 1500000.0 GBP
-
-## Data Archiving & Storage
-- Source: UK Find a Tender
-- Buyer: NHS Blood and Transplant
-- Deadline: None
-- Estimated value: 1500000.0 GBP
-
-## Omni-channel Communications Platform
-- Source: UK Find a Tender
-- Buyer: Manchester City Council
-- Deadline: None
-
-## SBU-DCO-102-SP-26
-- Source: UK Find a Tender
-- Buyer: Swansea Bay University Health Board
-- Deadline: None
-
-## Belfast Stories – Story Engine
-- Source: UK Find a Tender
-- Buyer: Belfast City Council
-- Deadline: 2026-11-25T12:00:00+00:00
-- Estimated value: 550000 GBP
-
-## P0402 - Provision of a Risk Management System
-- Source: UK Find a Tender
-- Buyer: Hywel Dda University Health Board
-- Deadline: 2026-12-18T12:00:00+00:00
-- Estimated value: 300000.0 GBP
-
-## Web and App Development, Support and Maintenance
-- Source: UK Find a Tender
-- Buyer: LONDON NORTH EASTERN RAILWAY LIMITED
-- Deadline: None
-
-## Provision of  Personal Safety Solution/Lone Working Devices
-- Source: UK Find a Tender
-- Buyer: Gateshead Borough Council
-- Deadline: None
-
-## Supply Chain Technology Solutions
-- Source: UK Find a Tender
-- Buyer: LONDON & QUADRANT HOUSING TRUST
-- Deadline: None
-- Estimated value: 3900000 GBP
-
-## IT2716 - Oracle Support, Improvement & Transformation Service
-- Source: UK Find a Tender
-- Buyer: Wiltshire Council
-- Deadline: 2027-01-07T12:00:00+00:00
-- Estimated value: 990720.0 GBP
-
-## Buckinghamshire Highways Professional Services Open Framework - Framework 2 of the 3 Complementary Highways Frameworks
-- Source: UK Find a Tender
-- Buyer: Buckinghamshire Council
-- Deadline: None
-- Estimated value: 3282500.0 GBP
-
-## Financial Planning Software
-- Source: UK Find a Tender
-- Buyer: Science Museum Group
-- Deadline: None
-- Estimated value: 500000 GBP
-
-## Enterprise ESRI Licence Agreement
-- Source: UK Find a Tender
-- Buyer: City of Bradford Metropolitan District Council
-- Deadline: None
 
